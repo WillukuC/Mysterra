@@ -1,4 +1,4 @@
 ---
 aliases: Witch Queen, Iggwilv, Natasha, Tasha
-tags: Deity/Greater, Alignment/CN, Deity/Deity_Group/Faeri_Pantheon
+tags: Deity/Level/Greater, Alignment/CN, Deity/Group/Faeri_Pantheon
 ---

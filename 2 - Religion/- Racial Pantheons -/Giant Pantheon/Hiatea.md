@@ -1,4 +1,4 @@
 ---
 aliases: Provider
-tags: Deity/Intermediate, Domain/Light, Alignment/NG, Deity/Deity_Group/Giant_Pantheon
+tags: Deity/Level/Intermediate, Deity/Domain/Light, Alignment/NG, Deity/Group/Giant_Pantheon
 ---

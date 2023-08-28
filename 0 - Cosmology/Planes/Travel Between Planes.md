@@ -1,5 +1,5 @@
 ---
-aliases: Planar Travel, Plane Shift, Travel Between Planes
+aliases: Planar Travel, Plane Shift
 ---
 ## Plane Shift
 The most common way to travel between the planes is via the 7th level spell Plane Shift.
@@ -56,6 +56,10 @@ Travel to the Faeri can be done from the Prime via various methods, which are us
 - Mushroom circles
 - Forest clearings
 - Hollow logs
-<br>Travel to the Faeri is not typically noticed until after the travel has already been done.
+Travel to the Faeri is not typically noticed until after the travel has already been done, since usually the environments around the portal is identical in both the Prime and the Faeri.
 ## The Shadow
-In contrast to travelling from the Prime to the Faeri, travelling from the Prime to the Shadow is usuall
+In contrast to travelling from the Prime to the Faeri, travelling from the Prime to the Shadow is usually done in pitch darkness, such as:
+- Dark caves
+- The basement of an abandoned manor
+- A graveyard at midnight
+Travel to the Shadow, similar to the Faeri, is not typically noticed given the darkness in which the travel is done.

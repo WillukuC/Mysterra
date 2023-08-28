@@ -1,4 +1,4 @@
 ---
 aliases: Disentangler
-tags: Deity/Deity_Group/Dwarven_Pantheon, Deity/Lesser, Alignment/CG, Domain/Nature
+tags: Deity/Group/Dwarven_Pantheon, Deity/Level/Lesser, Alignment/CG, Deity/Domain/Nature
 ---

@@ -1,4 +1,4 @@
 ---
 aliases: Stag King
-tags: Deity/Lesser, Alignment/NE, Deity/Deity_Group/Faeri_Pantheon
+tags: Deity/Level/Lesser, Alignment/NE, Deity/Group/Faeri_Pantheon
 ---

@@ -1,4 +1,4 @@
 ---
 aliases: Dreamweaver
-tags: Deity/Lesser, Domain/Twilight, Domain/Grave, Alignment/N, Deity/Deity_Group/Draconic_Pantheon
+tags: Deity/Level/Lesser, Deity/Domain/Twilight, Deity/Domain/Grave, Alignment/N, Deity/Group/Draconic_Pantheon
 ---

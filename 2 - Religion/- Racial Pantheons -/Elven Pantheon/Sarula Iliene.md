@@ -1,4 +1,4 @@
 ---
 aliases: Sarula, Iliene, Nixie Queen
-tags: Deity/Lesser, Deity/Deity_Group/Elven_Pantheon, Alignment/CG, Domain/Tempest, Domain/Trickery
+tags: Deity/Level/Lesser, Deity/Group/Elven_Pantheon, Alignment/CG, Deity/Domain/Tempest, Deity/Domain/Trickery
 ---

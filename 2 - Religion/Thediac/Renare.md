@@ -1,6 +1,6 @@
 ---
 aliases: Purifier
-tags: Domain/Nature, Alignment/CG, Deity/Greater, Deity/Deity_Group/Thediac
+tags: Deity/Domain/Nature, Alignment/CG, Deity/Level/Greater, Deity/Group/Thediac
 ---
 | Rank | Gender | Alignment |
 |:-:|:-:|:-:|

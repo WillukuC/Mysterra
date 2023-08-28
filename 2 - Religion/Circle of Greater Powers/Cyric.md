@@ -1,4 +1,4 @@
 ---
 aliases: Prince of Lies
-tags: Deity/Greater, Domain/Trickery, Alignment/CE, Deity/Deity_Group/Circle_of_Greater_Powers
+tags: Deity/Level/Greater, Deity/Domain/Trickery, Alignment/CE, Deity/Group/Circle_of_Greater_Powers
 ---

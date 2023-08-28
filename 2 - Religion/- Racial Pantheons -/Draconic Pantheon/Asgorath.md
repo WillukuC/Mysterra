@@ -1,4 +1,4 @@
 ---
 aliases: Ninefold Dragonlord
-tags: Deity/Overdeity, Domain/Knowledge, Alignment/N, Deity/Deity_Group/Draconic_Pantheon
+tags: Deity/Level/Overgod, Deity/Domain/Knowledge, Alignment/N, Deity/Group/Draconic_Pantheon
 ---

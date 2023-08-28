@@ -1,6 +1,6 @@
 ---
 aliases: Trickster
-tags: Domain/Trickery, Alignment/CN, Deity/Greater, Deity/Deity_Group/Thediac
+tags: Deity/Domain/Trickery, Alignment/CN, Deity/Level/Greater, Deity/Group/Thediac
 ---
 | Rank | Gender | Alignment |
 |:-:|:-:|:-:|

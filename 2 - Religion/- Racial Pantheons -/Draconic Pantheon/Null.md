@@ -1,4 +1,4 @@
 ---
 aliases: Reaver
-tags: Deity/Lesser, Domain/Death, Domain/Grave Alignment/LN, Deity/Deity_Group/Draconic_Pantheon
+tags: Deity/Level/Lesser, Deity/Domain/Death, Deity/Domain/Grave Alignment/LN, Deity/Group/Draconic_Pantheon
 ---

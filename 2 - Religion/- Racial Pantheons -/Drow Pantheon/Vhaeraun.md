@@ -1,4 +1,4 @@
 ---
 aliases: Lord of Shadow
-tags: Deity/Deity_Group/Drow_Pantheon, Deity/Lesser, Domain/Trickery, Domain/War, Alignment/CE
+tags: Deity/Group/Drow_Pantheon, Deity/Level/Lesser, Deity/Domain/Trickery, Deity/Domain/War, Alignment/CE
 ---

@@ -1,4 +1,4 @@
 ---
 aliases: Labelas, Enoreth, the Philosopher
-tags: Deity/Intermediate, Deity/Deity_Group/Elven_Pantheon, Alignment/CG, Domain/Arcana, Domain/Knowledge, Domain/Life
+tags: Deity/Level/Intermediate, Deity/Group/Elven_Pantheon, Alignment/CG, Deity/Domain/Arcana, Deity/Domain/Knowledge, Deity/Domain/Life
 ---

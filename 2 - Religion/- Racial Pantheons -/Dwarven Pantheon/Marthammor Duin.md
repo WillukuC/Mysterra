@@ -1,4 +1,4 @@
 ---
 aliases: Watchful Eye
-tags: Deity/Deity_Group/Dwarven_Pantheon, Deity/Lesser, Alignment/NG, Domain/Nature, Domain/Trickery
+tags: Deity/Group/Dwarven_Pantheon, Deity/Level/Lesser, Alignment/NG, Deity/Domain/Nature, Deity/Domain/Trickery
 ---

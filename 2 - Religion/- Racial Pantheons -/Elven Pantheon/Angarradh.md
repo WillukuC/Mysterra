@@ -1,4 +1,4 @@
 ---
 aliases: The One and the Three
-tags: Deity/Greater, Deity/Deity_Group/Elven_Pantheon, Alignment/CG, Domain/Knowledge, Domain/Life, Domain/War, Domain/Peace
+tags: Deity/Level/Greater, Deity/Group/Elven_Pantheon, Alignment/CG, Deity/Domain/Knowledge, Deity/Domain/Life, Deity/Domain/War, Deity/Domain/Peace
 ---

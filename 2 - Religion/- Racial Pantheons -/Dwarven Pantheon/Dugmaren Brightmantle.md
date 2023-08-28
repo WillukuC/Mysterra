@@ -1,4 +1,4 @@
 ---
 aliases: Errant Explorer
-tags: Deity/Deity_Group/Dwarven_Pantheon, Deity/Lesser, Alignment/CG, Domain/Knowledge
+tags: Deity/Group/Dwarven_Pantheon, Deity/Level/Lesser, Alignment/CG, Deity/Domain/Knowledge
 ---

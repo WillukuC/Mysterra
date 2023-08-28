@@ -1,6 +1,6 @@
 ---
 alias: Council of Lumina Thicket
-tags: Deity/Deity_Group
+tags: Deity/Group
 ---
 ## [[Aerinwyn]], Queen of Lumina Thicket
 ## [[Bramblefoot]], the Warren Elder

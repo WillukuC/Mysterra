@@ -1,4 +1,4 @@
 ---
 aliases: Dark Maiden
-tags: Deity/Deity_Group/Drow_Pantheon, Deity/Lesser, Domain/Light, Domain/Nature, Alignment/CG
+tags: Deity/Group/Drow_Pantheon, Deity/Level/Lesser, Deity/Domain/Light, Deity/Domain/Nature, Alignment/CG
 ---

@@ -1,4 +1,4 @@
 ---
 aliases: Crystal Seer
-tags: Deity/Greater, Domain/Knowledge, Alignment/LG, Deity/Deity_Group/Draconic_Pantheon
+tags: Deity/Level/Greater, Deity/Domain/Knowledge, Alignment/LG, Deity/Group/Draconic_Pantheon
 ---

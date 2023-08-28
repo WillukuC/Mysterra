@@ -1,4 +1,4 @@
 ---
 aliases: Elder Eye
-tags: Deity/Deity_Group/Drow_Pantheon, Deity/Greater, Domain/War, Alignment/CE
+tags: Deity/Group/Drow_Pantheon, Deity/Level/Greater, Deity/Domain/War, Alignment/CE
 ---

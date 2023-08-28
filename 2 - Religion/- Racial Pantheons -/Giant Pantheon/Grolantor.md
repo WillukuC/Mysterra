@@ -1,4 +1,4 @@
 ---
 aliases: 
-tags: Deity/Lesser, Domain/War, Domain/Death, Alignment/CE, Deity/Deity_Group/Giant_Pantheon
+tags: Deity/Level/Lesser, Deity/Domain/War, Deity/Domain/Death, Alignment/CE, Deity/Group/Giant_Pantheon
 ---

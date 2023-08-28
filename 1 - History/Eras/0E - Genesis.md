@@ -2,7 +2,7 @@
 aliases: Genesis, 0E
 tag: History/Era
 ---
-Before the beginning, there was [[- Absolute Nothingness -|Absolutely Nothing]], a sea of empty space, devoid of anything and everything.<br>
+Before the beginning, there was [[Absolute Nothingness|Absolutely Nothing]], a sea of empty space, devoid of anything and everything.<br>
 From the Nothingness came a sudden something, a spark. The spark was not known by any name, but it would later come to be known as the [[The All-Maker|All-Maker]].<br>
 The All-Maker roamed the Nothingness, observing its surroundings. There had never been something before, but now it was and would continue to be.<br>
 It ambled for an instant or for an eternity, and then it created the [[- The Multiverse -|multiverse]].<br>
@@ -29,7 +29,7 @@ The Positivity aided in the creation of the [[Plane of Lightning]], [[Plane of S
 These eight planes were to be known as the [[- Quasi-Elemental Planes -|Quasi-Elemental Planes]], tertiary planes between the Elemental and Energetic.<br>
 On the outer edges of the Elemental, a chaotic plane formed in which the elements leaked and lurched, known as the [[Elemental Chaos]]. There was neither shape nor form to the Chaos, and it surrounded the other planes.<br>
 These planes later came to be called the [[- Inner Planes -|Inner Planes]], although for now they were not known by any names at all. <br>
-On the inner edges of the Elemental, something different happened: the [[- The First World -|First World]] was borne from the Elemental Planes, which acted as its building blocks.<br>
+On the inner edges of the Elemental, something different happened: the [[First World|First World]] was borne from the Elemental Planes, which acted as its building blocks.<br>
 They came together to form [[- Crystal Spheres -|Crystal Spheres]] separated by the [[Phlogiston]]. Each Sphere contained worlds of its own, which were in turn separated by [[Wildspace]]. <br>
 The All saw the changing and transforming that the planes were undergoing and created a final plane to bind the Inner Planes together, preventing any more shifting. This plane was the [[Ethereal]], a metaphysical plane that allowed passage from plane to plane.<br>
 With the newfound relative stillness of the Planes, the All-Maker observed them once more for another eternal instant.

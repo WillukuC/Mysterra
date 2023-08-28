@@ -1,4 +1,4 @@
 ---
 aliases: Green Lord
-tags: Deity/Greater, Alignment/NG, Deity/Deity_Group/Faeri_Pantheon, Deity/Deity_Group/Seelie_Court
+tags: Deity/Level/Greater, Alignment/NG, Deity/Group/Faeri_Pantheon, Deity/Group/Seelie_Court
 ---

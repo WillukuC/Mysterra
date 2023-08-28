@@ -1,6 +1,6 @@
 ---
 aliases: Undying
-tags: Domain/Death, Alignment/NE, Deity/Greater, Deity/Deity_Group/Thediac
+tags: Deity/Domain/Death, Alignment/NE, Deity/Level/Greater, Deity/Group/Thediac
 ---
 | Rank | Gender | Alignment |
 |:-:|:-:|:-:|

@@ -1,4 +1,4 @@
 ---
 aliases: Green Changeling, Erevan, Ilesere
-tags: Deity/Intermediate, Deity/Deity_Group/Elven_Pantheon, Alignment/CN, Domain/Trickery
+tags: Deity/Level/Intermediate, Deity/Group/Elven_Pantheon, Alignment/CN, Deity/Domain/Trickery
 ---

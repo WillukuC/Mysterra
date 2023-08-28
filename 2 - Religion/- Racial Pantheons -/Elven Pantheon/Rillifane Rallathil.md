@@ -1,4 +1,4 @@
 ---
 aliases: Leaflord, Rillifane, Rallathil
-tags: Deity/Intermediate, Deity/Deity_Group/Elven_Pantheon, Alignment/CG, Domain/Nature
+tags: Deity/Level/Intermediate, Deity/Group/Elven_Pantheon, Alignment/CG, Deity/Domain/Nature
 ---

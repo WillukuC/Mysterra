@@ -1,4 +1,4 @@
 ---
 aliases: Revenancer
-tags: Deity/Deity_Group/Drow_Pantheon, Deity/Lesser, Domain/Arcana, Domain/Death, Alignment/CE
+tags: Deity/Group/Drow_Pantheon, Deity/Level/Lesser, Deity/Domain/Arcana, Deity/Domain/Death, Alignment/CE
 ---

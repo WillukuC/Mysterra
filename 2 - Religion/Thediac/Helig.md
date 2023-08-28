@@ -1,6 +1,6 @@
 ---
 aliases: Saint
-tags: Domain/Light, Alignment/LG, Deity/Greater, Deity/Deity_Group/Thediac
+tags: Deity/Domain/Light, Alignment/LG, Deity/Level/Greater, Deity/Group/Thediac
 ---
 | Rank | Gender | Alignment |
 |:-:|:-:|:-:|

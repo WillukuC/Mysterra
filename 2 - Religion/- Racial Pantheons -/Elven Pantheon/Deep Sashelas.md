@@ -1,4 +1,4 @@
 ---
 aliases: Sashelas, Deep Prince
-tags: Deity/Intermediate, Deity/Deity_Group/Elven_Pantheon, Alignment/CG, Domain/Knowledge, Domain/Nature, Domain/Tempest
+tags: Deity/Level/Intermediate, Deity/Group/Elven_Pantheon, Alignment/CG, Deity/Domain/Knowledge, Deity/Domain/Nature, Deity/Domain/Tempest
 ---

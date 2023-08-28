@@ -1,4 +1,4 @@
 ---
 aliases: Prince of Stars, Araleth, Letheranil
-tags: Deity/Lesser, Deity/Deity_Group/Elven_Pantheon, Alignment/CG, Domain/Knowledge, Domain/Light
+tags: Deity/Level/Lesser, Deity/Group/Elven_Pantheon, Alignment/CG, Deity/Domain/Knowledge, Deity/Domain/Light
 ---

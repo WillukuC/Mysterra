@@ -1,4 +1,4 @@
 ---
 aliases: Grondrak, Stonecrusher
-tags: Deity/Greater, Domain/War, Alignment/CE, Deity/Deity_Group/Giant_Pantheon
+tags: Deity/Level/Greater, Deity/Domain/War, Alignment/CE, Deity/Group/Giant_Pantheon
 ---

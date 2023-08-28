@@ -1,4 +1,4 @@
 ---
 aliases: Nightsinger
-tags: Deity/Greater, Domain/Death, Domain/Trickery, Alignment/NE, Deity/Deity_Group/Circle_of_Greater_Powers
+tags: Deity/Level/Greater, Deity/Domain/Death, Deity/Domain/Trickery, Alignment/NE, Deity/Group/Circle_of_Greater_Powers
 ---

@@ -1,4 +1,4 @@
 ---
 aliases: Morninglord
-tags: Deity/Greater, Domain/Life, Domain/Light, Alignment/NG, Deity/Deity_Group/Circle_of_Greater_Powers
+tags: Deity/Level/Greater, Deity/Domain/Life, Deity/Domain/Light, Alignment/NG, Deity/Group/Circle_of_Greater_Powers
 ---

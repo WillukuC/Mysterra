@@ -1,4 +1,4 @@
 ---
 aliases: Stonebones, Skoraeus
-tags: Deity/Greater, Domain/Knowledge, Domain/Forge, Alignment/N, Deity/Deity_Group/Giant_Pantheon
+tags: Deity/Level/Greater, Deity/Domain/Knowledge, Deity/Domain/Forge, Alignment/N, Deity/Group/Giant_Pantheon
 ---

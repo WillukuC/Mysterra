@@ -1,4 +1,4 @@
 ---
 aliases: Emberlord
-tags: Deity/Greater, Domain/War, Alignment/LE, Deity/Deity_Group/Giant_Pantheon
+tags: Deity/Level/Greater, Deity/Domain/War, Alignment/LE, Deity/Group/Giant_Pantheon
 ---

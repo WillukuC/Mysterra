@@ -1,4 +1,4 @@
 ---
 aliases: Earthmother
-tags: Deity/Greater, Domain/Life, Alignment/NG, Deity/Deity_Group/Circle_of_Greater_Powers
+tags: Deity/Level/Greater, Deity/Domain/Life, Alignment/NG, Deity/Group/Circle_of_Greater_Powers
 ---

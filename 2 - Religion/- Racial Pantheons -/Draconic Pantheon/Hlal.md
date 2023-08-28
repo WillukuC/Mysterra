@@ -1,4 +1,4 @@
 ---
 aliases: 
-tags: Deity/Lesser, Domain/Trickery, Alignment/CG, Deity/Deity_Group/Draconic_Pantheon
+tags: Deity/Level/Lesser, Deity/Domain/Trickery, Alignment/CG, Deity/Group/Draconic_Pantheon
 ---

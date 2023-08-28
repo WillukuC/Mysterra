@@ -1,4 +1,4 @@
 ---
 aliases: Laughing Dwarf
-tags: Deity/Deity_Group/Dwarven_Pantheon, Deity/Lesser, Alignment/N, Domain/Trickery
+tags: Deity/Group/Dwarven_Pantheon, Deity/Level/Lesser, Alignment/N, Deity/Domain/Trickery
 ---

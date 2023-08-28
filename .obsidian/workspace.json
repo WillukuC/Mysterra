@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cosmology/Planes/- Travel Between Planes -.md",
+                "file": "2 - Religion/Divine Hierarchy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2ad650bece2dc1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,19 +99,6 @@
             }
           },
           {
-            "id": "224a4f4a9d42704f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - Cosmology/Planes/Planes of Existence/- Planes of Existence -.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "64292f3d87c02553",
             "type": "leaf",
             "state": {
@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cosmology/Planes/- Travel Between Planes -.md",
+                "file": "0 - Cosmology/Planes/Travel Between Planes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Deity/Intermediate",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,12 +171,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 202.5
   },
   "right": {
     "id": "18190eb2dee90566",
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Cosmology/Planes/- Travel Between Planes -.md",
+                "file": "Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Cosmology/Planes/- Travel Between Planes -.md",
+                "file": "Religion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -232,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Cosmology/Planes/- Travel Between Planes -.md"
+                "file": "Religion.md"
               }
             }
           },
@@ -249,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,34 +263,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1b00cc94bdc5ae",
+  "active": "d2ad650bece2dc1a",
   "lastOpenFiles": [
-    "0 - Cosmology/Planes/Outer Planes/Lower Planes/The Abyss.md",
-    "4 - Inhabitants/Races/Outsiders/Fiends/Demons/- Demons -.md",
-    "0 - Cosmology/Crystal Spheres/- Crystal Spheres -.md",
-    "0 - Cosmology/Planes/- Travel Between Planes -.md",
-    "0 - Cosmology/Planes/Inner Planes/Ethereal.md",
-    "0 - Cosmology/Planes/Inner Planes/Quasi-Elemental Planes/- Quasi-Elemental Planes -.md",
-    "0 - Cosmology/Planes/Outer Planes/Astral.md",
-    "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/- Council of Lumina Thicket -.md",
-    "2 - Religion/Circle of Greater Powers/Tyr.md",
-    "3 - Geography/Mysterra/2 - The Midlands/Orenia.md",
-    "4 - Inhabitants/Races/Outsiders/Fiends/- Fiends -.md",
-    "4 - Inhabitants/Races/Outsiders/Fiends/Yugoloths/- Yugoloths -.md",
-    "4 - Inhabitants/Races/Outsiders/Fiends/Demons/Obyriths.md",
-    "4 - Inhabitants/Races/Ancient Races/Primordials.md",
-    "1 - History/Eras/1E - Foundation.md",
-    "1 - History/Mystspace Timeline.md",
-    "4 - Inhabitants/Heroes/Player Characters/Fern Lumina.md",
-    "4 - Inhabitants/Heroes/Player Characters/Tsubaki Kurokage.md",
-    "4 - Inhabitants/Heroes/Player Characters/Xarrias Owens.md",
-    "4 - Inhabitants/Heroes/Player Characters/Cynthia Heffield.md",
-    "4 - Inhabitants/Heroes/Player Characters/Jethrolomeu Goodfellow.md",
-    "0 - Cosmology/Planes/Planes of Existence/- The First World -.md",
-    "0 - Cosmology/Planes/Planes of Existence/The Shadow.md",
-    "2 - Religion/Circle of Greater Powers/Sune.md",
-    "0 - Cosmology/Planes/Far Realms.md",
+    "0 - Cosmology/Planes/Outer Planes/The Fugue.md",
+    "Religion.md",
+    "2 - Religion/Divine Hierarchy.md",
+    "0 - Cosmology/Absolute Nothingness.md",
+    "2 - Religion/- Racial Pantheons -/Draconic Pantheon/Asgorath.md",
+    "2 - Religion/- Racial Pantheons -/Drow Pantheon/Lolth.md",
+    "2 - Religion/- Racial Pantheons -/Elven Pantheon/Corellon Larethian.md",
+    "2 - Religion/- Racial Pantheons -/Dwarven Pantheon/Moradin.md",
+    "2 - Religion/- Racial Pantheons -/Giant Pantheon/Annam.md",
+    "2 - Religion/- Multiversal -/The All-Maker.md",
     "0 - Cosmology/Planes/Planes of Existence/- Planes of Existence -.md",
+    "0 - Cosmology/Planes/Travel Between Planes.md",
+    "0 - Cosmology/Planes/- Planes -.md",
+    "0 - Cosmology/Planes/Inner Planes/- Inner Planes -.md",
+    "0 - Cosmology/Phlogiston.md",
+    "0 - Cosmology/- The Multiverse -.md",
+    "0 - Cosmology/Planes/Inner Planes/Elemental Planes/- Elemental Planes -.md",
+    "0 - Cosmology/Planes/Far Realms.md",
+    "0 - Cosmology/Planes/Planes of Existence/First World.md",
+    "0 - Cosmology/Crystal Spheres/- Crystal Spheres -.md",
+    "0 - Cosmology/Planes/Inner Planes/Para-Elemental Planes/- Para-Elemental Planes -.md",
+    "4 - Inhabitants/Creature Types/Fey.md",
+    "4 - Inhabitants/Creature Types/Giants.md",
+    "2 - Religion/Thediac/Forsvar.md",
+    "3 - Geography/Mysterra/2 - The Midlands/Kaltara.md",
+    "2 - Religion/- Racial Pantheons -/Faeri Pantheon/The Prince of Frost.md",
     "1 - History/Eras",
     "1 - History/Timeline",
     "4 - Inhabitants/Races/Outsiders/Fiends/Devils",

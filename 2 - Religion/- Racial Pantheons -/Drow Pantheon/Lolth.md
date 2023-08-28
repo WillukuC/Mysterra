@@ -1,4 +1,4 @@
 ---
 aliases: Mistress of Lies
-tags: Deity/Deity_Group/Drow_Pantheon, Deity/Overdeity, Domain/Trickery, Domain/War, Alignment/CE
+tags: Deity/Group/Drow_Pantheon, Deity/Level/Overgod, Deity/Domain/Trickery, Deity/Domain/War, Alignment/CE
 ---

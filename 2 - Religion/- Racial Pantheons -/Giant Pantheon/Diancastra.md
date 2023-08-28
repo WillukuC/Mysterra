@@ -1,4 +1,4 @@
 ---
 aliases: Mischievous
-tags: Deity/Lesser, Domain/Trickery, Alignment/CG, Deity/Deity_Group/Giant_Pantheon
+tags: Deity/Level/Lesser, Deity/Domain/Trickery, Alignment/CG, Deity/Group/Giant_Pantheon
 ---

@@ -1,4 +1,4 @@
 ---
 aliases: Bearded One
-tags: Deity/Deity_Group/Dwarven_Pantheon, Deity/Lesser, Alignment/CN, Domain/Trickery, Domain/War
+tags: Deity/Group/Dwarven_Pantheon, Deity/Level/Lesser, Alignment/CN, Deity/Domain/Trickery, Deity/Domain/War
 ---

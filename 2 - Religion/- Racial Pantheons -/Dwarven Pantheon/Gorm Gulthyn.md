@@ -1,4 +1,4 @@
 ---
 aliases: Golden Guardian
-tags: Deity/Deity_Group/Dwarven_Pantheon, Deity/Lesser, Alignment/LG, Domain/War
+tags: Deity/Group/Dwarven_Pantheon, Deity/Level/Lesser, Alignment/LG, Deity/Domain/War
 ---

@@ -1,4 +1,4 @@
 ---
 aliases: Bone Mother
-tags: Deity/Greater, Alignment/NE, Deity/Deity_Group/Faeri_Pantheon
+tags: Deity/Level/Greater, Alignment/NE, Deity/Group/Faeri_Pantheon
 ---

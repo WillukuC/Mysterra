@@ -1,4 +1,4 @@
 ---
 aliases: Silent Keeper
-tags: Deity/Deity_Group/Dwarven_Pantheon, Deity/Intermediate, Alignment/N, Domain/Death, Domain/Knowledge
+tags: Deity/Group/Dwarven_Pantheon, Deity/Level/Intermediate, Alignment/N, Deity/Domain/Death, Deity/Domain/Knowledge
 ---

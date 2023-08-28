@@ -1,4 +1,4 @@
 ---
 aliases: Nintra, Siotta, Princess of Shadow and Glass
-tags: Deity/Lesser, Alignment/CE, Deity/Deity_Group/Faeri_Pantheon, Deity/Deity_Group/Unseelie_Court
+tags: Deity/Level/Lesser, Alignment/CE, Deity/Group/Faeri_Pantheon, Deity/Group/Unseelie_Court
 ---

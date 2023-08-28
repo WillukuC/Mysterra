@@ -1,6 +1,6 @@
 ---
 aliases: Nurturer
-tags: Domain/Life, Alignment/LG, Deity/Greater, Deity/Deity_Group/Thediac
+tags: Deity/Domain/Life, Alignment/LG, Deity/Level/Greater, Deity/Group/Thediac
 ---
 | Rank | Gender | Alignment |
 |:-:|:-:|:-:|

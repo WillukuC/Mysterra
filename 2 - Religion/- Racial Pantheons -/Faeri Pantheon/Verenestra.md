@@ -1,4 +1,4 @@
 ---
 aliases: Oak Princess
-tags: Deity/Lesser, Alignment/N, Deity/Deity_Group/Faeri_Pantheon
+tags: Deity/Level/Lesser, Alignment/N, Deity/Group/Faeri_Pantheon
 ---

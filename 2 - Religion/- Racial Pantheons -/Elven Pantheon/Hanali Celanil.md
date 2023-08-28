@@ -1,4 +1,4 @@
 ---
 aliases: Hanali, Celanil, Heart of Gold
-tags: Deity/Intermediate, Deity/Deity_Group/Elven_Pantheon, Alignment/CG, Domain/Life
+tags: Deity/Level/Intermediate, Deity/Group/Elven_Pantheon, Alignment/CG, Deity/Domain/Life
 ---

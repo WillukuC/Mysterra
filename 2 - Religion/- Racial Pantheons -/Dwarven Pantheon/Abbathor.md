@@ -1,4 +1,4 @@
 ---
 aliases: Avaricious
-tags: Deity/Deity_Group/Dwarven_Pantheon, Deity/Lesser, Alignment/NE, Domain/Trickery
+tags: Deity/Group/Dwarven_Pantheon, Deity/Level/Lesser, Alignment/NE, Deity/Domain/Trickery
 ---
