@@ -1,0 +1,4 @@
+---
+aliases: Luckmaiden
+tags: Deity/Deity_Group/Dwarven_Pantheon, Deity/Lesser, Alignment/CG, Domain/War
+---
