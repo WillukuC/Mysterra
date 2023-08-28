@@ -2,7 +2,7 @@
 tags: Plane/Inner, Plane/Transitive
 ---
 
-### Ethereal Curtains
+## Ethereal Curtains
 | Plane                               | Ethereal Curtain |
 | ----------------------------------- | ---------------- |
 | [The Prime](The%20Prime)            | Metallic silver  |

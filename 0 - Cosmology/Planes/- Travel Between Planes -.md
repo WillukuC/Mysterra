@@ -1,9 +1,9 @@
 ---
 aliases: Planar Travel, Plane Shift, Travel Between Planes
 ---
-### Plane Shift
+## Plane Shift
 The most common way to travel between the planes is via the 7th level spell Plane Shift.
-#### Tuning Fork Table
+### Tuning Fork Table
 | Plane                                             | Fork Material | Fork Pitch |
 | ------------------------------------------------- | ------------- | ---------- |
 | [[The Prime]]                                     | Steel         | C          |
@@ -47,15 +47,15 @@ The most common way to travel between the planes is via the 7th level spell Plan
 | [[Ethereal]]                                      | Glass         | B          |
 | [[Astral]]                                        | Quartz        | B          |
 
-### Ethereal Curtain
+## Ethereal Curtain
 Travel between the [[- Inner Planes -|Inner Planes]] and the [[- Planes of Existence -|Planes of Existence]] is possible via the [[Ethereal#Ethereal Curtains|Ethereal Curtains]] of the [[Ethereal|Ethereal Plane]], each of which allow passage to the bordering Planes. 
-### Astral Pool
-Travel between the Outer Planes and the Planes of Existence is possible via the [[Ethereal#Ethereal Curtains|Ethereal Curtains]] of the [[Ethereal|Ethereal Plane]], each of which allow passage to the bordering Planes. 
-### The Faeri
+## Astral Pool
+Travel between the [[- Outer Planes -|Outer Planes]] and the Planes of Existence is possible via the [[Astral#Astral Pools|Astral Pools]] of the [[Astral|Astral Plane]], each of which allow passage to the bordering Planes. 
+## The Faeri
 Travel to the Faeri can be done from the Prime via various methods, which are usually whimsical or sylvan in some sort of way. Some examples can include: 
 - Mushroom circles
 - Forest clearings
 - Hollow logs
 <br>Travel to the Faeri is not typically noticed until after the travel has already been done.
-### The Shadow
+## The Shadow
 In contrast to travelling from the Prime to the Faeri, travelling from the Prime to the Shadow is usuall

@@ -100,7 +100,7 @@ body
     --link-url:                      var(--purple);
 
     --h1-color:                      var(--red);
-    --h2-color:                      var(--yellow);
+    --h2-color:                      var(--orange);
     --h3-color:                      var(--green);
     --h4-color:                      var(--purple);
     --h5-color:                      var(--frost0);
@@ -109,8 +109,8 @@ body
     --text-highlight-bg:             var(--frost1);
     --text-highlight-fg:             var(--dark0);
 
-    --text-accent:                   var(--orange);
-    --text-accent-hover:             var(--frost2);
+    --text-accent:                   var(--frost2);
+    --text-accent-hover:             var(--frost0);
 
     --tag-color:                     var(--frost0);
     --tag-background:                var(--dark2);

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Inhabitants/Races/Outsiders/Fiends/- Fiends -.md",
+                "file": "0 - Cosmology/Planes/- Travel Between Planes -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,19 +86,6 @@
             }
           },
           {
-            "id": "7e239c442ca8583a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - History/Eras/1E - Foundation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "224a4f4a9d42704f",
             "type": "leaf",
             "state": {
@@ -138,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - History/Eras/1E - Foundation.md",
+                "file": "0 - Cosmology/Planes/- Travel Between Planes -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - History/Eras/1E - Foundation.md",
+                "file": "0 - Cosmology/Planes/- Travel Between Planes -.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - History/Eras/1E - Foundation.md"
+                "file": "0 - Cosmology/Planes/- Travel Between Planes -.md"
               }
             }
           },
@@ -261,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,34 +263,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e239c442ca8583a",
+  "active": "dd1b00cc94bdc5ae",
   "lastOpenFiles": [
+    "0 - Cosmology/Planes/Outer Planes/Lower Planes/The Abyss.md",
+    "4 - Inhabitants/Races/Outsiders/Fiends/Demons/- Demons -.md",
+    "0 - Cosmology/Crystal Spheres/- Crystal Spheres -.md",
+    "0 - Cosmology/Planes/- Travel Between Planes -.md",
+    "0 - Cosmology/Planes/Inner Planes/Ethereal.md",
+    "0 - Cosmology/Planes/Inner Planes/Quasi-Elemental Planes/- Quasi-Elemental Planes -.md",
+    "0 - Cosmology/Planes/Outer Planes/Astral.md",
+    "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/- Council of Lumina Thicket -.md",
+    "2 - Religion/Circle of Greater Powers/Tyr.md",
+    "3 - Geography/Mysterra/2 - The Midlands/Orenia.md",
+    "4 - Inhabitants/Races/Outsiders/Fiends/- Fiends -.md",
+    "4 - Inhabitants/Races/Outsiders/Fiends/Yugoloths/- Yugoloths -.md",
+    "4 - Inhabitants/Races/Outsiders/Fiends/Demons/Obyriths.md",
+    "4 - Inhabitants/Races/Ancient Races/Primordials.md",
+    "1 - History/Eras/1E - Foundation.md",
+    "1 - History/Mystspace Timeline.md",
     "4 - Inhabitants/Heroes/Player Characters/Fern Lumina.md",
     "4 - Inhabitants/Heroes/Player Characters/Tsubaki Kurokage.md",
     "4 - Inhabitants/Heroes/Player Characters/Xarrias Owens.md",
     "4 - Inhabitants/Heroes/Player Characters/Cynthia Heffield.md",
     "4 - Inhabitants/Heroes/Player Characters/Jethrolomeu Goodfellow.md",
-    "1 - History/Eras/1E - Foundation.md",
     "0 - Cosmology/Planes/Planes of Existence/- The First World -.md",
     "0 - Cosmology/Planes/Planes of Existence/The Shadow.md",
     "2 - Religion/Circle of Greater Powers/Sune.md",
     "0 - Cosmology/Planes/Far Realms.md",
-    "3 - Geography/Mysterra/2 - The Midlands/Orenia.md",
     "0 - Cosmology/Planes/Planes of Existence/- Planes of Existence -.md",
-    "0 - Cosmology/Planes/- Travel Between Planes -.md",
-    "0 - Cosmology/Planes/Outer Planes/Astral.md",
-    "0 - Cosmology/Planes/Inner Planes/Ethereal.md",
-    "Plane of Mineral.md",
-    "0 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia.md",
-    "0 - Cosmology/Planes/Outer Planes/Limbo.md",
-    "0 - Cosmology/Planes/Outer Planes/The Outlands.md",
-    "0 - Cosmology/Planes/Outer Planes/Mechanus.md",
-    "0 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands.md",
-    "0 - Cosmology/Planes/Outer Planes/Upper Planes/Bytopia.md",
-    "0 - Cosmology/Planes/Outer Planes/Upper Planes/Arcadia.md",
-    "0 - Cosmology/Planes/Outer Planes/Upper Planes/Arborea.md",
-    "0 - Cosmology/Planes/Outer Planes/Upper Planes/Ysgard.md",
-    "0 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium.md",
     "1 - History/Eras",
     "1 - History/Timeline",
     "4 - Inhabitants/Races/Outsiders/Fiends/Devils",

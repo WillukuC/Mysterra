@@ -2,7 +2,7 @@
 tags: Plane/Outer, Plane/Transitive
 ---
 
-### Astral Pools
+## Astral Pools
 | Plane                                                        | Color Pool      |
 | ------------------------------------------------------------ | --------------- |
 | [[The Prime]]                                                | Silver          |

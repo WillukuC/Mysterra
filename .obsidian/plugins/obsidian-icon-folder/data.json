@@ -3,9 +3,15 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasPerson",
+      "FasStar",
+      "FasCalendar",
+      "RiEarthFill",
+      "FasCross"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -15,5 +21,10 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "0 - Cosmology": "FasStar",
+  "1 - History": "FasCalendar",
+  "2 - Religion": "FasCross",
+  "3 - Geography": "RiEarthFill",
+  "4 - Inhabitants": "FasPerson"
 }
