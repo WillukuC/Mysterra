@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: Class/Sorcerer, Alignment/, Race/Fairy
+tags: Class/Sorcerer, Alignment/LG, Race/Fairy
 ---
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|

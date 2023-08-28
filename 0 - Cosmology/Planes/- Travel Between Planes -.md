@@ -48,7 +48,9 @@ The most common way to travel between the planes is via the 7th level spell Plan
 | [[Astral]]                                        | Quartz        | B          |
 
 ### Ethereal Curtain
+Travel between the [[- Inner Planes -|Inner Planes]] and the [[- Planes of Existence -|Planes of Existence]] is possible via the [[Ethereal#Ethereal Curtains|Ethereal Curtains]] of the [[Ethereal|Ethereal Plane]], each of which allow passage to the bordering Planes. 
 ### Astral Pool
+Travel between the Outer Planes and the Planes of Existence is possible via the [[Ethereal#Ethereal Curtains|Ethereal Curtains]] of the [[Ethereal|Ethereal Plane]], each of which allow passage to the bordering Planes. 
 ### The Faeri
 Travel to the Faeri can be done from the Prime via various methods, which are usually whimsical or sylvan in some sort of way. Some examples can include: 
 - Mushroom circles
