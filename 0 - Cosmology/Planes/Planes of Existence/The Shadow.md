@@ -1,4 +1,4 @@
 ---
-aliases: Shadowfell
+aliases: Shadowfell, Shadow
 tags: Plane/Existence
 ---

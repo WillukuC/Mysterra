@@ -707,7 +707,7 @@ function findLastIndex(arr, predicate) {
   return -1;
 }
 var lerp = (a, b2, t) => a + t * (b2 - a);
-var inLerp = (a, b2, v) => (v - a) / (b2 - a);
+var inLerp = (a, b2, v2) => (v2 - a) / (b2 - a);
 var measureTime = (str) => {
   const value = `[April's automatic timelines] - ${str}`;
   console.time(value);
@@ -1257,7 +1257,7 @@ function applyReviver(reviver, obj, key, val) {
 // node_modules/yaml/browser/dist/nodes/toJS.js
 function toJS(value, arg, ctx) {
   if (Array.isArray(value))
-    return value.map((v, i) => toJS(v, String(i), ctx));
+    return value.map((v2, i) => toJS(v2, String(i), ctx));
   if (value && typeof value.toJSON === "function") {
     if (!ctx || !hasAnchor(value))
       return value.toJSON(arg, ctx);
@@ -1494,18 +1494,18 @@ function createNode(value, tagName, ctx) {
 
 // node_modules/yaml/browser/dist/nodes/Collection.js
 function collectionFromPath(schema4, path, value) {
-  let v = value;
+  let v2 = value;
   for (let i = path.length - 1; i >= 0; --i) {
     const k = path[i];
     if (typeof k === "number" && Number.isInteger(k) && k >= 0) {
       const a = [];
-      a[k] = v;
-      v = a;
+      a[k] = v2;
+      v2 = a;
     } else {
-      v = /* @__PURE__ */ new Map([[k, v]]);
+      v2 = /* @__PURE__ */ new Map([[k, v2]]);
     }
   }
-  return createNode(v, void 0, {
+  return createNode(v2, void 0, {
     aliasDuplicateObjects: false,
     keepUndefined: false,
     onAnchor: () => {
@@ -1957,7 +1957,7 @@ ${indent}${body}`;
 function plainString(item, ctx, onComment, onChompKeep) {
   const { type, value } = item;
   const { actualString, implicitKey, indent, indentStep, inFlow } = ctx;
-  if (implicitKey && /[\n[\]{},]/.test(value) || inFlow && /[[\]{},]/.test(value)) {
+  if (implicitKey && value.includes("\n") || inFlow && /[[\]{},]/.test(value)) {
     return quotedString(value, ctx);
   }
   if (!value || /^[\n\t ,[\]{}#&*!|>'"%@`]|^[?-]$|^[?-][ \t]|[\n:][ \t]|[ \t]\n|[\n\t ]#|[\n\t :]$/.test(value)) {
@@ -2331,7 +2331,7 @@ function stringifyKey(key, jsKey, ctx) {
     return "";
   if (typeof jsKey !== "object")
     return String(jsKey);
-  if (isNode(key) && ctx && ctx.doc) {
+  if (isNode(key) && (ctx == null ? void 0 : ctx.doc)) {
     const strCtx = createStringifyContext(ctx.doc, {});
     strCtx.anchors = /* @__PURE__ */ new Set();
     for (const node of ctx.anchors.keys())
@@ -2354,8 +2354,8 @@ function stringifyKey(key, jsKey, ctx) {
 // node_modules/yaml/browser/dist/nodes/Pair.js
 function createPair(key, value, ctx) {
   const k = createNode(key, void 0, ctx);
-  const v = createNode(value, void 0, ctx);
-  return new Pair(k, v);
+  const v2 = createNode(value, void 0, ctx);
+  return new Pair(k, v2);
 }
 var Pair = class _Pair {
   constructor(key, value = null) {
@@ -2471,7 +2471,7 @@ function stringifyFlowCollection({ comment, items }, ctx, { flowChars, itemInden
           comment2 = iv.comment;
         if (iv.commentBefore)
           reqNewline = true;
-      } else if (item.value == null && ik && ik.comment) {
+      } else if (item.value == null && (ik == null ? void 0 : ik.comment)) {
         comment2 = ik.comment;
       }
     }
@@ -3098,8 +3098,9 @@ function createPairs(schema4, iterable, ctx) {
         if (keys.length === 1) {
           key = keys[0];
           value = it[key];
-        } else
-          throw new TypeError(`Expected { key: value } tuple: ${it}`);
+        } else {
+          throw new TypeError(`Expected tuple with one key, not ${keys.length} keys`);
+        }
       } else {
         key = it;
       }
@@ -3740,7 +3741,7 @@ var Document = class _Document {
       value = replacer2.call({ "": value }, "", value);
       _replacer = replacer2;
     } else if (Array.isArray(replacer2)) {
-      const keyToStr = (v) => typeof v === "number" || v instanceof String || v instanceof Number;
+      const keyToStr = (v2) => typeof v2 === "number" || v2 instanceof String || v2 instanceof Number;
       const asStr = replacer2.filter(keyToStr).map(String);
       if (asStr.length > 0)
         replacer2 = replacer2.concat(asStr);
@@ -3776,8 +3777,8 @@ var Document = class _Document {
    */
   createPair(key, value, options = {}) {
     const k = this.createNode(key, null, options);
-    const v = this.createNode(value, null, options);
-    return new Pair(k, v);
+    const v2 = this.createNode(value, null, options);
+    return new Pair(k, v2);
   }
   /**
    * Removes a value from the document.
@@ -7188,7 +7189,7 @@ function applyConditionBasedFormatting(formatedDate, date, { formatting }, apply
 function formatNumberDateToken(datePart, { minLeght, hideSign }) {
   let stringifiedToken = Math.abs(datePart).toString();
   if (minLeght < 0)
-    return stringifiedToken;
+    minLeght = 0;
   while (stringifiedToken.length < minLeght)
     stringifiedToken = "0" + stringifiedToken;
   if (!hideSign && datePart < 0)
@@ -8483,7 +8484,7 @@ var shallowReadonlyHandlers = /* @__PURE__ */ extend(
   }
 );
 var toShallow = (value) => value;
-var getProto = (v) => Reflect.getPrototypeOf(v);
+var getProto = (v2) => Reflect.getPrototypeOf(v2);
 function get(target, key, isReadonly2 = false, isShallow3 = false) {
   target = target["__v_raw"];
   const rawTarget = toRaw(target);
@@ -8908,8 +8909,8 @@ function triggerRefValue(ref2, newVal) {
     }
   }
 }
-function isRef(r2) {
-  return !!(r2 && r2.__v_isRef === true);
+function isRef(r) {
+  return !!(r && r.__v_isRef === true);
 }
 function ref(value) {
   return createRef(value, false);
@@ -10842,7 +10843,7 @@ function doWatch(source, cb, { immediate, deep, flush, onTrack, onTrigger } = EM
     if (cb) {
       const newValue = effect2.run();
       if (deep || forceTrigger || (isMultiSource ? newValue.some(
-        (v, i) => hasChanged(v, oldValue[i])
+        (v2, i) => hasChanged(v2, oldValue[i])
       ) : hasChanged(newValue, oldValue)) || false) {
         if (cleanup) {
           cleanup();
@@ -10946,8 +10947,8 @@ function traverse(value, seen2) {
       traverse(value[i], seen2);
     }
   } else if (isSet(value) || isMap2(value)) {
-    value.forEach((v) => {
-      traverse(v, seen2);
+    value.forEach((v2) => {
+      traverse(v2, seen2);
     });
   } else if (isPlainObject(value)) {
     for (const key in value) {
@@ -12253,7 +12254,7 @@ function useModel(props, name, options) {
     const proxy = ref(props[name]);
     watch(
       () => props[name],
-      (v) => proxy.value = v
+      (v2) => proxy.value = v2
     );
     watch(proxy, (value) => {
       if (value !== props[name]) {
@@ -12485,7 +12486,7 @@ function applyOptions(instance) {
         enumerable: true,
         configurable: true,
         get: () => c.value,
-        set: (v) => c.value = v
+        set: (v2) => c.value = v2
       });
       if (true) {
         checkDuplicateProperties("Computed", key);
@@ -12575,7 +12576,7 @@ function resolveInjections(injectOptions, ctx, checkDuplicateProperties = NOOP) 
         enumerable: true,
         configurable: true,
         get: () => injected.value,
-        set: (v) => injected.value = v
+        set: (v2) => injected.value = v2
       });
     } else {
       ctx[key] = injected;
@@ -12605,7 +12606,7 @@ function createWatcher(raw, ctx, publicThis, key) {
     watch(getter, raw.bind(publicThis));
   } else if (isObject(raw)) {
     if (isArray(raw)) {
-      raw.forEach((r2) => createWatcher(r2, ctx, publicThis, key));
+      raw.forEach((r) => createWatcher(r, ctx, publicThis, key));
     } else {
       const handler = isFunction(raw.handler) ? raw.handler.bind(publicThis) : ctx[raw.handler];
       if (isFunction(handler)) {
@@ -12816,7 +12817,7 @@ function createAppAPI(render26, hydrate2) {
       get config() {
         return context.config;
       },
-      set config(v) {
+      set config(v2) {
         if (true) {
           warn3(
             `app.config cannot be replaced. Modify individual options instead.`
@@ -13491,8 +13492,8 @@ var updateSlots = (instance, children, optimized) => {
 function setRef(rawRef, oldRawRef, parentSuspense, vnode, isUnmount = false) {
   if (isArray(rawRef)) {
     rawRef.forEach(
-      (r2, i) => setRef(
-        r2,
+      (r, i) => setRef(
+        r,
         oldRawRef && (isArray(oldRawRef) ? oldRawRef[i] : oldRawRef),
         parentSuspense,
         vnode,
@@ -15476,7 +15477,7 @@ function traverseStaticChildren(n1, n2, shallow = false) {
 function getSequence(arr) {
   const p2 = arr.slice();
   const result = [0];
-  let i, j2, u, v, c;
+  let i, j2, u, v2, c;
   const len = arr.length;
   for (i = 0; i < len; i++) {
     const arrI = arr[i];
@@ -15488,13 +15489,13 @@ function getSequence(arr) {
         continue;
       }
       u = 0;
-      v = result.length - 1;
-      while (u < v) {
-        c = u + v >> 1;
+      v2 = result.length - 1;
+      while (u < v2) {
+        c = u + v2 >> 1;
         if (arr[result[c]] < arrI) {
           u = c + 1;
         } else {
-          v = c;
+          v2 = c;
         }
       }
       if (arrI < arr[result[u]]) {
@@ -15506,10 +15507,10 @@ function getSequence(arr) {
     }
   }
   u = result.length;
-  v = result[u - 1];
+  v2 = result[u - 1];
   while (u-- > 0) {
-    result[u] = v;
-    v = p2[v];
+    result[u] = v2;
+    v2 = p2[v2];
   }
   return result;
 }
@@ -16723,17 +16724,17 @@ function initCustomFormatter() {
       ]
     ];
   }
-  function formatValue(v, asRaw = true) {
-    if (typeof v === "number") {
-      return ["span", numberStyle, v];
-    } else if (typeof v === "string") {
-      return ["span", stringStyle, JSON.stringify(v)];
-    } else if (typeof v === "boolean") {
-      return ["span", keywordStyle, v];
-    } else if (isObject(v)) {
-      return ["object", { object: asRaw ? toRaw(v) : v }];
+  function formatValue(v2, asRaw = true) {
+    if (typeof v2 === "number") {
+      return ["span", numberStyle, v2];
+    } else if (typeof v2 === "string") {
+      return ["span", stringStyle, JSON.stringify(v2)];
+    } else if (typeof v2 === "boolean") {
+      return ["span", keywordStyle, v2];
+    } else if (isObject(v2)) {
+      return ["object", { object: asRaw ? toRaw(v2) : v2 }];
     } else {
-      return ["span", stringStyle, String(v)];
+      return ["span", stringStyle, String(v2)];
     }
   }
   function extractKeys(instance, type) {
@@ -16761,11 +16762,11 @@ function initCustomFormatter() {
       return true;
     }
   }
-  function genRefFlag(v) {
-    if (isShallow2(v)) {
+  function genRefFlag(v2) {
+    if (isShallow2(v2)) {
       return `ShallowRef`;
     }
-    if (v.effect) {
+    if (v2.effect) {
       return `ComputedRef`;
     }
     return `Ref`;
@@ -16925,7 +16926,7 @@ var semicolonRE = /[^\\];\s*$/;
 var importantRE = /\s*!important$/;
 function setStyle(style, name, val) {
   if (isArray(val)) {
-    val.forEach((v) => setStyle(style, name, v));
+    val.forEach((v2) => setStyle(style, name, v2));
   } else {
     if (val == null)
       val = "";
@@ -27768,13 +27769,13 @@ function inspectComposer(instanceData, composer) {
 function getLocaleMessageValue(messages) {
   const value = {};
   Object.keys(messages).forEach((key) => {
-    const v = messages[key];
-    if (isFunction2(v) && "source" in v) {
-      value[key] = getMessageFunctionDetails(v);
-    } else if (isObject2(v)) {
-      value[key] = getLocaleMessageValue(v);
+    const v2 = messages[key];
+    if (isFunction2(v2) && "source" in v2) {
+      value[key] = getMessageFunctionDetails(v2);
+    } else if (isObject2(v2)) {
+      value[key] = getLocaleMessageValue(v2);
     } else {
-      value[key] = v;
+      value[key] = v2;
     }
   });
   return value;
@@ -29904,7 +29905,7 @@ var VConfigureSingleDateTokenType_default2 = VConfigureSingleDateTokenType_defau
 // node_modules/vue-collapsed/dist/index.mjs
 var _ = "--vc-auto-duration";
 var T = `height var(${_}) cubic-bezier(0.33, 1, 0.68, 1)`;
-var r = { padding: 0 };
+var v = { padding: 0 };
 var j = { position: "absolute", width: "1px", height: "1px", padding: "0", margin: "-1px", overflow: "hidden", clip: "rect(0, 0, 0, 0)", whiteSpace: "nowrap", border: "0" };
 function b(t) {
   var _a;
@@ -29924,41 +29925,45 @@ function H(t) {
 }
 defineComponent({ inheritAttrs: true });
 var G = defineComponent({ __name: "Collapse", props: { when: { type: Boolean }, baseHeight: { default: 0 }, as: { default: "div" } }, emits: ["collapse", "expand", "collapsed", "expanded"], setup(t, { emit: n }) {
-  const v = t, u = toRef(v, "when"), o = toRef(v, "baseHeight"), p2 = computed2(() => ({ overflow: "hidden", height: `${o.value}px` })), h2 = computed2(() => ({ ...r, ...o.value === 0 ? { display: "none" } : p2.value })), l = ref(null), i = ref(u.value ? "expanded" : "collapsed"), e = shallowRef({}), g = ref(300), f = computed2(() => ({ [_]: `${g.value}ms` }));
-  function m() {
-    e.value = r, i.value = "expanded", n("expanded");
-  }
+  const p2 = t, u = toRef(p2, "when"), o = toRef(p2, "baseHeight"), d = computed2(() => ({ overflow: "hidden", height: `${o.value}px` })), g = computed2(() => ({ ...v, ...o.value === 0 ? { display: "none" } : d.value })), l = ref(null), i = ref(u.value ? "expanded" : "collapsed"), e = shallowRef({}), f = ref(300), m = computed2(() => ({ [_]: `${f.value}ms` }));
   function x() {
-    e.value = h2.value, i.value = "collapsed", n("collapsed");
+    e.value = v, i.value = "expanded", n("expanded");
+  }
+  function w() {
+    e.value = g.value, i.value = "collapsed", n("collapsed");
   }
   function k(a) {
-    var s, w;
-    a.target === l.value && a.propertyName === "height" && (u.value ? ((s = l.value) == null ? void 0 : s.scrollHeight) === parseFloat(a.target.style.height) && m() : ((w = l.value) == null ? void 0 : w.style.height) === `${o.value}px` && x());
+    var s, r;
+    a.target === l.value && a.propertyName === "height" && (u.value ? ((s = l.value) == null ? void 0 : s.scrollHeight) === parseFloat(a.target.style.height) && x() : ((r = l.value) == null ? void 0 : r.style.height) === `${o.value}px` && w());
   }
   return onMounted(() => {
-    l.value && (u.value || o.value !== 0 || (e.value = j), g.value = function(a = 0) {
-      if (a === 0)
+    if (!l.value)
+      return;
+    u.value || o.value !== 0 || (e.value = j);
+    const a = function(s = 0) {
+      if (s === 0)
         return 0;
-      const s = a / 36;
-      return Math.round(10 * (4 + 15 * s ** 0.25 + s / 5));
-    }(l.value.scrollHeight - o.value), e.value = u.value ? r : h2.value);
+      const r = s / 36;
+      return Math.round(10 * (4 + 15 * r ** 0.25 + r / 5));
+    }(l.value.scrollHeight - o.value);
+    f.value = a <= 0 ? 300 : a, e.value = u.value ? v : g.value;
   }), watch(u, (a) => {
     if (a) {
       if (H(l.value))
-        return m();
-      i.value = "expanding", n("expand"), e.value = { ...r, ...p2.value, ...f.value, willChange: "height" }, requestAnimationFrame(() => {
+        return x();
+      i.value = "expanding", n("expand"), e.value = { ...v, ...d.value, ...m.value, willChange: "height" }, requestAnimationFrame(() => {
         e.value = { ...e.value, ...b(l.value), ...$(l.value) };
       });
     } else {
       if (H(l.value))
-        return x();
-      i.value = "collapsing", n("collapse"), e.value = { ...e.value, ...f.value, ...b(l.value), willChange: "height" }, requestAnimationFrame(() => {
-        e.value = { ...e.value, ...p2.value, ...$(l.value) };
+        return w();
+      i.value = "collapsing", n("collapse"), e.value = { ...e.value, ...m.value, ...b(l.value), willChange: "height" }, requestAnimationFrame(() => {
+        e.value = { ...e.value, ...d.value, ...$(l.value) };
       });
     }
   }), watch(o, (a) => {
     u.value || (e.value = { ...e.value, ...a === 0 ? { display: "none" } : { transition: "none", height: `${a}px` } });
-  }), (a, s) => (openBlock(), createBlock(resolveDynamicComponent(v.as), { ref_key: "collapseRef", ref: l, style: normalizeStyle(e.value), onTransitionend: k, "data-collapse": i.value }, { default: withCtx(() => [renderSlot(a.$slots, "default", normalizeProps(guardReactiveProps({ state: i.value })))]), _: 3 }, 40, ["style", "data-collapse"]));
+  }), (a, s) => (openBlock(), createBlock(resolveDynamicComponent(p2.as), { ref_key: "collapseRef", ref: l, style: normalizeStyle(e.value), onTransitionend: k, "data-collapse": i.value }, { default: withCtx(() => [renderSlot(a.$slots, "default", normalizeProps(guardReactiveProps({ state: i.value })))]), _: 3 }, 40, ["style", "data-collapse"]));
 } });
 
 // sfc-script:/home/mgras/book/Book/.obsidian/plugins/obsidian-auto-timelines/src/components/VDetails.vue?type=script
@@ -31399,11 +31404,8 @@ var AprilsAutomaticTimelinesPlugin = class extends import_obsidian4.Plugin {
       events.push(...inlineEvents);
     }
     events.sort(
-      ({ cardData: { startDate: a, endDate: aE } }, { cardData: { startDate: b2, endDate: bE } }) => {
-        const score = compareAbstractDates(a, b2);
-        if (score)
-          return score;
-        return compareAbstractDates(aE, bE);
+      ({ cardData: { startDate: a, endDate: aE, title: titleA } }, { cardData: { startDate: b2, endDate: bE, title: titleB } }) => {
+        return compareAbstractDates(a, b2) || compareAbstractDates(aE, bE) || titleA.localeCompare(titleB);
       }
     );
     cardDataTime();

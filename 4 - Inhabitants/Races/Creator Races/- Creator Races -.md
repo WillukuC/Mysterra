@@ -1,3 +1,7 @@
+---
+aliases: Creator Races
+tags:
+---
 ## [[Aearee]]
 ## [[Batrachi]]
 ## [[Goblins]]

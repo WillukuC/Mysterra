@@ -1,5 +1,5 @@
 ---
-aliases: Genesis, 0E
+aliases: Genesis, E0
 tag: History/Era
 ---
 Before the beginning, there was [[Absolute Nothingness|Absolutely Nothing]], a sea of empty space, devoid of anything and everything.<br>

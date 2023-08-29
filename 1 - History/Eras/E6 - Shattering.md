@@ -1,4 +1,4 @@
 ---
-aliases: Weaving, 5E
+aliases: Shattering, E6
 tag: History/Era
 ---

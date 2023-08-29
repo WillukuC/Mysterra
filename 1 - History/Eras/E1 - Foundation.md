@@ -1,5 +1,5 @@
 ---
-aliases: Foundation, 1E
+aliases: Foundation, E1
 tags: History/Era
 ---
 Once the [[The All-Maker|All-Maker]] was finished with the creation of the multiverse, It observed the vast expansion of universes before It. Then It began to create the creatures that would populate the multiverse.

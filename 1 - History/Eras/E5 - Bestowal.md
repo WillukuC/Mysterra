@@ -1,4 +1,4 @@
 ---
-aliases: Bestowal, 4E
+aliases: Bestowal, E4
 tag: History/Era
 ---
