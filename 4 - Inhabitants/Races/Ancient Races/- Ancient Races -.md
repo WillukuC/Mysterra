@@ -1,3 +1,0 @@
----
-aliases: Ancient Races
----

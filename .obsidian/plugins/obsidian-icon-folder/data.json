@@ -21,10 +21,5 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  },
-  "0 - Cosmology": "FasStar",
-  "1 - History": "FasCalendar",
-  "2 - Religion": "FasCross",
-  "3 - Geography": "RiEarthFill",
-  "4 - Inhabitants": "FasPerson"
+  }
 }

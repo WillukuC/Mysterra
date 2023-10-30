@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca450e819203878",
+        "id": "79932d49b0c69136",
         "type": "tabs",
         "children": [
           {
-            "id": "98bb80567555410e",
+            "id": "4294be35de751a9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Cosmology/Planes/Inner Planes/Ethereal.md",
+                "file": "3 - Geography/Mysterra/The Midlands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,142 +21,12 @@
             }
           },
           {
-            "id": "dd1b00cc94bdc5ae",
+            "id": "3319d827f319ff41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Religion/Divine Hierarchy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2ad650bece2dc1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Inhabitants/Heroes/Player Characters/Xarrias Owens.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d52f2b576f6feb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/Willowyn.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "108fd7859ef4f1dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d408dd446f744a12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Religion/Circle of Greater Powers/Tyr.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73c432e779a14f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - History/Eras/E0 - Genesis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b43997f3300e89c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - Cosmology/Planes/Outer Planes/Astral.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30e15831dbb0f08a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - Cosmology/Planes/Inner Planes/Ethereal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab12402112726d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Inhabitants/Races/Outsiders/Fiends/Yugoloths/- Yugoloths -.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64292f3d87c02553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/- Council of Lumina Thicket -.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e07f17d81057dfa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - Cosmology/Planes/Travel Between Planes.md",
+                "file": "3 - Geography/Mysterra/2 - The Midlands/Iliova.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Deity/Domain/Forge",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 223.5
   },
   "right": {
     "id": "18190eb2dee90566",
@@ -230,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion.md",
+                "file": "3 - Geography/Mysterra/2 - The Midlands/Iliova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion.md",
+                "file": "3 - Geography/Mysterra/2 - The Midlands/Iliova.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion.md"
+                "file": "3 - Geography/Mysterra/2 - The Midlands/Iliova.md"
               }
             }
           },
@@ -281,13 +151,23 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "6dbc56c6756110bb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,44 +181,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "108fd7859ef4f1dd",
+  "active": "c2c46c6a0147aa13",
   "lastOpenFiles": [
-    "0 - Cosmology/Planes/Outer Planes/Mechanus.md",
-    "2 - Religion/- Racial Pantheons -/Giant Pantheon/Thrym.md",
-    "2 - Religion/- Racial Pantheons -/Giant Pantheon/Memnor.md",
-    "2 - Religion/- Racial Pantheons -/Giant Pantheon/Grolantor.md",
-    "2 - Religion/- Racial Pantheons -/Giant Pantheon/- Giant Pantheon -.md",
-    "1 - History/Calendar.md",
-    "4 - Inhabitants/Heroes/Player Characters/Fern of Lumina.md",
-    "Religion.md",
-    "2 - Religion/Thediac/Forsvar.md",
-    "2 - Religion/- Racial Pantheons -/Elven Pantheon/Angarradh.md",
-    "2 - Religion/Circle of Greater Powers/Tyr.md",
-    "2 - Religion/- Racial Pantheons -/Draconic Pantheon/Miriad.md",
-    "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/Lysande.md",
-    "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/Aerinwyn.md",
-    "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/- Council of Lumina Thicket -.md",
-    "Untitled.md",
-    "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/Willowyn.md",
-    "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/Bramblefoot.md",
-    "2 - Religion/- Local Pantheons -/Council of Lumina Thicket/Papilionis.md",
-    "4 - Inhabitants/Races/Creator Races/- Creator Races -.md",
-    "4 - Inhabitants/Races/Creator Races/- Creator Races - 1.md",
-    "2 - Religion/Divine Hierarchy.md",
-    "2 - Religion/The Weave.md",
-    "0 - Cosmology/Planes/Planes of Existence/The Shadow.md",
-    "0 - Cosmology/Planes/Planes of Existence/The Prime.md",
-    "1 - History/Eras/E5 - Bestowal.md",
-    "1 - History/Eras",
-    "1 - History/Timeline",
-    "4 - Inhabitants/Races/Outsiders/Fiends/Devils",
-    "4 - Inhabitants/Races/Outsiders/Fiends/Yugoloths",
-    "4 - Inhabitants/Races/Outsiders/Fiends/Demons",
-    "4 - Inhabitants/Races/Outsiders/Celestials",
-    "4 - Inhabitants/Races/Outsiders/Fiends",
-    "3 - Geography/Mysterra/3 - The Underdark",
-    "3 - Geography/Mysterra/1 - The Skylands",
-    "3 - Geography/Mysterra/2 - The Midlands",
+    "3 - Geography/Mysterra/2 - The Midlands/Iliova",
+    "3 - Geography/Mysterra/The Midlands.md",
+    "3 - Geography/Mysterra/2 - The Midlands/Mavromia.md",
+    "Modrons.md",
+    "0 - Overview/Rules.md",
+    "B - NPCs/Deities/Circle of Greater Powers/Shar.md",
+    "B - NPCs/Deities/Racial Pantheons/Drow Pantheon/Vhaeraun.md",
+    "B - NPCs/Deities/Racial Pantheons/Dwarven Pantheon/Sharindlar.md",
+    "7 - Bestiary/Giants/Titans.md",
+    "1 - Cosmology/Phlogiston.md",
+    "B - NPCs/Deities/Thediac/Helig.md",
+    "A - Characters/Fern of Lumina/Fern of Lumina.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arborea.md",
+    "7 - Bestiary/Plants.md",
+    "B - NPCs/Deities/Racial Pantheons/Drow Pantheon/Eilistraee.md",
+    "B - NPCs/Deities/Racial Pantheons/Dwarven Pantheon/Hanseath.md",
+    "Aarakocra.md",
+    "6 - Races & Cultures/Ancient Races.md",
+    "4 - History/History of the Multiverse.md",
+    "4 - History/Mystspace Timeline.md",
+    "4 - History/Eras/E0 - Genesis.md",
+    "0 - Overview/Maps/Mysterran Map.md",
+    "0 - Overview/Calendar.md",
+    "A - Characters/Cynthia Heffield/Cynthia Heffield.md",
+    "A - Characters/Jethrolomeu Goodfellow/Jethrolomeu Goodfellow.md",
+    "A - Characters/Xarrias Owens/Xarrias Owens.md",
+    "7 - Bestiary/Fiends/Devils",
+    "7 - Bestiary/Beasts/Elder Beasts",
+    "1 - Cosmology/Demiplanes/Lairs of the Thediac",
+    "1 - Cosmology/Demiplanes",
+    "5 - Factions/Planar Factions/Faeri",
+    "B - NPCs/Factions",
+    "B - NPCs/Deities/Untitled",
+    "B - NPCs/Deities",
+    "5 - Factions/Planar Factions",
+    "5 - Factions/Primal Factions",
     "Pasted image 20230824201459.png",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"

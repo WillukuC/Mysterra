@@ -8,38 +8,87 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"0 - Cosmology\"",
+      "query": "path:\"0 - Overview\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13840175
       }
     },
     {
-      "query": "path:\"3 - Geography\"",
+      "query": "path:\"1 - Cosmology\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 12720219
       }
     },
     {
-      "query": "path:\"4 - Inhabitants\"",
+      "query": "path:\"2 - Religion\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 8069026
       }
     },
     {
-      "query": "path:\"1 - History\"",
+      "query": "path:\"3 - Geography\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 5320104
       }
     },
     {
-      "query": "path:\"2 - Religion\"",
+      "query": "path:\"4 - History\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 3162015
+      }
+    },
+    {
+      "query": "path:\"5 - Factions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1668818
+      }
+    },
+    {
+      "query": "path:\"6 - Races & Cultures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 166097
+      }
+    },
+    {
+      "query": "path:\"7 - Bestiary\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 38823
+      }
+    },
+    {
+      "query": "path:\"8 - Magic & Tech\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 31083
+      }
+    },
+    {
+      "query": "path:\"9 - Quests\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3706428
+      }
+    },
+    {
+      "query": "path:\"A - Characters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6856504
+      }
+    },
+    {
+      "query": "path:\"B - NPCs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11514923
       }
     }
   ],
@@ -53,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.28488718259174334,
+  "scale": 0.17391623846573154,
   "close": true
 }

@@ -1,0 +1,1 @@
+Outsiders are beings that hail from the [[Outer Planes]]

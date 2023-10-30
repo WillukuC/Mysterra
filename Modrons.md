@@ -1,0 +1,16 @@
+| Modron     | Population   |
+| ---------- | ------------ |
+| Monodrone  | 300,000,000+ |
+| Duodrone   | 55,000,000+  |
+| Tridrone   | 6,000,000+   |
+| Quadrone   | 1,500,000+   |
+| Pentadrone | 500,000      |
+| Decaton    | 100          |
+| Nonaton    | 81           |
+| Octon      | 64           |
+| Septon     | 49           |
+| Hexton     | 36           |
+| Quinton    | 25           |
+| Quarton    | 16           |
+| Tertian    | 9            |
+| Secundus   | 4            |
