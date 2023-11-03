@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "79932d49b0c69136",
+        "id": "2ee97417b8b2cd33",
         "type": "tabs",
         "children": [
           {
-            "id": "0684eec8970a7040",
+            "id": "1cc7048f318dcf86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Cosmology/Travel Between Planes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5110321044922
+    "width": 696.5124969482422
   },
   "right": {
     "id": "18190eb2dee90566",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Cosmology/Travel Between Planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Cosmology/Travel Between Planes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Cosmology/Travel Between Planes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,42 +159,42 @@
   },
   "active": "c2c46c6a0147aa13",
   "lastOpenFiles": [
-    "8 - Magic & Tech/Spells/Untitled",
-    "8 - Magic & Tech/Spells",
-    "1 - Cosmology/Planes/Inner Planes/Ether.md",
-    "1 - Cosmology/Planes/Far Realms.md",
-    "7 - Bestiary/Dragons/True Dragons/Metallic Dragons/Ferrous Dragons/Ferrous Dragons.md",
-    "1 - Cosmology/Travel Between Planes.md",
-    "7 - Bestiary/Dragons/True Dragons/Planar Dragons.md",
-    "7 - Bestiary/Dragons/True Dragons/Spelljamming Dragons.md",
-    "1 - Cosmology/Planes/Inner Planes/Planes of Energy/Mors.md",
-    "1 - Cosmology/Planes/Inner Planes/Planes of Energy/Vita.md",
-    "7 - Bestiary/Dragons/True Dragons.md",
-    "7 - Bestiary/Dragons/True Dragons/Spelljamming Dragons/Nebula Dragons.md",
-    "7 - Bestiary/Dragons/True Dragons/Spelljamming Dragons/Dark Star Dragons.md",
-    "7 - Bestiary/Dragons/True Dragons/Epic Dragons/Force Dragons.md",
-    "B - NPCs/Deities/Racial Pantheons/Dwarven Pantheon/Haela Brightaxe.md",
-    "7 - Bestiary/Dragons/True Dragons/Catastrophic Dragons/Earthquake Dragons.md",
-    "3 - Geography/Mysterra/2 - The Midlands/Akrinsti.md",
-    "7 - Bestiary/Dragons/True Dragons/Gem Dragons/Moonstone Dragons.md",
-    "B - NPCs/Deities/Racial Pantheons/Dwarven Pantheon/Clangeddin Silverbeard.md",
-    "7 - Bestiary/Dragons/True Dragons/Chromatic Dragons/Gray Dragons.md",
-    "7 - Bestiary/Dragons/True Dragons/Metallic Dragons/Steel Dragons.md",
-    "1 - Cosmology/Planes/Innermost Planes/Initium.md",
-    "1 - Cosmology/Planes/Innermost Planes/Prime.md",
-    "1 - Cosmology/Planes/Innermost Planes/Umbra.md",
-    "1 - Cosmology/Planes/Innermost Planes/Faeri.md",
-    "1 - Cosmology/Planes/Innermost Planes.md",
-    "1 - Cosmology/Planes/Innermost Planes/Mirari.md",
-    "7 - Bestiary/Dragons/True Dragons/Spelljamming Dragons",
-    "7 - Bestiary/Dragons/True Dragons/Metallic Dragons/Ferrous Dragons",
-    "7 - Bestiary/Dragons/True Dragons/Epic Dragons",
-    "7 - Bestiary/Dragons/True Dragons/Catastrophic Dragons",
-    "7 - Bestiary/Dragons/True Dragons/Planar Dragons",
-    "7 - Bestiary/Dragons/True Dragons/Lung Dragons",
-    "7 - Bestiary/Dragons/True Dragons/Gem Dragons",
-    "7 - Bestiary/Dragons/True Dragons/Metallic Dragons",
-    "7 - Bestiary/Dragons/True Dragons/Chromatic Dragons",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim/Ysgard.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim/Nidavellir.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim/Muspelheim.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands/Brux.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands/Karasuthra.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands/Krigala.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium/Amoria.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium/Thalasia.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium/Belierin.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium/Eronia.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Chronias.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Jovar.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Mertion.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Solania.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Venya.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Mercuria.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Lunia.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Bytopia.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Bytopia/Dothion.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Bytopia/Shurrock.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arcadia/Abellio.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Bytopia",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arcadia",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arcadia.md",
+    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arborea",
+    "1 - Cosmology/Planes/Outer Planes/Lower Planes/The Abyss/001-100/45-47 - Azzagrat",
+    "1 - Cosmology/Planes/Outer Planes/Lower Planes/The Abyss/Unnumbered",
+    "1 - Cosmology/Planes/Outer Planes/Lower Planes/The Abyss/601-700",
     "Pasted image 20230824201459.png",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"

@@ -35,7 +35,7 @@ The most common way to travel between the planes is via the 7th level spell Plan
 | [[Elysium]]                            | Gold          | E          |
 | [[The Beastlands]]                     | Gold          | F          |
 | [[Arborea]]                            | Gold          | F♯         |
-| [[Ysgard]]                             | Gold          | G          |
+| [[Gladsheim]]                             | Gold          | G          |
 | [[Limbo]]                              | Nickel        | C          |
 | [[Pandemonium]]                        | Iron          | C♯         |
 | [[The Abyss]]                          | Iron          | D          |

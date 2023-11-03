@@ -2,6 +2,7 @@
 aliases: Council of Lumina Thicket, Lumina Thicket Council
 tags: Deity/Group
 ---
+
 ## [[Aerinwyn]], Queen of Lumina Kingdom
 Queen of the Lumina Kingdom, the kingdom of fairies who live in Lumina Thicket.
 ## [[Lysande]], Chieftain of Lumina Tribe

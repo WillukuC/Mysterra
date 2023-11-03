@@ -17,7 +17,7 @@ In the center of the Astral Sea is the Fugue Plane, a gray and neutral plane.
 | [Elysium](Elysium.md)                                                    | Opal            |
 | [The Beastlands](The%20Beastlands.md)                                             | Emerald         |
 | [Arborea](Arborea.md)                                                    | Sapphire        |
-| [Ysgard](Ysgard.md)                                                     | Indigo          |
+| [Gladsheim](Gladsheim.md)                                                     | Indigo          |
 | [Limbo](Limbo.md)                                                      | Jet             |
 | [Pandemonium](Pandemonium.md)                                                | Magenta         |
 | [The Abyss](The%20Abyss.md)                                                  | Amethyst        |
