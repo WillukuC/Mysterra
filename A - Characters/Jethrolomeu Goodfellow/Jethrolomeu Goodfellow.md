@@ -18,5 +18,22 @@ tags:
 |8|14|14|9|17|13|
 |-1|+2|+2|-1|+3|+1|
 # Related Locations
+## Uthriel, Trivsam
 # Related NPCs
+## Azrael, Angelic Messenger
+## Kelemvor, Lord Death
+## The Goodfellow Family
+### Uther Goodfellow
+### Guinevere Goodfellow
+### Arthur Goodfellow
+### Percival Goodfellow
+### Galahad Goodfellow
+### Gawain Goodfellow
+### Bedivere Goodfellow
+### Galehaut Goodfellow
+
+### Tristan Goodfellow
+## Mordred, Childhood Friend
+## Vecna, the Chained God
 # Planned Plot Points
+Conversation with Mordred, Tristan

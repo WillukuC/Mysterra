@@ -6,9 +6,9 @@ In the center of the Astral Sea is the Fugue Plane, a gray and neutral plane.
 ## Astral Pools
 | Plane                                                        | Color Pool      |
 | ------------------------------------------------------------ | --------------- |
-| [[The Prime]]                                                | Silver          |
-| [[The Faeri]]                                                | Emerald green   |
-| [[The Shadow]]                                               | Spiraling black |
+| [[Prime]]                                                | Silver          |
+| [[Faeri]]                                                | Emerald green   |
+| [[Umbra]]                                               | Spiraling black |
 | [Outlands](Outlands.md) | Leather brown   |
 | [Mechanus](Mechanus.md)           | Diamond         |
 | [Arcadia](Arcadia.md)               | Saffron         |
@@ -27,4 +27,4 @@ In the center of the Astral Sea is the Fugue Plane, a gray and neutral plane.
 | [The Nine Hells](The%20Nine%20Hells.md)                                             | Ruby            |
 | [Acheron](Acheron.md)                                                    | Flame           |
 | [Ether](Ether.md)                                                   | Spiraling white |
-| [Mirror](Plane%20of%20Mirrors.md)                                                     | Reflective      |
+| [Mirari](Mirari.md)                                                     | Reflective      |

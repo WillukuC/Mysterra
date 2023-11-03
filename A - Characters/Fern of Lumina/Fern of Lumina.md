@@ -20,6 +20,7 @@ The forest from which Fern hails is presided over by the [[- Council of Lumina T
 > "OMG bestie! So true!"
 - Rivergleam, Fern's childhood friend
 # Related Locations
+
 # Related NPCs
 ## Rivergleam
 Rivergleam is a pixie fashionista

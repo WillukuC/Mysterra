@@ -5,9 +5,9 @@ tags: Plane/Inner, Plane/Transitive
 ## Ethereal Curtains
 | Plane                               | Ethereal Curtain |
 | ----------------------------------- | ---------------- |
-| [The Prime](The%20Prime.md)            | Metallic silver  |
-| [The Faeri](The%20Faeri.md)            | Opalescent white |
-| [The Shadow](The%20Shadow.md)          | Dusky gray       |
+| [Prime](Prime.md)            | Metallic silver  |
+| [Faeri](Faeri.md)            | Opalescent white |
+| [Umbra](Umbra.md)          | Dusky gray       |
 | [Fire](Plane%20of%20Fire.md)           | Red              |
 | [Earth](Plane%20of%20Earth.md)         | Brown            |
 | [Water](Plane%20of%20Water.md)         | Green            |
@@ -24,7 +24,7 @@ tags: Plane/Inner, Plane/Transitive
 | [Dust](Plane%20of%20Dust.md)           | Dun              |
 | [Salt](Plane%20of%20Salt.md)           | Tan              |
 | [Vacuum](Plane%20of%20Vacuum.md)       | Ebony            |
-| [Positive](Plane%20of%20Positive%20Energy.md)   | Shining white    |
-| [Negative](Plane%20of%20Negative%20Energy.md)   | Glossy black     |
+| [Vita](Vita.md)   | Shining white    |
+| [Mors](Mors.md)   | Glossy black     |
 | [Astra](Astra.md)            | Swirling gray    |
-| [Mirror](Plane%20of%20Mirrors.md)      | Silver           |
+| [Mirari](Mirari.md)      | Silver           |

@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4294be35de751a9b",
+            "id": "0684eec8970a7040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Geography/Mysterra/The Midlands.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3319d827f319ff41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Geography/Mysterra/2 - The Midlands/Iliova.md",
+                "file": "1 - Cosmology/Travel Between Planes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "innermost",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -84,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 240.5110321044922
   },
   "right": {
     "id": "18190eb2dee90566",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Geography/Mysterra/2 - The Midlands/Iliova.md",
+                "file": "1 - Cosmology/Travel Between Planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Geography/Mysterra/2 - The Midlands/Iliova.md",
+                "file": "1 - Cosmology/Travel Between Planes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Geography/Mysterra/2 - The Midlands/Iliova.md"
+                "file": "1 - Cosmology/Travel Between Planes.md"
               }
             }
           },
@@ -162,12 +148,11 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,42 +168,42 @@
   },
   "active": "c2c46c6a0147aa13",
   "lastOpenFiles": [
-    "3 - Geography/Mysterra/2 - The Midlands/Iliova",
-    "3 - Geography/Mysterra/The Midlands.md",
-    "3 - Geography/Mysterra/2 - The Midlands/Mavromia.md",
-    "Modrons.md",
-    "0 - Overview/Rules.md",
-    "B - NPCs/Deities/Circle of Greater Powers/Shar.md",
-    "B - NPCs/Deities/Racial Pantheons/Drow Pantheon/Vhaeraun.md",
-    "B - NPCs/Deities/Racial Pantheons/Dwarven Pantheon/Sharindlar.md",
-    "7 - Bestiary/Giants/Titans.md",
-    "1 - Cosmology/Phlogiston.md",
-    "B - NPCs/Deities/Thediac/Helig.md",
-    "A - Characters/Fern of Lumina/Fern of Lumina.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arborea.md",
-    "7 - Bestiary/Plants.md",
-    "B - NPCs/Deities/Racial Pantheons/Drow Pantheon/Eilistraee.md",
-    "B - NPCs/Deities/Racial Pantheons/Dwarven Pantheon/Hanseath.md",
-    "Aarakocra.md",
-    "6 - Races & Cultures/Ancient Races.md",
-    "4 - History/History of the Multiverse.md",
-    "4 - History/Mystspace Timeline.md",
-    "4 - History/Eras/E0 - Genesis.md",
-    "0 - Overview/Maps/Mysterran Map.md",
-    "0 - Overview/Calendar.md",
-    "A - Characters/Cynthia Heffield/Cynthia Heffield.md",
-    "A - Characters/Jethrolomeu Goodfellow/Jethrolomeu Goodfellow.md",
-    "A - Characters/Xarrias Owens/Xarrias Owens.md",
-    "7 - Bestiary/Fiends/Devils",
-    "7 - Bestiary/Beasts/Elder Beasts",
-    "1 - Cosmology/Demiplanes/Lairs of the Thediac",
-    "1 - Cosmology/Demiplanes",
-    "5 - Factions/Planar Factions/Faeri",
-    "B - NPCs/Factions",
-    "B - NPCs/Deities/Untitled",
-    "B - NPCs/Deities",
-    "5 - Factions/Planar Factions",
-    "5 - Factions/Primal Factions",
+    "8 - Magic & Tech/Spells/Untitled",
+    "8 - Magic & Tech/Spells",
+    "1 - Cosmology/Planes/Inner Planes/Ether.md",
+    "1 - Cosmology/Planes/Far Realms.md",
+    "7 - Bestiary/Dragons/True Dragons/Metallic Dragons/Ferrous Dragons/Ferrous Dragons.md",
+    "1 - Cosmology/Travel Between Planes.md",
+    "7 - Bestiary/Dragons/True Dragons/Planar Dragons.md",
+    "7 - Bestiary/Dragons/True Dragons/Spelljamming Dragons.md",
+    "1 - Cosmology/Planes/Inner Planes/Planes of Energy/Mors.md",
+    "1 - Cosmology/Planes/Inner Planes/Planes of Energy/Vita.md",
+    "7 - Bestiary/Dragons/True Dragons.md",
+    "7 - Bestiary/Dragons/True Dragons/Spelljamming Dragons/Nebula Dragons.md",
+    "7 - Bestiary/Dragons/True Dragons/Spelljamming Dragons/Dark Star Dragons.md",
+    "7 - Bestiary/Dragons/True Dragons/Epic Dragons/Force Dragons.md",
+    "B - NPCs/Deities/Racial Pantheons/Dwarven Pantheon/Haela Brightaxe.md",
+    "7 - Bestiary/Dragons/True Dragons/Catastrophic Dragons/Earthquake Dragons.md",
+    "3 - Geography/Mysterra/2 - The Midlands/Akrinsti.md",
+    "7 - Bestiary/Dragons/True Dragons/Gem Dragons/Moonstone Dragons.md",
+    "B - NPCs/Deities/Racial Pantheons/Dwarven Pantheon/Clangeddin Silverbeard.md",
+    "7 - Bestiary/Dragons/True Dragons/Chromatic Dragons/Gray Dragons.md",
+    "7 - Bestiary/Dragons/True Dragons/Metallic Dragons/Steel Dragons.md",
+    "1 - Cosmology/Planes/Innermost Planes/Initium.md",
+    "1 - Cosmology/Planes/Innermost Planes/Prime.md",
+    "1 - Cosmology/Planes/Innermost Planes/Umbra.md",
+    "1 - Cosmology/Planes/Innermost Planes/Faeri.md",
+    "1 - Cosmology/Planes/Innermost Planes.md",
+    "1 - Cosmology/Planes/Innermost Planes/Mirari.md",
+    "7 - Bestiary/Dragons/True Dragons/Spelljamming Dragons",
+    "7 - Bestiary/Dragons/True Dragons/Metallic Dragons/Ferrous Dragons",
+    "7 - Bestiary/Dragons/True Dragons/Epic Dragons",
+    "7 - Bestiary/Dragons/True Dragons/Catastrophic Dragons",
+    "7 - Bestiary/Dragons/True Dragons/Planar Dragons",
+    "7 - Bestiary/Dragons/True Dragons/Lung Dragons",
+    "7 - Bestiary/Dragons/True Dragons/Gem Dragons",
+    "7 - Bestiary/Dragons/True Dragons/Metallic Dragons",
+    "7 - Bestiary/Dragons/True Dragons/Chromatic Dragons",
     "Pasted image 20230824201459.png",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"

@@ -17,7 +17,7 @@ The fourth plane, the [[Plane of Earth]], was created in contrast to Air. It was
 Infinite stretches of earthen soil; cold, gray stones; warm, golden sands; and crystals of myriad hues, forged by immeasurable pressures.<br>
 These four planes - Air, Water, Fire, and Earth - would become known as the [[Elemental Planes]].<br>
 The All-Creator observed its handiwork for another eternal moment and then fashioned two new planes, the twin [[Energetic Planes|Planes of Energy]], which would shape life within the multiverse.<br>
-The first was the [[Plane of Positive Energy]], which bestowed life energy and healing. The second was the [[Plane of Negative Energy]], harboring the forces of death and decay.<br>
+The first was the [[Vita]], which bestowed life energy and healing. The second was the [[Mors]], harboring the forces of death and decay.<br>
 As the All-Creator labored upon the Energetic Planes, the four Elemental Planes began to shift and merge into new forms, untouched and unguided by their creator.<br>
 The boundary between Air and Water congealed, forming a vast wall of ice, soon to be known as the [[Plane of Ice]].<br>
 Water softened Earth, rendering it malleable and formless, no longer rigid as before. This birthed the [[Plane of Ooze]].<br>
@@ -29,7 +29,7 @@ Positive Energy contributed to the creation of the [[Plane of Lightning]], [[Pla
 These eight planes were known as the [[Quasi-Elemental Planes]], intermediary realms between the Elemental and Energetic.<br>
 At the outer fringes of the Elemental, a chaotic realm arose, where the elements clashed and churned incessantly. This realm would be known as the [[Elemental Chaos]], shapeless and formless, enveloping the other planes.<br>
 These planes would later be called the [[Inner Planes]], although at this moment, they remained nameless.<br>
-Towards the inner periphery of the Elemental, a different transformation occurred: the [[First World]] emerged, born from the very fabric of the Elemental Planes.<br>
+Towards the inner periphery of the Elemental, a different transformation occurred: the [[Initium]] emerged, born from the very fabric of the Elemental Planes.<br>
 They converged to form [[Crystal Spheres]], separated by the [[Phlogiston]]. Within each Sphere lay worlds, separated by [[Wildspace]].<br>
 Observing the changes unfolding within the planes, the All-Creator formed a final plane to bind the Inner Planes together, restraining further shifts. This plane was the [[Ether]], a metaphysical realm permitting passage between planes.<br>
 With the newfound tranquility of the planes, the All-Creator watched over them for yet another eternal instant.
