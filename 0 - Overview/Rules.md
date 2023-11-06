@@ -32,4 +32,6 @@ Monster Knowledge: No action required—either you know the answer or you don’
 | Plant        | Nature           |
 | Undead       | Arcana, Religion |
 
-puzzles, fighting, lore, backstory, 
+## Auto-Crit
+If an attack roll exceeds the AC by 10 or more, the hit is an automatic critical hit.
+For example, Cynthia the Barbarian rolls a 19 on the d20 when attacking a Goblin. With a +6 to hit, the resulting roll is a 25, or 10 more than the Goblin's AC of 15. This results in a critical hit.

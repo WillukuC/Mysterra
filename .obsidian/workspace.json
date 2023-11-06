@@ -8,14 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cc7048f318dcf86",
+            "id": "f43293ac8be73894",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "8 - Magic & Tech/Spells/Magic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "218648c39a336ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Overview/TODO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc49ebad92cd4a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "King-Killer Star.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9de81e36d21e4136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Overview/Maps/Planar Map.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ae4d13a37f9e63e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Overview/TODO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -44,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "innermost",
+                "query": "humans",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 696.5124969482422
+    "width": 200
   },
   "right": {
     "id": "18190eb2dee90566",
@@ -81,7 +139,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "0 - Overview/TODO.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 - Overview/TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0 - Overview/TODO.md"
+              }
             }
           },
           {
@@ -139,11 +201,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,47 +218,48 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:Insert template": false
     }
   },
-  "active": "c2c46c6a0147aa13",
+  "active": "3ae4d13a37f9e63e",
   "lastOpenFiles": [
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim/Ysgard.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim/Nidavellir.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim/Muspelheim.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands/Brux.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands/Karasuthra.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands/Krigala.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium/Amoria.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium/Thalasia.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium/Belierin.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium/Eronia.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Chronias.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Jovar.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Mertion.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Solania.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Venya.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Mercuria.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia/Lunia.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Bytopia.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Bytopia/Dothion.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Bytopia/Shurrock.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arcadia/Abellio.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Gladsheim",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/The Beastlands",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Elysium",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Celestia",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Bytopia",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arcadia",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arcadia.md",
-    "1 - Cosmology/Planes/Outer Planes/Upper Planes/Arborea",
-    "1 - Cosmology/Planes/Outer Planes/Lower Planes/The Abyss/001-100/45-47 - Azzagrat",
-    "1 - Cosmology/Planes/Outer Planes/Lower Planes/The Abyss/Unnumbered",
-    "1 - Cosmology/Planes/Outer Planes/Lower Planes/The Abyss/601-700",
+    "5 - Factions/Classes/Sorcerers.md",
+    "0 - Overview/TODO.md",
+    "5 - Factions/Classes/Wizards.md",
+    "5 - Factions/Classes/Warlocks.md",
+    "5 - Factions/Classes/Rogues.md",
+    "5 - Factions/Classes/Rangers.md",
+    "5 - Factions/Classes/Paladins.md",
+    "5 - Factions/Classes/Monks.md",
+    "5 - Factions/Classes/Clerics.md",
+    "5 - Factions/Classes/Fighters.md",
+    "5 - Factions/Classes/Barbarians.md",
+    "5 - Factions/Classes/Bards.md",
+    "5 - Factions/Classes/Druids.md",
+    "0 - Overview/Rules.md",
+    "5 - Factions/Classes",
+    "0 - Overview/Maps/Planar Map.md",
+    "Dracorage.md",
+    "King-Killer Star.md",
+    "Friends.md",
+    "Acid Splash.md",
+    "Fire Bolt.md",
+    "Eldritch Blast.md",
+    "Druidcraft.md",
+    "Dancing Lights.md",
+    "Chill Touch.md",
+    "Blade Ward.md",
+    "8 - Magic & Tech/Spells/Epic Spells",
+    "8 - Magic & Tech/Spells/Mythal",
+    "8 - Magic & Tech/Spells/9th-level",
+    "8 - Magic & Tech/Spells/8th-level",
+    "8 - Magic & Tech/Spells/7th-level",
+    "8 - Magic & Tech/Spells/6th-level",
+    "8 - Magic & Tech/Spells/5th-level",
+    "8 - Magic & Tech/Spells/4th-leel",
+    "8 - Magic & Tech/Spells/3rd-level",
+    "8 - Magic & Tech/Spells/Magic.md",
     "Pasted image 20230824201459.png",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"

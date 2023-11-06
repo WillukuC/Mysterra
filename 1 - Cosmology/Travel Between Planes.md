@@ -7,7 +7,7 @@ The most common way to travel between the planes is via the 7th level spell Plan
 | Plane                                  | Fork Material | Fork Pitch |
 | -------------------------------------- | ------------- | ---------- |
 | [[Prime]]                              | Steel         | C          |
-| [[Faeri]]                              | Gold          | C          |
+| [[Faerie]]                              | Gold          | C          |
 | [[Umbra]]                              | Iron          | C          |
 | [Fire](Plane%20of%20Fire.md)           | Copper        | A          |
 | [Earth](Plane%20of%20Earth.md)         | Zinc          | A          |
@@ -48,23 +48,26 @@ The most common way to travel between the planes is via the 7th level spell Plan
 | [[Astra]]                              | Quartz        | B          |
 
 # Ethereal Curtain
-Travel between the [[Inner Planes|Inner Planes]] and the [[Innermost Planes]] is possible via the [[Ether#Ethereal Curtains|Ethereal Curtains]] of the [[Ether|Ethereal Plane]], each of which allow passage to the bordering Planes. 
+Travel between the [[Inner Planes|Inner Planes]] and the [[Innermost Planes]] is possible via the [[Ether#Ethereal Curtains|Ethereal Curtains]] of [[Ether]], each of which allow passage to the bordering Planes. 
 # Astral Pool
-Travel between the [[Outer Planes|Outer Planes]] and the Planes of Existence is possible via the [[Astra#Astral Pools|Astral Pools]] of the [[Astra|Astral Plane]], each of which allow passage to the bordering Planes. 
-# The Faeri
-Travel to the Faeri can be done from the Prime via various methods, which are usually whimsical or sylvan in some sort of way. Some examples can include: 
+Travel between the [[Outer Planes|Outer Planes]] and the Planes of Existence is possible via the [[Astra#Astral Pools|Astral Pools]] of [[Astra]], each of which allow passage to the bordering Planes. 
+# [[Faerie]]
+Travel to Faerie can be done from the Prime via various methods, which are usually whimsical or sylvan in some sort of way. Some examples can include: 
 - Mushroom circles
 - Forest clearings
 - Hollow logs
-Travel to the Faeri is not typically noticed until after the travel has already been done, since usually the environments around the portal is identical in both the Prime and the Faeri.
-# The Shadow
-In contrast to travelling from the Prime to the Faeri, travelling from the Prime to the Shadow is usually done in pitch darkness, such as:
+Travel to Faerie is not typically noticed until after the travel has already been done, since usually the environments around the portal is identical in both the Prime and Faerie.
+# [[Umbra]]
+In contrast to travelling from the Prime to Faerie, travelling from the Prime to Umbra is usually done in pitch darkness, such as:
 - Dark caves
 - The basement of an abandoned manor
 - A graveyard at midnight
-Travel to the Shadow, similar to the Faeri, is not typically noticed given the darkness in which the travel is done.
+Travel to Umbra, similar to Faerie, is not typically noticed given the darkness in which the travel is done.
 # Elemental Vortices
+Permanent two-way pathways that existed between the elemental planes, or an elemental plane and the Prime.
 # Infinite Staircase
 # Cross-Planar Rivers
 ## Oceanus
+A river that connects several [[The Upper Planes|upper planes]], whose source is located in [[Thalasia]]. From there, it flows through [[Belierin]], [[Eronia]], [[Amoria]], [[Krigala]], [[Arvandor]], and finally [[Aquallor]], where maelstroms at the bottom of the infinite ocean transported travelers back to the river's headwaters in Thalasia. 
 ## Styx
+A river that connects several lower planes, crawling through the uppermost layers of the seven lower planes. Those who drank or touched the water risked forgetting their past lives temporarily or permanently. Its headwaters were in [[Pandesmos]], from where it flowed into the [[1 - Plain of Infinite Portals|Plain of Infinite Portals]], [[Othrys|Orthrys]], [[Oinos]], [[Khalas]], [[Avernus]], and [[Avalas]], before reaching its final destination of [[Ocanthus]], where the lost memories claimed by the river remain, trapped by the ice.

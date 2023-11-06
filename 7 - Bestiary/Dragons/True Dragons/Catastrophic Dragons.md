@@ -1,7 +1,0 @@
-# [[Avalanche Dragons]]
-# [[Blizzard Dragons]]
-# [[Earthquake Dragons]]
-# [[Tornado Dragons]]
-# [[Typhoon Dragons]]
-# [[Wildfire Dragons]]
-# [[Volcanic Dragons]]

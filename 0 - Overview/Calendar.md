@@ -10,7 +10,7 @@ The eras of Mysterra are divided by formative events such as creation events, ex
 - [[E0 - Genesis]], the creation of the [[Inner Planes|Inner Planes]] by [[the All-Creator]].
 - [[E1 - Foundation]], the Inner Planes are populated with the [[Ancient Races|Ancient Races]] and deities.
 - [[E2 - Emergence]], the [[Outer Planes|Outer Planes]] emerge from the ethics and morals of the Multiverse's inhabitants.
-- [[E3 - Sundering]], the [[Initium]] is trisected into the [[Faeri|Faeri]], the [[Prime|Prime]] and the [[Umbra|Shadow]].
+- [[E3 - Sundering]], the [[Initium]] is trisected into the [[Faerie|Faeri]], the [[Prime|Prime]] and the [[Umbra|Shadow]].
 - [[E4 - Weaving]], the goddess [[Mystra]] forms the [[The Weave|Weave]], the threads that powers all magic.
 - [[E5 - Bestowal]], Mystra grants magical access to the [[Creator Races|Creator Races]], allowing incredible societal advancements. 
 - [[E6 - Shattering]], 

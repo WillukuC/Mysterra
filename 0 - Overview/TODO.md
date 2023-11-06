@@ -1,0 +1,14 @@
+ - [ ] Hellfire (magic energy)
+ - [ ] Flesh out psionicism
+ - [ ] Runes and sigils
+ - [ ] Epic Magic
+ - [ ] Rage of Dragons / Dracorage / King-Killer Star
+ - [ ] PHB Classes and subclasses:
+	 - [ ] Bards
+	 - [ ] Druids
+	 - [ ] Fighters
+	 - [ ] Monks
+	 - [ ] Rangers
+	 - [ ] Rogues
+	 - [ ] Warlocks
+	 - [ ] Wizards

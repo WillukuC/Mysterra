@@ -1,7 +1,9 @@
 ---
-aliases: Green
-tags: Deity/Domain/Nature, Alignment/CG, DivineRank/Greater, Pantheon/Thediac
+aliases:
+  - Viridian
+tags:
+  - Deity/Domain/Nature
+  - Alignment/CG
+  - DivineRank/Greater
+  - Pantheon/Thediac
 ---
-| Rank | Gender | Alignment |
-|:-:|:-:|:-:|
-||||

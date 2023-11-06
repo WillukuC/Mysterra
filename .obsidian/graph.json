@@ -78,7 +78,7 @@
       }
     },
     {
-      "query": "path:\"A - Characters\"  ",
+      "query": "path:\"A - PCs\"  ",
       "color": {
         "a": 1,
         "rgb": 6856504
@@ -102,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.20388369396934672,
-  "close": true
+  "scale": 0.12264898802746073,
+  "close": false
 }

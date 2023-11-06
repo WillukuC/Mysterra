@@ -7,7 +7,7 @@ In the center of the Astral Sea is the Fugue Plane, a gray and neutral plane.
 | Plane                                                        | Color Pool      |
 | ------------------------------------------------------------ | --------------- |
 | [[Prime]]                                                | Silver          |
-| [[Faeri]]                                                | Emerald green   |
+| [[Faerie]]                                                | Emerald green   |
 | [[Umbra]]                                               | Spiraling black |
 | [Outlands](Outlands.md) | Leather brown   |
 | [Mechanus](Mechanus.md)           | Diamond         |

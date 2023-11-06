@@ -6,7 +6,7 @@ tags: Plane/Inner, Plane/Transitive
 | Plane                               | Ethereal Curtain |
 | ----------------------------------- | ---------------- |
 | [Prime](Prime.md)            | Metallic silver  |
-| [Faeri](Faeri.md)            | Opalescent white |
+| [Faerie](Faerie.md)            | Opalescent white |
 | [Umbra](Umbra.md)          | Dusky gray       |
 | [Fire](Plane%20of%20Fire.md)           | Red              |
 | [Earth](Plane%20of%20Earth.md)         | Brown            |
