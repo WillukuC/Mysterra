@@ -1,4 +1,5 @@
 ---
-aliases:
-  - fighter
+aliases: []
+tags:
+  - Class/Fighter
 ---

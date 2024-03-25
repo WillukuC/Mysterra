@@ -1,6 +1,7 @@
 ---
-aliases:
-  - cleric
+aliases: []
+tags:
+  - Class/Cleric
 ---
 
 # Description

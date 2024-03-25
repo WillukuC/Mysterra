@@ -1,0 +1,4 @@
+---
+aliases:
+  - Atromi the Vengeful
+---

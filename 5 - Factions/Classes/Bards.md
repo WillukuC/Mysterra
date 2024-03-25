@@ -1,6 +1,7 @@
 ---
-aliases:
-  - bard
+aliases: []
+tags:
+  - Class/Bard
 ---
 # Description
 # Bard Colleges

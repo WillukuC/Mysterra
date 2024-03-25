@@ -1,4 +1,5 @@
 ---
-aliases:
-  - warlock
+aliases: []
+tags:
+  - Class/Warlock
 ---

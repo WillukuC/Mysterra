@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ee97417b8b2cd33",
+        "id": "ab0f0f5991c5919a",
         "type": "tabs",
         "children": [
           {
-            "id": "f43293ac8be73894",
+            "id": "5afc6ec376ae4d68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - Magic & Tech/Spells/Magic.md",
+                "file": "7 - Bestiary/Humanoids/Lizardfolk/Lizardfolk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "218648c39a336ad2",
+            "id": "52731f734865d96f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Overview/TODO.md",
+                "file": "8 - Magic & Tech/Magic Items/Items/Wondrous Items/Lantern of Tracking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "bc49ebad92cd4a33",
+            "id": "a22ffe1582d4fe7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King-Killer Star.md",
+                "file": "0 - Overview/- Rules.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "9de81e36d21e4136",
+            "id": "1bd8240a9c87768e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Overview/Maps/Planar Map.md",
+                "file": "7 - Bestiary/Creature Types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,77 @@
             }
           },
           {
-            "id": "3ae4d13a37f9e63e",
+            "id": "8f55e663edf0050d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Overview/TODO.md",
+                "file": "Faerie Dragon.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bd3f7d8cab6991b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Bestiary/Monstrosities/Abominable Yeti.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "186adb9857b6405a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Bestiary/Aberrations/Beholder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b6395b293dbee38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slaad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7d9f93e96baa6db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Bestiary/Aberrations/Aboleth.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "896f08f0b88f37a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Bestiary/Humanoids/Shapechangers/Wereboar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -102,10 +167,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "humans",
+                "query": "file:abol",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -134,13 +199,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9dcc690ce735614a",
+            "id": "b6ba3fa3a682c312",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Slaad.md"
+              }
+            }
+          },
+          {
+            "id": "3343d8ce703bb20f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b402f53932fdfeed",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Slaad.md"
+              }
+            }
+          },
+          {
+            "id": "bdd5d48ff6d9d918",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Overview/TODO.md",
-                "collapseAll": true,
+                "file": "Slaad.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -156,58 +252,38 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Overview/TODO.md",
-                "linksCollapsed": true,
+                "file": "Slaad.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "3343d8ce703bb20f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "b6ba3fa3a682c312",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "0 - Overview/TODO.md"
-              }
-            }
-          },
-          {
-            "id": "c4f6048e98112506",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6dbc56c6756110bb",
+            "id": "579768ac54ed0d8a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
+            }
+          },
+          {
+            "id": "8eb85442b07d2e37",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,50 +294,55 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false
     }
   },
-  "active": "3ae4d13a37f9e63e",
+  "active": "0b6395b293dbee38",
   "lastOpenFiles": [
-    "5 - Factions/Classes/Sorcerers.md",
-    "0 - Overview/TODO.md",
-    "5 - Factions/Classes/Wizards.md",
-    "5 - Factions/Classes/Warlocks.md",
-    "5 - Factions/Classes/Rogues.md",
-    "5 - Factions/Classes/Rangers.md",
-    "5 - Factions/Classes/Paladins.md",
-    "5 - Factions/Classes/Monks.md",
-    "5 - Factions/Classes/Clerics.md",
-    "5 - Factions/Classes/Fighters.md",
-    "5 - Factions/Classes/Barbarians.md",
-    "5 - Factions/Classes/Bards.md",
-    "5 - Factions/Classes/Druids.md",
-    "0 - Overview/Rules.md",
-    "5 - Factions/Classes",
-    "0 - Overview/Maps/Planar Map.md",
-    "Dracorage.md",
-    "King-Killer Star.md",
-    "Friends.md",
-    "Acid Splash.md",
-    "Fire Bolt.md",
-    "Eldritch Blast.md",
-    "Druidcraft.md",
-    "Dancing Lights.md",
-    "Chill Touch.md",
-    "Blade Ward.md",
-    "8 - Magic & Tech/Spells/Epic Spells",
-    "8 - Magic & Tech/Spells/Mythal",
-    "8 - Magic & Tech/Spells/9th-level",
-    "8 - Magic & Tech/Spells/8th-level",
-    "8 - Magic & Tech/Spells/7th-level",
-    "8 - Magic & Tech/Spells/6th-level",
-    "8 - Magic & Tech/Spells/5th-level",
-    "8 - Magic & Tech/Spells/4th-leel",
-    "8 - Magic & Tech/Spells/3rd-level",
-    "8 - Magic & Tech/Spells/Magic.md",
+    "7 - Bestiary/Aberrations/Beholder.md",
+    "Slaad.md",
+    "7 - Bestiary/Monstrosities/Abominable Yeti.md",
+    "7 - Bestiary/Aberrations/Aboleth.md",
+    "7 - Bestiary/Fiends/Other/Werevulture.md",
+    "Faerie Dragon.md",
+    "7 - Bestiary/Humanoids/Aarakocra.md",
+    "7 - Bestiary/Creature Types.md",
+    "7 - Bestiary/Undead/Undead.md",
+    "7 - Bestiary/Constructs/Construct.md",
+    "7 - Bestiary/Plants/Plant.md",
+    "7 - Bestiary/Oozes/Ooze.md",
+    "Minotaur.md",
+    "7 - Bestiary/Monstrosities/Monstrosity.md",
+    "7 - Bestiary/Beasts/Animals/Aquatic/Octopus.md",
+    "8 - Magic & Tech/Magic Items/Items/Wondrous Items/Lantern of Tracking.md",
+    "7 - Bestiary/Humanoids/Humanoid.md",
+    "7 - Bestiary/Humanoids/Shapechangers/Wereboar.md",
+    "7 - Bestiary/Giants/Giant.md",
+    "7 - Bestiary/Fiends/Fiend.md",
+    "7 - Bestiary/Humanoids/Lizardfolk/Lizardfolk.md",
+    "8 - Magic & Tech/Spells/3rd-level/Wind Wall.md",
+    "4 - History/Calendar/Eras/E1 - Foundation.md",
+    "1 - Cosmology/Planes/Innermost Planes/Faerie/Faerie.md",
+    "0 - Overview/- Rules.md",
+    "8 - Magic & Tech/Spells/1st-level/Sleep.md",
+    "C - Session Planning/Session 5.canvas",
+    "C - Session Planning/Lumina Thicket Dungeon.canvas",
+    "C - Session Planning/Random Encounters.canvas",
+    "8 - Magic & Tech/Mundane Items/Tools",
+    "8 - Magic & Tech/Feats/Boons",
+    "8 - Magic & Tech/Boons",
+    "8 - Magic & Tech/Feats",
+    "8 - Magic & Tech/Supernatural/Blessings",
+    "8 - Magic & Tech/Supernatural/Charms",
+    "8 - Magic & Tech/Supernatural",
+    "8 - Magic & Tech/Supernatural",
+    "5 - Factions/Guilds/Scholastic Guilds",
+    "5 - Factions/Guilds/Performers Guilds",
+    "Pasted image 20240304022657.png",
+    "Yawning_Portal_plan_HoU.webp",
+    "Pasted image 20240303112729.png",
+    "Untitled 1.canvas",
     "Pasted image 20230824201459.png",
-    "Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
 }

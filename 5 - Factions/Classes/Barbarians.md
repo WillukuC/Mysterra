@@ -1,6 +1,7 @@
 ---
-aliases:
-  - barbarian
+aliases: []
+tags:
+  - Class/Barbarian
 ---
 # Description
 people of towns and cities take pride in how civilized they are as if denying one's nature is a mark of superiority

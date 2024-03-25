@@ -1,6 +1,7 @@
 ---
-aliases:
-  - paladin
+aliases: []
+tags:
+  - Class/Paladin
 ---
 # Description
 paladins swear to uphold justice and righteousness, to stand with good things of the world against the darkness, to hunt the forces of evil wherever they lurk
@@ -42,7 +43,7 @@ despair. Let the light of your joy and courage shine forth
 in all your deeds.
 ## Oath of Vengeance
 A solemn commitment to punish those who have committed a grievous sin
-when evil forces slaughter helpless villagers, when a people turns against the will of the gods, when a thieves' guild grows too powerful and violent, when a dragon rampages through the countryside, paladins swear an oath of Vengeance to right that which has gone wrong
+when evil forces slaughter helpless villagers, when a people turns against the will of the gods, when a thieves' guild grows too powerful and violent, when a [[dragon]] rampages through the countryside, paladins swear an oath of Vengeance to right that which has gone wrong
 Sometimes called avengers or dark knights
 their own purity is not as important as justice
 ### Tenets of Vengeance

@@ -1,0 +1,4 @@
+---
+aliases:
+  - Vodi the Kindhearted
+---

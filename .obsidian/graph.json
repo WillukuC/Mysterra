@@ -85,6 +85,13 @@
       }
     },
     {
+      "query": "path:\"B - NPCs/Deities\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13991180
+      }
+    },
+    {
       "query": "path:\"B - NPCs\"  ",
       "color": {
         "a": 1,
@@ -92,16 +99,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 1.04427083333333,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.504696673189824,
+  "repelStrength": 9.96868884540117,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.12264898802746073,
-  "close": false
+  "linkDistance": 149,
+  "scale": 0.08188939540474131,
+  "close": true
 }

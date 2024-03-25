@@ -15,7 +15,7 @@ A crystal sphere, sometimes called a crystal shell, is a gigantic spherical shel
 - [[Greatspace]], a technologically advanced crystal sphere that is governed by House Shambrath of Thesalys.
 - [[Darkspace]], a long dead sphere dominated by the vampire T'Laan.
 - [[Faeriespace]], a strange and mystical sphere dominated by an enormous tree.
-- [[Clusterspace]], a remote crystal sphere that contained the Astromundi Cluster, regarded by some sages as the place where mind flayers originated.
+- [[Clusterspace]], a remote crystal sphere that contained the Astromundi Cluster, regarded by some sages as the place where [[Mind Flayer|mind flayers]] originated.
 
 ### Other Spheres
 - [[Aebrynisspace]], the crystal sphere that contains the Aebrynissian solar system.

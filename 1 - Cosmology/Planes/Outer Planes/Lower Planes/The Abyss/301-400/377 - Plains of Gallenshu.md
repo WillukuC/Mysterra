@@ -1,0 +1,3 @@
+---
+aliases: Plains of Gallenshu
+---

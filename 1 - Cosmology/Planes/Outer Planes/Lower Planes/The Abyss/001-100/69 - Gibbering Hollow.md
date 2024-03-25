@@ -1,0 +1,3 @@
+---
+aliases: Gibbering Hollow
+---

@@ -1,4 +1,4 @@
 ---
 aliases: Warren Elder
-tags: DivineRank/Demigod, Alignment/NG
+tags: Deity/DivineRank/Demigod, Alignment/NG
 ---

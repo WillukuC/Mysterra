@@ -1,0 +1,4 @@
+---
+aliases:
+- blue dragons
+---

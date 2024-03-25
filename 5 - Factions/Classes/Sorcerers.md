@@ -1,6 +1,7 @@
 ---
-aliases:
-  - sorcerer
+aliases: []
+tags:
+  - Class/Sorcerer
 ---
 # Description
 raw magic is a part of every sorcerer, it suffuses body, mind and spirit with a latent power that waits to be tapped
@@ -21,12 +22,12 @@ others hope to get rid of it, or to unleash its full potential
 # Sorcerous Origins
 ## Draconic Bloodline
 draconic magic that was mingled with their blood or that of their ancestors
-trace their descent to a mighty sorcerer of ancient times who made a bargain with a dragon or who had a dragon parent
+trace their descent to a mighty sorcerer of ancient times who made a bargain with a [[dragon]] or who had a dragon parent
 some bloodlines are well established, but most are obscure
 any sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance
 ## Wild Magic
 innate magic comes from the wild forces of chaos that underlie the order of creation
 might have been exposed to some form of raw magic, perhaps Limbo
-maybe blessed by a powerful fey creature or marked by a demon
+maybe blessed by a powerful [[fey]] creature or marked by a demon
 could be a fluke of birth with no apparent cause or reason
 the chaotic magic churns within, waiting for any outlet

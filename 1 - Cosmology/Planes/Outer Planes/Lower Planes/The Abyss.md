@@ -6,7 +6,7 @@ tags:
   - Plane/Outer/Lower
   - Alignment/CE
 ---
-The Abyss is the birth place of the [[Demons|demons]], a chaotic evil unto itself with uncountable layers of infinite variety connected haphazardly. The nature of the [[Planes|plane]] is violent and malevolent, where the strong survived on the backs of the weak, the weak conspired to overthrow the strong, alliances only lasted while convenient, and the landscape itself tortured the mind and body of all who dared to pass.
+The Abyss is the birth place of the [[Demons|demons]], a chaotic evil unto itself with uncountable layers of infinite variety connected haphazardly. The nature of the [[- Planes|plane]] is violent and malevolent, where the strong survived on the backs of the weak, the weak conspired to overthrow the strong, alliances only lasted while convenient, and the landscape itself tortured the mind and body of all who dared to pass.
 # Layers
 ## Layers 1-100
 ### [[1 - Plain of Infinite Portals]]

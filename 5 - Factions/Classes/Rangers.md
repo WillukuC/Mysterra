@@ -1,4 +1,5 @@
 ---
-aliases:
-  - ranger
+aliases: []
+tags:
+  - Class/Ranger
 ---

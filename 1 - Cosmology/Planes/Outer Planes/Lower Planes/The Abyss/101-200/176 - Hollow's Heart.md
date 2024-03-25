@@ -1,0 +1,3 @@
+---
+aliases: Hollow's Heart
+---

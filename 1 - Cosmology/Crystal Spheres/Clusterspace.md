@@ -1,4 +1,4 @@
 ---
 tags: Location/CrystalSphere
 ---
-The origin of mind flayers
+The origin of [[Mind Flayer|mind flayers]]

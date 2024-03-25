@@ -1,0 +1,3 @@
+---
+aliases: Fountain of Screams
+---

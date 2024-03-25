@@ -1,6 +1,6 @@
 ---
 aliases: Lumina Chieftain
 tags:
-  - DivineRank/Demigod
+  - Deity/DivineRank/Demigod
   - Alignment/NG
 ---

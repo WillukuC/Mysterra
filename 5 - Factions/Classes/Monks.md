@@ -1,4 +1,5 @@
 ---
-aliases:
-  - monk
+aliases: []
+tags:
+  - Class/Monk
 ---

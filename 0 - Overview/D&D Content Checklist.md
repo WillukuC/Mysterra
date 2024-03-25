@@ -1,0 +1,437 @@
+- [ ] Original D&D books
+	- [ ] 1974
+		- [ ] Men & Magic
+		- [ ] Monsters & Treasure
+		- [ ] The Underworld & Wilderness Adventures
+	- [ ] 1975
+		- [ ] Supplement I: Greyhawk
+		- [ ] Supplement II: Blackmoor
+	- [ ] 1976
+		- [ ] Supplement III: Eldritch Wizardry
+		- [ ] Supplement IV: Gods, Demi-Gods & Heroes
+		- [ ] Supplement V: Swords & Spells
+- [ ] Basic D&D books
+	- [ ] 1977
+	- [ ] 1978
+	- [ ] 1979
+	- [ ] 1980
+	- [ ] 1981
+	- [ ] 1982
+	- [ ] 1983
+	- [ ] 1984
+	- [ ] 1985
+	- [ ] 1986
+	- [ ] 1987
+	- [ ] 1988
+	- [ ] 1989
+	- [ ] 1990
+	- [ ] 1991
+	- [ ] 1992
+	- [ ] 1993
+	- [ ] 1994
+	- [ ] 1995
+	- [ ] 1996
+	- [ ] 1997
+	- [ ] 1998
+	- [ ] 1999
+- [ ] AD&D 1e books
+	- [ ] 1977
+	- [ ] 1978
+	- [ ] 1979
+	- [ ] 1980
+	- [ ] 1981
+	- [ ] 1982
+	- [ ] 1983
+	- [ ] 1984
+	- [ ] 1985
+	- [ ] 1986
+	- [ ] 1987
+	- [ ] 1988
+	- [ ] 1989
+- [ ] AD&D 2e books
+	- [ ] 1989
+	- [ ] 1990
+	- [ ] 1991
+	- [ ] 1992
+	- [ ] 1993
+	- [ ] 1994
+	- [ ] 1995
+	- [ ] 1996
+	- [ ] 1997
+	- [ ] 1998
+	- [ ] 1999
+	- [ ] 2000
+- [ ] D&D 3e books
+	- [ ] 2000
+		- [ ] The Forge of Fury
+		- [ ] Diablo II - Diablerie
+		- [ ] Dungeon Master's Guide
+		- [ ] Gazetteer
+		- [ ] Hero Builder's Guidebook
+		- [ ] Into the Dragon's Lair
+		- [ ] Living Greyhawk Gazetteer
+		- [ ] Monster Manual
+		- [ ] Player's Handbook
+		- [ ] Pool of Radiance - Attack on Myth Drannor
+		- [ ] Sunless Citadel
+	- [ ] 2001
+		- [ ] The Standing Stone
+		- [ ] Deep Horizon
+		- [ ] Diablo II - To Hell and Back
+		- [ ] Enemies and Allies
+		- [ ] Forgotten Realms Campaign Setting
+		- [ ] Heart of Nightfang Spire
+		- [ ] Lords of Darkness
+		- [ ] Magic of Faerûn
+		- [ ] Manual of the Planes
+		- [ ] Monsters of Faerûn
+		- [ ] Oriental Adventures
+		- [ ] Psionics Handbook
+		- [ ] Return to the Temple of Elemental Evil
+		- [ ] Sword and Fist
+		- [ ] The Fright at Tristor
+		- [ ] The Speaker In Dreams
+	- [ ] 2002
+		- [ ] Bastion of Broken Souls
+		- [ ] Book Of Challenges
+		- [ ] Book of Vile Darkness
+		- [ ] City of the Spider Queen
+		- [ ] Deities & Demigods
+		- [ ] Epic Level Handbook
+		- [ ] Faiths and Pantheons
+		- [ ] Lord of the Iron Fortress
+		- [ ] Masters of the Wild
+		- [ ] Monster Manual II
+		- [ ] Silver Marches
+		- [ ] Stronghold Builder's Guidebook
+	- [ ] 2003
+		- [ ] Arms and Equipment Guide
+		- [ ] Fiend Folio
+		- [ ] Ghostwalk
+		- [ ] Races of Faerûn
+		- [ ] Savage Species
+		- [ ] Unapproachable East
+- [ ] D&D 3.5e books
+	- [ ] 2003
+		- [ ] Book of Exalted Deeds
+		- [ ] Complete Warrior
+		- [ ] Draconomicon
+		- [ ] Dragonlance Campaign Setting
+		- [ ] Dungeon Master's Guide
+		- [ ] Miniatures Handbook
+		- [ ] Monster Manual
+		- [ ] Player's Handbook v3.5
+		- [ ] Underdark
+	- [ ] 2004
+		- [ ] Complete Arcane
+		- [ ] Complete Divine
+		- [ ] Eberron Campaign Setting
+		- [ ] Expanded Psionics Handbook
+		- [ ] Frostburn
+		- [ ] Libris Mortis
+		- [ ] Map Folio 3-D
+		- [ ] Map Folio One
+		- [ ] Map Folio Two
+		- [ ] Monster Manual III
+		- [ ] Planar Handbook
+		- [ ] Player's Guide To Faerun
+		- [ ] Races of Destiny
+		- [ ] Races of Stone
+		- [ ] Serpent Kingdoms
+		- [ ] Shadows of the Last War
+		- [ ] Sharn - City of Towers
+		- [ ] Shining South
+		- [ ] Unearthed Arcana
+		- [ ] Whispers of the Vampire's Blade
+	- [ ] 2005
+		- [ ] Champions of Ruin
+		- [ ] Champions Of Valor
+		- [ ] City of Splendors - Waterdeep
+		- [ ] Complete Adventurer
+		- [ ] Dragon Compendium Volume I
+		- [ ] Dungeon Master's Guide II
+		- [ ] Explorers Handbook
+		- [ ] Fantastic Locations - Fane of the Drow
+		- [ ] Fantastic Locations - Hellspike Prison
+		- [ ] Five Nations
+		- [ ] Grasp of the Emerald Claw
+		- [ ] Heroes of Battle
+		- [ ] Lords of Madness
+		- [ ] Lost Empires of Faerûn
+		- [ ] Magic of Eberron
+		- [ ] Magic of Incarnum
+		- [ ] Races of Eberron
+		- [ ] Races of the Wild
+		- [ ] Sandstorm
+		- [ ] Sons of Gruumsh
+		- [ ] Spell Compendium
+		- [ ] Stormwrack
+		- [ ] Three Dragon Ante
+		- [ ] Weapons of Legacy
+	- [ ] 2006
+		- [ ] Cityscape
+		- [ ] Complete Mage
+		- [ ] Complete Psionic
+		- [ ] Dragon Magic
+		- [ ] Dragonmarked
+		- [ ] Dragons of Faerûn
+		- [ ] Expedition to Castle Ravenloft
+		- [ ] Faiths of Eberron
+		- [ ] Fantastic Locations - Dragondown Grotto
+		- [ ] Fantastic Locations - Fields of Ruin
+		- [ ] Fantastic Locations - Frostfell Rift
+		- [ ] Fiendish Codex I - Hordes of the Abyss
+		- [ ] Fiendish Codex II - Tyrants of the Nine Hells
+		- [ ] Monster Manual IV
+		- [ ] Mysteries of the Moonsea
+		- [ ] Player's Guide to Eberron
+		- [ ] Player's Handbook II
+		- [ ] Power Of Faerûn
+		- [ ] Races of the Dragon
+		- [ ] Red Hand of Doom
+		- [ ] Scourge of the Howling Horde
+		- [ ] Secrets of Xen'drik
+		- [ ] The Shackled City Adventure Path
+		- [ ] The Shattered Gates of Slaughtergarde
+		- [ ] The Twilight Tomb
+		- [ ] Tome of Battle - The Book of Nine Swords
+		- [ ] Tome of Magic
+		- [ ] Voyage of the Golden Dragon
+	- [ ] 2007
+		- [ ] Anauroch - The Empire Of Shade
+		- [ ] Barrow of the Forgotten King
+		- [ ] City of Peril
+		- [ ] Complete Champion
+		- [ ] Complete Scoundrel
+		- [ ] Cormyr - The Tearing of the Weave
+		- [ ] D&D Tiles III - Hidden Crypts
+		- [ ] D&D Tiles IV - Ruins of the Wild
+		- [ ] Dragons of Eberron
+		- [ ] Drow of the Underdark
+		- [ ] Dungeon Survival Guide
+		- [ ] Dungeonscape
+		- [ ] Elder Evils
+		- [ ] Exemplars of Evil
+		- [ ] Expedition to the Demonweb Pits
+		- [ ] Expedition to the Ruins of Greyhawk
+		- [ ] Expedition to Underdark
+		- [ ] Eyes of the Lich Queen
+		- [ ] Fortress of the Yuan-Ti
+		- [ ] Magic Item Compendium
+		- [ ] Monster Manual V
+		- [ ] Rules Compendium
+		- [ ] Secrets Of Sarlona
+		- [ ] Shadowdale - The Scouring of the Land
+		- [ ] The Forge of War
+		- [ ] The Grand History of the Realms
+		- [ ] The Sinister Spire
+	- [ ] 2008
+		- [ ] An Adventurer's Guide to Eberron
+		- [ ] City of Stormreach
+- [ ] D&D 4e books
+	- [ ] 2007
+		- [ ] Wizards Presents: Races and Classes
+	- [ ] 2008
+		- [ ] Adventurer's Vault
+		- [ ] Demon Queen's Enclave
+		- [ ] Draconomicon: Chromatic Dragons
+		- [ ] Dungeon Master's Guide
+		- [ ] Forgotten Realms Campaign Guide
+		- [ ] Forgotten Realms Player's Guide
+		- [ ] Keep on the Shadowfell
+		- [ ] King of the Trollhaunt Warrens
+		- [ ] Manual of the Planes
+		- [ ] Martial Power
+		- [ ] Monster Manual
+		- [ ] Player's Handbook
+		- [ ] Pyramid of Shadows
+		- [ ] Scepter Tower of Spellgard
+		- [ ] Starter Set
+		- [ ] Streets of Shadow
+		- [ ] Thunderspire Labyrinth
+		- [ ] Wizards Presents: Worlds and Monsters
+	- [ ] 2009
+		- [ ] Adventurer's Vault 2
+		- [ ] Arcane Power
+		- [ ] Arcane Towers
+		- [ ] Assault on Nightwyrm Fortress
+		- [ ] Death's Reach
+		- [ ] Divine Power
+		- [ ] Draconomicon: Metallic Dragons
+		- [ ] Dragon Magazine Annual 2009
+		- [ ] Dungeon Delve
+		- [ ] Dungeon Master's Guide 2
+		- [ ] Eberron Campaign Guide
+		- [ ] Eberron Player's Guide
+		- [ ] Kingdom of the Ghouls
+		- [ ] Monster Manual 2
+		- [ ] Open Grave
+		- [ ] Player's Handbook 2
+		- [ ] Primal Power
+		- [ ] Prince of Undeath
+		- [ ] Revenge of the Undeath
+		- [ ] Revenge of the Giants
+		- [ ] Sinister Woods
+		- [ ] The Plane Below
+	- [ ] 2010
+		- [ ] D&D Essentials Starter Set
+		- [ ] Dark Sun Campaign Setting
+		- [ ] Dark Sun Creature Catalog
+		- [ ] Demonomicon
+		- [ ] Dungeon Magazine Annual 2010
+		- [ ] Hammerfast
+		- [ ] Harrowing Halls
+		- [ ] Heroes of the Forgotten Kingdoms
+		- [ ] Marauders of the Dune Sea
+		- [ ] Martial Power 2
+		- [ ] Monster Manual 3
+		- [ ] Monster Vault
+		- [ ] Orcs of Stonefang Pass
+		- [ ] Player's Handbook 3
+		- [ ] Player's Handbook Races: Dragonborn
+		- [ ] Player's Handbook Races: Tieflings
+		- [ ] Player's Strategy Guide
+		- [ ] Psionic Power
+		- [ ] Rules Compendium
+		- [ ] The Plane Above
+		- [ ] The Slaying Stone
+		- [ ] Tomb of Horrors
+		- [ ] Underdark
+		- [ ] Vor Rukoth: An Ancient Ruins Adventure Site
+	- [ ] 2011
+		- [ ] Heroes of Shadow
+		- [ ] Heroes of the Feywild
+		- [ ] Madness at Gardmore Abbey
+		- [ ] Monster Vault: Threats to the Nentir Vale
+		- [ ] Mordenkainen's Magnificent Emporium
+		- [ ] Neverwinter Campaign Setting
+		- [ ] The Book of Vile Darkness
+		- [ ] The Shadowfell
+	- [ ] 2012
+		- [ ] Castle Grimstead
+		- [ ] Elminster's Forgotten Realm
+		- [ ] Halls of Undermountain
+		- [ ] Heroes of the Elemental Chaos
+		- [ ] Into the Unknown
+		- [ ] Menzoberranzan
+	- [ ] 2013
+		- [ ] Ghosts of Dragonspear Castle
+		- [ ] Murder in the Baldur's Gate
+	- [ ] 2014
+		- [ ] Legacy of the Crystal Shard
+- [ ] 5e books
+	- [ ] 2014
+		- [ ] Player's Handbook
+			- [ ] Races
+			- [ ] Classes
+			- [ ] Alignments (p122)
+			- [ ] Languages/Scripts (p123)
+			- [ ] Equipment
+			- [ ] Feats
+			- [ ] Spells
+		- [ ] Dungeon Master's Guide
+			- [ ] The Planes (p43)
+				- [ ] Astral Plane
+				- [ ] Ethereal Plane
+				- [x] Feywild
+				- [ ] Shadowfell
+				- [ ] Inner Planes
+					- [ ] Elemental Chaos
+					- [ ] Plane of Air
+					- [ ] Plane of Earth
+					- [ ] Plane of Fire
+					- [ ] Plane of Water
+				- [ ] Outer Planes
+					- [ ] Mount Celestia
+					- [ ] Bytopia
+					- [ ] Elysium
+					- [ ] The Beastlands
+					- [ ] Arborea
+					- [ ] Ysgard
+					- [ ] Limbo
+					- [ ] Pandemonium
+					- [ ] The Abyss
+					- [ ] Carceri
+					- [ ] Hades
+					- [ ] Gehenna
+					- [ ] The Nine Hells
+					- [ ] Acheron
+					- [ ] Mechanus
+					- [ ] Arcadia
+				- [ ] Material Planes
+			- [ ] Treasure
+			- [ ] Siege Equipment (255)
+			- [ ] Diseases (256)
+			- [ ] Poisons (257)
+			- [ ] Madness (258)
+		- [ ] Monster Manual
+			- [ ] Monsters
+		- [ ] Lost Mine of Phandelver
+		- [ ] Hoard of the Dragon Queen
+		- [ ] Rise of Tiamat
+	- [ ] 2015
+		- [ ] Elemental Evil Player's Companion
+		- [ ] Out of the Abyss
+		- [ ] Princes of the Apocalypse
+		- [ ] Sword Coast Adventurer's Guide
+	- [ ] 2016
+		- [ ] Curse of Strahd
+		- [ ] Storm King's Thunder
+		- [ ] Volo's Guide to Monsters
+	- [ ] 2017
+		- [ ] One Grung Above
+		- [ ] Tales of the Yawning Portal
+		- [ ] The Tortle Package
+		- [ ] Tomb of Annihilation
+		- [ ] Xanathar's Guide to Everything
+	- [ ] 2018
+		- [ ] Guildmaster's Guide to Ravnica
+		- [ ] Lost Laboratory of Kwalish
+		- [ ] Mordenkainen's Tome of Foes
+		- [ ] Waterdeep: Dragon Heist
+		- [ ] Waterdeep: Dungeon of the Mad Mage
+	- [ ] 2019
+		- [ ] Acquisitions Incorporated
+		- [ ] Baldur's Gate: Descent into Avernus
+		- [ ] Dragon of Icespire Peak
+		- [ ] D&D vs Rick and Morty
+		- [ ] Eberron: Rising from the Last War
+		- [ ] Ghosts of Saltmarsh
+		- [ ] Infernal Machine Rebuild
+		- [ ] Locathah Rising
+		- [ ] Stranger Things: Hunt for the THESSALHYDRA
+		- [ ] Tyranny of Dragons
+	- [ ] 2020
+		- [ ] Explorer's Guide to Wildemount
+		- [ ] Icewind Dale: Rime of the Frostmaiden
+		- [ ] Mythic Odysseys of Theros
+		- [ ] Return to the Glory
+		- [ ] Tasha's Cauldron of Everything
+	- [ ] 2021
+		- [ ] Candlekeep Mysteries
+		- [x] Domains of Delight
+		- [ ] Fizban's Treasury of Dragons
+		- [ ] Minsc and Boo's Journal of Villainy
+		- [ ] Strixhaven: A Curriculum of Chaos
+		- [ ] The Wild Beyond the Witchlight
+		- [ ] Van Richten's Guide to Ravenloft
+	- [ ] 2022
+		- [ ] Critical Role: Call of the Netherdeep
+		- [ ] Dragonlance: Shadow of the Dragon Queen
+		- [ ] Dragons of Stormwreck Isle
+		- [ ] Journeys Through the Radiant Citadel
+		- [ ] Mordenkainen Presents: Monsters of the Multiverse
+		- [ ] Spelljammer: Adventures in Space
+	- [ ] 2023
+		- [ ] Bigby Presents: Glory of the Giants
+		- [ ] Chains of Asmodeus
+		- [ ] Keys from the Golden Vault
+		- [ ] Phandelver and Below: The Shattered Obelisk
+		- [ ] The Book of Many Things
+	- [ ] 2024
+		- [ ] Vecna: Eye of Ruin
+		- [ ] Quests from the Infinite Staircase
+		- [ ] Player's Handbook (1D&D)
+		- [ ] Dungeon Master's Guide (1D&D)
+	- [ ] 2025
+		- [ ] Monster Manual (1D&D)

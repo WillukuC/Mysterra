@@ -1,4 +1,5 @@
 ---
-aliases:
-  - rogue
+aliases: []
+tags:
+  - Class/Rogue
 ---

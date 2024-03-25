@@ -1,0 +1,3 @@
+---
+aliases: Outcasts' End
+---

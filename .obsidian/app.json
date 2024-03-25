@@ -2,7 +2,12 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "focusNewTab": false,
-  "readableLineLength": true,
-  "showLineNumber": true,
-  "rightToLeft": false
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "propertiesInDocument": "hidden",
+  "showIndentGuide": false,
+  "spellcheck": false,
+  "trashOption": "none",
+  "newFileLocation": "root"
 }

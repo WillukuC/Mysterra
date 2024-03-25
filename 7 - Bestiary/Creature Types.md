@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Creature Types
+  - Creature Type
 ---
-## [[Aberrations]]
-## [[Beasts]]
-## [[Celestials]]
-## [[Constructs]]
-## [[Dragons]]
-## [[Elementals]]
+## [[Aberration]]
+## [[Beast]]
+## [[Celestial]]
+## [[Construct]]
+## [[Dragon]]
+## [[Elemental]]
 ## [[Fey]]
-## [[Fiends]]
-## [[Giants]]
-## [[Humanoids]]
-## [[Monstrosities]]
-## [[Oozes]]
-## [[Plants]]
+## [[Fiend]]
+## [[Giant]]
+## [[Humanoid]]
+## [[Monstrosity]]
+## [[Ooze]]
+## [[Plant]]
 ## [[Undead]]

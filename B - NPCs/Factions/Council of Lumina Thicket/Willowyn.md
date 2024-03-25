@@ -1,4 +1,4 @@
 ---
 aliases: Whispering Guardian
-tags: DivineRank/Demigod, Alignment/LG
+tags: Deity/DivineRank/Demigod, Alignment/LG
 ---

@@ -3,5 +3,10 @@
   "tag-wrangler",
   "table-editor-obsidian",
   "global-search-and-replace",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "highlightr-plugin",
+  "dataview",
+  "mononote",
+  "find-unlinked-files",
+  "graph-analysis"
 ]

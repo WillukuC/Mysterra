@@ -1,14 +1,436 @@
- - [ ] Hellfire (magic energy)
- - [ ] Flesh out psionicism
- - [ ] Runes and sigils
- - [ ] Epic Magic
- - [ ] Rage of Dragons / Dracorage / King-Killer Star
- - [ ] PHB Classes and subclasses:
-	 - [ ] Bards
-	 - [ ] Druids
-	 - [ ] Fighters
-	 - [ ] Monks
-	 - [ ] Rangers
-	 - [ ] Rogues
-	 - [ ] Warlocks
-	 - [ ] Wizards
+- [ ] Dragonmarks, Holy Marks
+- [ ] Time of Troubles (Forced the gods to roam the earth as their avatars)
+- [ ] Artifacts
+	- [ ] Guardian's Tear (Helm)
+	- [ ] 
+- [ ] Magic energies
+	- [ ] Hellfire (magic energy)
+	- [ ] Silver Fire
+	- [ ] Shadow Magic / Shadow Weave / Shar
+		- [ ] Rite of Unwinding is creating Mundane magic zones, while leaving the Shadow Weave intact
+	- [ ] Dimension Spells
+- [ ] Artes Prohibitae
+	- [ ] Skiamancy (Shadow)
+	- [ ] Dermamancy (Skin)
+	- [ ] Ostomancy (Bones)
+	- [ ] Aimamancy (Blood)
+	- [ ] Myalomancy (Mind)
+- [ ] Magic Item Crafting
+	- [ ] Gems and spells for the effects
+	- [ ] Focal stone to bind the effects to (using *dweomerflow* and *abeyance*)
+	- [ ] Material for the shell (hardstones, metals, organic materials) which is melded (with *Merald's meld* and *crown meld*)
+	- [ ] Enstarment which was to infuse the powers into the item (using *eternal flame* to prepare it to accept the magic and then *wondrous web* to link the shell to the focal stone.)
+	- [ ] Mastering, which is to make bare-skin contact with the item during enstarment and to speak the precise specification to which the item would be activated, controlled, or operated, as well as given a name if the caster chooses.
+	- [ ] Awakening, which is the process of casting *awakening* on the new magic item. 
+	- [ ] Optional steps:
+		- [ ] Veiling, conceal the true appearance of the magical item (another *eternal flame* and the necessary illusion spells)
+		- [ ] Permanency, allowing an item's magic to be permanent and not based on a number of charges (*eternal flame*, followed by *permanency* or, more evil, *blood link*)
+	- [ ] Side effects
+		- [ ] Takes a toll on the caster. Mages who spent too much time crafting magical items become distant, withdrawn, mentally unstable. Their physical appearance became blurred or shadowy (known as spell hollowing).
+		- [ ] Can become wizshades with the wrong combination of magic.
+- [ ] Materials list with effects / spells / source
+	- [ ] Gems
+	- [ ] Hardstones
+	- [ ] Metals
+	- [ ] Woods
+	- [ ] Other organic materials (bones, etc)
+	- [ ] Liquids
+- [ ] Flesh out psionicism
+- [ ] Runes and sigils
+- [ ] Epic Magic
+- [ ] Rage of Dragons / Dracorage / King-Killer Star
+- [x] Add moons
+	- [ ] Argentil (Selune)
+	- [ ] Sehanine (Sehanine Moonbow)
+	- [ ] Hayawan (Malar)
+	- [ ] Duendosc (Eilistraee)
+- [ ] Abominations (creatures born of gods and rejected by them)
+	- [ ] Anaxims (ill-conceived mechanical creations of Forge gods)
+	- [ ] Astral stalker
+	- [ ] Atropals (remnants of stillborn gods)
+	- [ ] Blood fiend
+	- [ ] Chichimecs (monstrous off-spring of Sky and Wind gods)
+	- [ ] Discord incarnate
+	- [ ] Dream larvae (misbegotten offspring of Dream gods)
+	- [ ] Hecatoncheires
+	- [ ] Infernals (offspring of gods and fiends)
+	- [ ] Phaethon (sentient rage-filled magma born of Fire gods)
+	- [ ] Phane (shadowy creatures born of Time and Fate gods)
+	- [ ] Rotvine defiler
+	- [ ] Tarrasque
+	- [ ] Xixecal (gargarntuan creatures spawned by Ice and Chaos gods)
+- [ ] Spellplague
+	- [ ] Plaguechanged
+	- [ ] Spellscarred
+	- [ ] Plagueland
+	- [ ] Spellfire
+	- [ ] Masters of Absolute Accord
+	- [ ] Sanatorium
+	- [ ] Factions
+		- [ ] Heirs of Azure
+		- [ ] Order of Blue Flame
+		- [ ] Scar Company
+- [ ] Flesh out the Underdark
+	- [ ] Labyrinth (Northdark)
+- [ ] Ancient writings
+	- [ ] Alchemical
+		- [ ] Emerald Tablet
+		- [ ] Atalanta Fugiens
+		- [ ] Book of the Silvery Water and Starry Earth
+		- [ ] Suspicions about the Hidden Realities of the Air
+		- [ ] The Twelve Keys of Basil Valentine
+	- [ ] Rosetta Stone (Language)
+	- [ ] Tetrabiblos
+- [ ] From the One (To Hen) emanated the Divine Mind (Nous), from which emanated the World Soul/Anima Mundi (Psyche), from which emanated Nature (Physis)
+- [ ] Astrology
+	- [ ] The 8 Thediacal Houses
+		- [ ] 1
+		- [ ] 2
+		- [ ] 3
+		- [ ] 4
+		- [ ] 5
+		- [ ] 6
+		- [ ] 7
+		- [ ] 8
+	- [ ] Astrotheology
+	- [ ] Babylonian Astrology
+		- [ ] The Hired Man
+		- [ ] The Stars
+		- [ ] The Twin
+		- [ ] The Crab
+		- [ ] The Lion
+		- [ ] The Raven
+		- [ ] The Balance
+		- [ ] The Scorpion
+		- [ ] The Anzû
+		- [ ] The Goat-fish
+		- [ ] The Great One
+		- [ ] The Tails
+	- [ ] Greek Astrology
+		- [ ] Aries, Vita/Life, House of Self
+		- [ ] Taurus, Lucrum/Gain, House of Value
+		- [ ] Gemini, Fratres/Order, House of Sharing
+		- [ ] Cancer, Genitor/Parent, House of Family
+		- [ ] Leo, Nati/Children, House of Pleasure
+		- [ ] Virgo, Valetudo/Health, House of Health
+		- [ ] Libra, Uxor/Spouse, House of Balance
+		- [ ] Scorpio, Mors/Death, House of Transformation
+		- [ ] Ophiuchus, the Lost House
+		- [ ] Sagittarius, Iter/Passage, House of Purpose
+		- [ ] Capricorn, Regnum/Kingdom, House of Enterprise
+		- [ ] Aquarius, Benefacta/Support, House of Blessings
+		- [ ] Pisces, Carcer/Rehabilitation, House of Sacrifice
+	- [ ] Decanic Astrology
+		- [ ] Rhyax
+	- [ ] Hindu Astrology
+	- [ ] Chinese Astrology
+		- [ ] Rat (Moppy)
+		- [ ] Ox (Lily)
+		- [ ] Tiger (Teowen)
+		- [ ] Rabbit (Erdrick)
+		- [ ] Dragon (King)
+		- [ ] Snake (Roux)
+		- [ ] Horse (Weylan)
+		- [ ] Goat (Pale)
+		- [ ] Turtle (Chili)
+		- [ ] Rooster (Yancy)
+		- [ ] Dog (Zen)
+		- [ ] Pig (Bijou)
+	- [ ] Sky of Many Things
+		- [ ] Skull
+		- [ ] Balance
+		- [ ] Sage
+		- [ ] Throne
+		- [ ] Key
+		- [ ] Flames
+		- [ ] Knight
+		- [ ] Euryale
+		- [ ] Rogue
+		- [ ] Gem
+		- [ ] Talons
+		- [ ] Jester
+- [ ] Tarot Divinations (Flesh out the effects of all the cards)
+- [ ] Tattva Vision Cards
+	- [ ] Akasha (Spirit) - black egg
+	- [ ] Tejas (Fire) - red triangle
+	- [ ] Vayu (Air) - blue circle
+	- [ ] Apas (Water) - silver crescent
+	- [ ] Prithvi (Earth) - yellow square
+- [ ] Kabbalah (Tree of Life)
+	- [ ] 5 worlds
+		- [ ] Adam Kadmon, Primordial Man
+		- [ ] Atziluth, World of Emanation
+		- [ ] Beri'ah, World of Creation
+		- [ ] Yetzirah, World of Formation
+		- [ ] Assiah, World of Action
+	- [ ] 10 Sefirot
+		- [ ] Keter, Crown
+		- [ ] Chokhmah, Wisdom
+		- [ ] Binah, Understanding
+		- [ ] Chesed, Kindness
+		- [ ] Gevurah, Discipline
+		- [ ] Tiferet, Glory
+		- [ ] Netzach, Victory
+		- [ ] Hod, Splendour
+		- [ ] Yesod, Foundation
+		- [ ] Malkuth, Kingdom
+	- [ ] 10 Qlipoth
+		- [ ] Gozlan, Usurper
+		- [ ] Ivvlet, Folly
+		- [ ] Aqshanut, Obstinacy
+		- [ ] Mashchith, Destroyer
+		- [ ] Aph, Anger
+		- [ ] Chemah, Wrath
+		- [ ] Esh, Fire
+		- [ ] Bohu, Void
+		- [ ] Tohu, Formless
+		- [ ] Tehom, Deep
+	- [ ] Paths
+		- [ ] The 22 connecting paths on the Tree of Life represent the connections between the Sephiroth. Each path is associated with a specific Hebrew letter, Tarot card, and a range of meanings and correspondences. Hermetic Qabalists see the cards of the tarot as keys to the Tree of Life. The 22 cards including the 21 Trumps plus the Fool or Zero card are often called the "Major Arcana or "Greater Mysteries" and are seen as corresponding to the 22 Hebrew letters and the 22 paths of the Tree; the ace to ten in each suit correspond to the ten Sephiroth in the four Qabalistic worlds; and the sixteen court cards relate to the classical elements in the four worlds.While the sephiroth describe the nature of divinity, the paths between them describe ways of knowing the Divine.
+		- [ ] Path of the Flaming Sword
+			- [ ] The **path of the flaming sword** refers to the flaming sword which God put to guard the Garden of Eden after Adam and Eve were cast out. It is a concept in Kabbalah which represents the order in which the ten sefirot were created. The path emanates from the Ein Sof, the boundless source of divinity, begins at Kether (The Crown) and ends at Malkuth (The Kingdom), where the physical world manifests.
+- [ ] The Holy Trinity
+	- [ ] Shield of Trinity
+	- [ ] The Father, the Son, the Holy Spirit
+- [ ] Factions
+	- [ ] Hermetic Order of the Golden Dawn
+		- [ ] Isis-Urania Temple
+		- [ ] Alpha and Omega
+		- [ ] Stella Matutina
+		- [ ] A∴A∴
+	- [ ] Order of the Golden and Rosy Cross
+	- [ ] Deck of Many Things Factions
+		- [ ] The Solar Bastion
+		- [ ] The Moonstalkers
+		- [ ] Heralds of the Comet
+		- [ ] The Grim Harrow
+	- [ ] Shadow Wizard Money Gang
+- [ ] Fearsome critters
+	- [ ] Agropelter
+	- [ ] Axehandle Hound
+	- [ ] Ball-tailed Cat
+	- [ ] Cactus Cat
+	- [ ] Dungavenhooter
+	- [ ] Glawackus
+	- [ ] Gumberoo
+	- [ ] Hidebehind
+	- [ ] Hodag
+	- [ ] Hugag
+	- [ ] Jackalope
+	- [ ] Jersey Devil
+	- [ ] Sidehill Gouger
+	- [ ] Splintercat
+	- [ ] Squonk
+	- [ ] Teakettler
+	- [ ] Wampus Cat
+	- [ ] Fur-bearing Trout
+	- [ ] Hoop Snake
+	- [ ] Joint Snake
+	- [ ] Snallygaster
+- [ ] Cryptids
+	- [ ] Dobhar-chu
+	- [ ] Loch Ness
+	- [ ] Loveland Frog
+	- [ ] Megalodon
+	- [ ] Chupacabra
+	- [ ] Mongolian Death Worm
+	- [ ] Capelobo
+	- [ ] Jersey Devil
+	- [ ] Mothman
+	- [ ] Thunderbird
+- [ ] Wuxing (Five Agents)
+	- [ ] Fire 火 (Zhuque, Red Bird of the South)
+		- [ ] Pounding Fist (Exploding outward like a cannon while blocking)
+	- [ ] Water 水 (Xuanwu, Black Tortoise of the North)
+		- [ ] Drilling Fist (Drilling forward like a geyser)
+	- [ ] Wood 木 (Qinglung, Azure Dragon of the East)
+		- [ ] Crushing Fist (To collapse, as a building in on itself)
+	- [ ] Metal 金 (Baihu, the White Tiger of the West)
+		- [ ] Splitting Fist (Like an axe chopping up and over)
+	- [ ] Earth 土 (Huanglung, Yellow Dragon of the Center)
+		- [ ] Crossing Fist (Crossing across the line of attack while turning over)
+- [ ] Nine sons of the dragon
+- [ ] Jade Emperor
+- [ ] Deck of Terrapecto (Geomantic figures)
+- [ ] Summer Triangle (asterism, could be Feywild area)
+	- [ ] Altair
+	- [ ] Deneb
+	- [ ] Vega
+- [ ] Divine Comedy
+	- [ ] Inferno
+	- [ ] Purgatorio
+	- [ ] Paradiso
+- [ ] The Lesser Key of Solomon
+	- [ ] The 72 Goetian Demons
+- [ ] Sigillum Dei
+- [ ] Behenian fixed stars
+- [ ] Goetia
+- [ ] Magic Colors
+	- [ ] Black Magic
+	- [ ] Gray Magic
+	- [ ] White Magic
+- [ ] Alchemy
+	- [ ] Chrysopoeia
+		- [ ] Production of gold from base metals such as lead
+		- [ ] Argyropoeia, making silver from copper. 
+	- [ ] Elixir of Life
+	- [ ] Homunculus
+	- [ ] Magnum Opus
+	- [ ] Philosopher's Stone
+	- [ ] Prima Materia
+	- [ ] Rebis
+	- [ ] Symbols
+		- [ ] Three Primes
+		- [ ] Four Elements
+		- [ ] Seven planetary metals
+		- [ ] Mundane elements and later metals
+		- [ ] Alchemical compounds
+		- [ ] Processes
+		- [ ] Units
+- [ ] Ouroboros, a snake that travels along the Outer Planes, tail in mouth.
+- [ ] Classical Elements
+	- [ ] Earth, Water, Fire, Air
+	- [ ] Wood and Metal
+	- [ ] Void or Aether
+	- [ ] Sulphur, Mercury, Salt
+- [ ] Sanamahism
+- [ ] Sacred Geometry
+- [ ] 777 and Other Qabalistic Writings
+- [ ] Wild Mages
+	- [ ] Hornung the Anarch
+	- [ ] Nahal the Incorrigible (student of Hornung)
+- [ ] New Spells
+	- [ ] Alternate Reality (Divination, chronomancy, wild magic) (CHA save, target can choose to fail the save, reroll one roll that happened in the last turn, must use new roll.)
+	- [ ] Chaos Shield (Abjuration, wild magic) (Reaction to a wild magic surge; protects self from the effects of own surge; does not differentiate between negative and positive effects)
+	- [ ] Fool's Speech (Divination, wild magic) (the caster and selected targets can speak in a common language incomprehensible to anyone even through Comprehend Languages or Tongues. Recipients can still choose to speak normally.)
+	- [ ] Baneful Deflector (Abjuration, wild magic) (may deflect ranged attacks to a random creature in range, including yourself)
+	- [ ] Random Dispatcher (Conjuration, wild magic) (Sends the target to a random plane)
+	- [ ] Surge Selector (Divination, wild magic) (Can control a select amount of wild surges in the next 12 hours)
+	- [ ] Improved Chaos Shield (Abjuration, wild magic) (Reaction to a wild magic surge; protects self from negative effects of own surge)
+	- [ ] Nonsensical Nullifier (Abjuration, wild magic) (Creates a random aura for the recipient, causing spells such as Know Alignment or Detect Evil to give random readings; changes every minute)
+	- [ ] Reckless Dweomer (Evocation, wild magic) (Tries to cast a known spell, likely results in wild magic)
+	- [ ] Patternweave (Divination, wild magic) (Allows the caster to see the "whole" while examining the parts. Useful for destroyed objects such as maps.)
+	- [ ] Stabilize (Abjuration, wild magic) (Negates the chaotic effects within wild magic regions. Works around the caster)
+	- [ ] Unluck (Divination, wild magic)
+	- [ ] Vortex (Evocation, wild magic) (Hurts living creatures, hurts magic creatures more, has a chance to explode into wild magic every time it hurts a living creature)
+	- [ ] Wildshield (Abjuration, wild magic) (Protects the caster from magical effects. Explodes into a wild magic surge if the final hit deals damage in excess to the shield's remaining health)
+	- [ ] Wildzone (Conjuration, wild magic) (Replicates the conditions of wild magic regions. Affects an area measuring 300 feet long on each side.)
+- [ ] Infinity Stones
+	- [ ] Soul
+	- [ ] Mind
+	- [ ] Time
+	- [ ] Reality
+	- [ ] Space
+	- [ ] Power
+- [ ] Doctor Who villains
+- [ ] Final Fantasy Enemies / Spells
+- [ ] Elevator combat (room goes up/down floors and stops as more combatants get on)
+- [ ] Kirby bosses
+	- [ ] Whispy Woods
+	- [ ] Kracko
+	- [ ] Meta Knight
+	- [ ] Nightmare
+	- [ ] Dark Matter
+	- [ ] Dyna Blade
+	- [ ] Marx
+	- [ ] Galacta Knight
+	- [ ] Marx Soul
+	- [ ] Zero
+	- [ ] Miracle Matter
+	- [ ] 0²
+	- [ ] Dark Mind
+	- [ ] Daroach
+	- [ ] Dark Nebula
+	- [ ] Necrodeus
+	- [ ] Landia
+	- [ ] Magolor
+	- [ ] Queen Sectonia
+	- [ ] Mecha Knight
+	- [ ] Taranza
+	- [ ] Francisca/Flamberge/Zan Partizanne
+	- [ ] Hyness
+	- [ ] Void Termina
+	- [ ] Morpho Knight
+	- [ ] Void Soul
+	- [ ] Void
+	- [ ] Fecto Elfilis
+	- [ ] Chaos Elfilis
+- [ ] Legend of Zelda enemies
+- [ ] Onomancer villain (gets the party's true names)
+- [ ] Numerology villain
+- [ ] Dark Souls / Bloodborne bosses
+- [ ] Persona and SMT demons
+- [ ] Assassin's Creed plot point (Eden, holy artifacts)
+- [ ] Chrono Trigger
+	- [ ] Bosses
+		- [ ] Dream Devourer
+		- [ ] Giga Gaia
+		- [ ] Lavos
+		- [ ] Mother Brain
+	- [ ] Eras
+		- [ ] 65,000,000 B.C.
+		- [ ] 12000 B.C.
+		- [ ] 600 A.D.
+		- [ ] 1000 A.D.
+		- [ ] 1999 A.D.
+		- [ ] 2300 A.D.
+		- [ ] End of Time
+	- [ ] Plotpoints
+		- [ ] Magic
+			- [ ] It is unclear exactly when human beings first discovered the magic. It was after the year 60,000 BC but before the year 12,000 BC. By the year 12,000 BC, magic was in common use by humans, and the world was segregated based on the ability to wield it: the Enlightened Ones, who could use magic, and the Earthbound Ones "Earthbound Ones"), who could not. The Enlightened lived on the floating islands of the Kingdom of Zeal, while the Earthbound huddled in caves on the world's surface - looked down upon by the Enlightened and often being recruited forcefully to do the latter's will.
+		- [ ] Epoch, Wings of Time
+			- [ ] The device used to travel through time
+		- [ ] Masamune
+	- [ ] Spells
+		- [ ] Luminaire
+		- [ ] Flare
+		- [ ] Dark Bomb
+		- [ ] Dark Mist
+		- [ ] Black Hole
+		- [ ] Dark Matter
+		- [ ] Barrier
+		- [ ] Megaton Bomb
+		- [ ] Laser Spin
+- [ ] The Elder Scrolls
+	- [ ] Spells
+	- [ ] Enemies
+	- [ ] Standing Stones
+	- [ ] Dragon Shouts
+- [ ] Pokemon
+	- [ ] Perfect Zygarde (100 Cells)
+	- [ ] Arceus Origin Plate (Collect all plates)
+		- [ ] Could be replaced with Planar Plates, tablets with lore on the planes; the Origin Plate giving access to the Void?
+	- [ ] 3 Parts of one God (Kyurem)
+		- [ ] Could be Bahamut/Sardior/Tiamat
+	- [ ] Eternamax Eternatus
+	- [ ] Ultra-Necrozma
+	- [ ] Z-Crystals for powered up moves
+- [ ] Dragon Marks
+- [ ] Agartha
+- [ ] Martyr God Ilmater
+	- [ ] Hands of Ilmater
+	- [ ] Eyes of Ilmater
+	- [ ] Voice of Ilmater
+- [ ] Avalon
+- [ ] Damocles' Sword
+- [ ] Terraria bosses
+	- [ ] King Slime
+	- [ ] Eye of Cthulu
+	- [ ] Eater of Worlds
+	- [ ] Brain of Cthulu
+	- [ ] Queen Bee
+	- [ ] Wall of Flesh
+	- [ ] Queen Slime
+	- [ ] Plantera
+	- [ ] Golem
+	- [ ] Empress of Light
+	- [ ] Lunatic Cultist
+	- [ ] Moon Lord
+	- [ ] Pillars
+		- [ ] Solar
+		- [ ] Nebula
+		- [ ] Vortex
+		- [ ] Stardust
+- [ ] TWEWY Pins
+- [ ] Monster Hunter bosses
+- [ ] Paths of Power

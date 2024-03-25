@@ -1,4 +1,5 @@
 ---
-aliases:
-  - druid
+aliases: []
+tags:
+  - Class/Druid
 ---

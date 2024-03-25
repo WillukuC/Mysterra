@@ -1,0 +1,3 @@
+---
+aliases: Death's Reward
+---

@@ -1,0 +1,4 @@
+---
+aliases: Iceheart
+tags: Deity/DivineRank/Greater, Deity/Domain/War, Alignment/CE, Deity/Pantheon/Ordning
+---

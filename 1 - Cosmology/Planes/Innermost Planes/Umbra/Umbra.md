@@ -4,5 +4,5 @@ aliases:
   - Shadow
   - Shadowmyst
 tags:
-  - Plane/Existence
+  - Plane/Innermost
 ---

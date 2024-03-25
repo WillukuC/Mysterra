@@ -1,4 +1,4 @@
 ---
 aliases: Winged Sovereign
-tags: DivineRank/Demigod, Alignment/CG
+tags: Deity/DivineRank/Demigod, Alignment/CG
 ---

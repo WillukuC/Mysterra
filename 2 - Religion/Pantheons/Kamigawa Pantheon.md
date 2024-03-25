@@ -1,0 +1,22 @@
+## History
+## Membership
+### Current Members
+#### [[Kyodai]]
+#### [[Mochi]]
+#### [[Myojin of Blooming Dawn]]
+#### [[Myojin of Cleansing Fire]]
+#### [[Myojin of Cryptic Dreams]]
+#### [[Myojin of Grim Betrayal]]
+#### [[Myojin of Infinite Rage]]
+#### [[Myojin of Life's Web]]
+#### [[Myojin of Night's Reach]]
+#### [[Myojin of Roaring Blades]]
+#### [[Myojin of Seeing Winds]]
+#### [[Myojin of Towering Might]]
+#### [[O-Kagachi]]
+#### [[Patron of the Akki]]
+#### [[Patron of the Kitsune]]
+#### [[Patron of the Moon]]
+#### [[Patron of the Nezumi]]
+#### [[Patron of the Orichi]]
+#### [[Terashi]]

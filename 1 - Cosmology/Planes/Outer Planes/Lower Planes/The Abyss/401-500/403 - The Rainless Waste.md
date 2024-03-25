@@ -1,0 +1,3 @@
+---
+aliases: The Rainless Waste
+---

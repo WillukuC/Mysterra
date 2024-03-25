@@ -1,4 +1,5 @@
 ---
-aliases:
-  - wizard
+aliases: []
+tags:
+  - Class/Wizard
 ---

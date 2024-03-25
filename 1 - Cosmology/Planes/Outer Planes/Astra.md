@@ -1,5 +1,9 @@
 ---
-tags: Plane/Outer, Plane/Transitive
+tags:
+  - Plane/Outer
+  - Plane/Transitive
+aliases:
+  - astral plane
 ---
 # Plane of Dreams
 In the center of the Astral Sea is the Fugue Plane, a gray and neutral plane. 

@@ -3,90 +3,72 @@ aliases:
   - Tel-quessir
   - elf
 ---
-
-# Description
-Magical people of otherworldly grace
-Live in places of ethereal beauty
-Ancient forests, silvery spires, soft music, gentle fragrances
-Love nature, magic, art; artistry, music, poetry, good things of the world
-
-Unearthly grace, fine features
-Slightly shorter than humans (5' to 6')
-More slender than humans, weighing 100lb-145lb
-Skin: Normal human range, plus copper, bronze, bluish-white
-Hair: Normal human range, plus green or blue
-Eye: Normal human range, plus gold or silver
-No facial and little body hair
-Favor elegant clothes in bright colors, enjoy simple yet lovely jewelry
-
-Lifespan over 700 years
-Broad perspective on events that might trouble shorter-lived races more deeply
-More often amused than excited
-More often curious than greedy
-Aloof and unfazed by petty happenstance
-Can be focused and relentless when pursuing a goal
-Slow to make friends and enemies, slower to forget them
-Reply to petty insults with disdain; to serious insults with vengeance
-Flexible in the face of danger, trust in diplomacy, compromise to resolve differences
-Confident that they can wait out intruders
-Skill with sword, bow, strategy when needed
-
-Live in small forest villages
-Hunt game, gather food, grow vegetables
-Skill and magic allow them to support themselves without clearing and plowing land
-Talented artisans, crafting finely worked clothes and art objects
-Limited contact with outsiders
-A few elves make a living by trading crafted items for metals
-Typically traveling minstrels, artists, sages
-Human nobles compete for services of elf instructors to teach swordplay or magic to children
-
-Elven adventurers do it out of wanderlust
-Can enjoy centuries of exploration and discovery
-Dislike the pace of human society, which is regimented from day to day but constantly changing
-
-Considered children until they declare themselves adults, some time after the hundredth birthday
->[!info] Haughty but gracious
->Although they can be haughty, elves are generally gracious to those who fall short of their high expectations, which is most non-elves. Still, they can find good in just about anyone.
-# Subraces
-## High Elves
-### Sun Elves
-Also known as Gold Elves, High Elves or Ar-tel-quessir
-Haughty and reclusive, believing themselves superior to non-elves and other elves.
-Skin: Bronze
-Hair: Copper, black, golden blond
-Eyes: Golden, silver, black
-### Moon Elves
-Also known as Silver Elves or Teu-tel-quessir
-More common and friendly than Sun Elves, often encountered among humans and other races.
-Skin: Pale, alabaster, sometimes tinged with blue
-Hair: Silver-white, black, blue, blond, brown, red
-Eyes: Blue or green and flecked with gold
-### Star Elves
-Also known as Mithral Elves or Ruar-tel-quessir
-## Elves
-### Sylvan Elves
-Considered as two cultures of the same race
-#### Wood Elves
-Also known as Copper Elves or Or-tel-quessir
-Keen senses and intuition, quick and stealthy through forests.
-Can be reclusive and distrusting of non-elves.
-Skin: Copperish, sometimes with traces of green
-Hair: Browns and blacks, occasionally blond or copper
-Eyes: Green, brown, hazel
-#### Wild Elves
-Also known as Green Elves or Sy-tel-quessir
-### Drow Elves
-Also known as Dark Elves, Deep Elves, Night Elves, Under-Elves
-Banished from the surface for following the goddess Lolth down the path of evil and corruption.
-Built their own civilization in the Underdark, patterned after the Way of Lolth.
-Skin: Black skin like polished obsidian
-Hair: Stark white, pale yellow
-Eyes: Very pale (mistaken for white) in shades of lilac, silver, pink, red, blue
-### Aquatic Elves
-Also known as Sea Elves or Alu-tel-quessir
-### Snow Elves
-### Avariel
-Also known as Aril-tel-quessir
-### Lythari
-Also known as Ly-tel-quessir
-### Astral Elves
+## Info
+Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry, and the good things of the world.
+### Slender and Graceful
+With their unearthly grace and fine features, elves appear hauntingly beautiful to [[humans]] and members of many other races. They are slightly shorter than humans on average, ranging from well under 5 feet tall to just over 6 feet. They are more slender than humans, weighing only 100 to 145 pounds. Males and females are about the same height, and males are only marginally heavier than females.
+Elves' coloration encompasses the normal human range and also includes skin in shades of copper, bronze, and almost bluish-white, hair of green or blue, and eyes like pools of liquid gold or silver. Elves have no facial and little body hair. They favor elegant clothing in bright colors, and they enjoy simple yet lovely jewelry.
+### A Timeless Perspective
+Elves can live well over 700 years, giving them a broad perspective on events that might trouble the shorter-lived races more deeply. They are more often amused than excited, and more likely to be curious than greedy. They tend to remain aloof and unfazed by petty happenstance. When pursuing a goal, however, whether adventuring on a mission or learning a new skill or art, elves can be focused and relentless. They are slow to make friends and enemies, and even slower to forget them. They reply to petty insults with disdain and to serious insults with vengeance.
+Like the branches of a young tree, elves are flexible in the face of danger. They trust in diplomacy and compromise to resolve differences before they escalate to violence. They have been known to retreat from intrusions into their woodland homes, confident that they can simply wait the invaders out. But when the need arises, elves reveal a stern martial side, demonstrating skill with sword, bow, and strategy.
+### Hidden Woodland and Realms
+Most elves dwell in small forest villages hidden among the trees. Elves hunt game, gather food, and grow vegetables, and their skill and magic allow them to support themselves without the need for clearing and plowing land. They are talented artisans, crafting finely worked clothes and art objects. Their contact with outsiders is usually limited, though a few elves make a good living by trading crafted items for metals (which they have no interest in mining).
+Elves encountered outside their own lands are commonly traveling minstrels, artists, or sages. Human nobles compete for the services of elf instructors to teach swordplay or magic to their children.
+### Exploration and Adventure
+Elves take up adventuring out of wanderlust. Since they are so long-lived, they can enjoy centuries of exploration and discovery. They dislike the pace of human society, which is regimented from day to day but constantly changing over decades, so they find careers that let them travel freely and set their own pace. Elves also enjoy exercising their martial prowess or gaining greater magical power, and adventuring allows them to do so. Some might join with rebels fighting against oppression, and others might become champions of moral causes.
+### Elf Names
+Elves are considered children until they declare themselves adults, some time after the hundredth birthday, and before this period they are called by child names.
+On declaring adulthood, an elf selects an adult name, although those who knew him or her as a youngster might continue to use the child name. Each elf's adult name is a unique creation, though it might reflect the names of respected individuals or other family members. Little distinction exists between male names and female names; the groupings here reflect only general tendencies. In addition, every elf bears a family name, typically a combination of other Elvish words. Some elves traveling among humans translate their family names into Common, but others retain the Elvish version.
+- Child Names: Ara, Bryn, Del, Eryn, Faen, Innil, Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall
+- Male Adult Names: Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis
+- Female Adult Names: Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia
+- Family Names (Common Translations): Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nailo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)
+## Subraces
+### High Elves
+High elves have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&D, there are three kinds of high elves. One type (known as gray elves, valley elves, and sun elves) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (known as high elves or moon elves) are more common and more friendly, and often encountered among humans and other races. The last type (known as star elves or mithral elves) are an aloof and cautious people, rarely seen even amongst other elves.
+#### Sun Elves
+Also known as the gold elves, high elves, and Ar-tel-quessir in their own language, sun elves have bronze-colored skin and hair most often of copper, golden blond, and black, with red more uncommon but not unheard of. Sun elves typically have green eyes, though golden ones were also common, often with a liquid appearance, and silver, black, hazel, or copper hues have also been heard of. Like their moon elven brethren, male sun elves are typically taller and heavier than females, sometimes by as much as five inches or twenty pounds.
+Sun elves are firmly of the belief that they stand as the sole protectors and inheritors of [[Corellon Larethian|Corellon]]'s legacy in the [[Prime]]. Patient and deliberate in most of what they did, they demonstrate an orderly nature uncommon to most elves, preferring to master a skill before applying it rather than learning as they go. Rushing was out of the nature of sun elves, who, while less versatile than most races, had a mastery of whatever they applied themselves to. The only true exception to this was martial combat, which nearly all sun elves had some training in, regardless of how much, and which most were eager to finish as quickly as possible once engaged.
+#### Moon Elves
+Like all elves, the Teu-tel-quessir, also known as silver elves, are tall, close to humans in height, but more slender and beautiful. Moon elf skin is pale, often with an icy blue hue. Moon elf hair is commonly black, blue, or silvery white, although human-like colors are heard of as well, though very rare. Moon elf eyes, like those of other elves, are very commonly green, although some are blue as well. All exhibit a characteristic best described as golden flecks speckled through the iris. Male moon elves are typically taller than females.
+Of all the elven races, moon elves are the most impulsive, with a strong distaste for complacency or isolation. Moon elves long to be on the road, traveling and exploring the untamed wilderness that lay between cities and nations. This extroverted quality was part of the reason why moon elves get along uncommonly well with other races and had come to the conclusion that the _N-Tel-Quess_ are not necessarily as foolhardy or unworthy as their brethren might think. Moon elves, rather than feeling that interaction outside of their race diminished or weakened them, believe that interacting with other races, humans in particular, is the best way to spread the values of the Tel-quessir races, thereby strengthening their culture.
+#### Star Elves
+Star elves, also known as Mithral elves or Ruar-tel-quessir, look similar to moon elves, with light skin and hair of gold, red, or silver. They have violet or gray eyes with occasional gold flecks in them. They typically stand about 5 1⁄2 to 6 ft tall, and have a slender build. They like to wear elaborate tunics but in neutral tones, so as to better remain unseen in the forest. They are strikingly handsome by human standards, even more so than other elves.
+Aloof and cautious, star elves are unfamiliar with [[Mysterra]] and even other races. Isolated in the twilight realm of Sildëyuir, they had no contact with _N'Tel'Quess_ and they liked it that way. It was the war-like and expansionistic humans that caused them to create the realm of Sildëyuir and flee their home in the first place. They generally get along with other elves. Perhaps not surprisingly, star elves as a race are generally chaotic in nature rather than lawful. They value individual accomplishment and rights over the demands of society.
+### Elves
+#### Sylvan Elves
+The term Sylvan elf refers to either one subrace of elf, two cultures of one race, or two separate races.
+##### Wood Elves
+Wood elves, also known as copper elves or Or-tel-quessir, are easily identifiable by their coppery skin and green, brown, or hazel eyes. Wood elven hair is usually black or brown, although hues such as blond or copper red are also found. Wood elves tend to dress in simple clothes, similar to those of the moon elves but with fewer bold colors and a greater number of earth tones that blend into their natural surroundings. Accustomed to a harsh, naturalistic lifestyle, wood elves love to wear leather armor, even when they are not under immediate threat. Wood elves are roughly identical to other elves in height and build, with males larger than females.
+As a people, wood elves are largely seen as calm and level-headed. Arousing strong emotions in wood elves is not something that is easily done, although many do have a strong aversion for large cities. To wood elves, the trappings of civilization, including the mightiest of fortresses or tallest walls, are transient and impermanent things that would eventually be overcome by the long processes of nature. To many, this attitude seems condescending, weakening the bonds between wood elves and other races. Additionally, wood elves can sometimes seem off-putting compared to other Tel-quessir, with a gruff manner that makes them less charismatic, despite their avowed compassion and humility.
+Wood elven romantic and sexual relationships are often polyamorous in nature, members of the race freely engaging or ceasing relations with new partners. Feelings of jealousy and possessiveness are as a result viewed by the race as reasons for teasing or mockery. As a result of these perspectives on love, high elves often believe that any relationships engaged with wood elves would be destined to fail from the start.
+##### Wild Elves
+Wild elves, also known as green elves or Sy-tel-quessir, have darker skin than other elven subraces, in a range of light brown to dark brown. Their hair can be anything from black to light brown, and it grays and turns to white with old age. Wild elves, like other elves, are nimble and agile in body, but they are commonly thought of as less intelligent than their elven brethren, due in part to their aversion to civilization.
+They prefer to wear as little clothing as possible and choose instead to adorn themselves with other decorations like tattoos, feathers, or body paint. They can make and wear complicated and intricate beadwork.
+Wild elves are a quiet, withdrawn people who neither like outsiders nor tolerate any offense to their person. In some ways, wild elves are very savage and are quick to violence if provoked. Few things are more dangerous in the wilderness than a vengeful band of wild elves with ill intent. However, wild elves are not wholly uncouth and most would rather let trespassers go freely than harm them, so long as they learned nothing that could be used against the tribe; those who did were usually wiped of their memories rather than killed. Wild elves are also trustworthy and loyal friends who, though so slow to trust that short-lived races such as humans are often put off the attempt, will happily reward those who earn their respect and admiration in any way they can.
+#### Drow Elves
+[[Drow]] (also known as dark elves, deep elves, night elves, under-elves, and Doen-tel-quessir) are a dark-skinned sub-race of elves that predominantly lived in [[the Underdark]]. They are hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow exist.
+In many ways, the drow resemble other elves or eladrin. Their bodies are wiry and athletic, while their faces are chiseled and attractive, though they are shorter and thinner than other elven sub-races. Due to a process of selective breeding that lasted for several generations, the drow (especially nobles) look attractive even in comparison to other elven subraces. Though their alluring appearance can be used for seduction, it is more often utilized to instill fear. It is said that the beauty standards of the surface races made them prone to turn a blind eye to the deeds of the drow, showing them greater leniency and acceptance.
+#### Aquatic Elves
+Aquatic elves are water-breathing cousins to land-dwelling elves.
+##### Sea Elves
+Sea elves, also known as Alu-tel-quessir, can have deep green skin, mottled and striped with brown, blue skin with white stripes and patches, or pale silver-green skin. They are robust and tall with long limbs. Their thick skin gives them protection from the cold of deep water, keeping them comfortable at just above freezing temperatures. Their fingers and toes are generally about twice as long as a human's and have thick webbing between them. Their most distinctive feature is the gills visible in their necks and over their ribs. Compared to other elves, aquatic elves have deep voices and were larger and heavier.
+Aquatic elves are isolationist by both their nature and the physical location of their settlements, although they are not quite as reclusive as the wild elves. Their trust does not extend far beyond their clan and others of their kind, and their communities are very tightly-knit. They can't understand why the surface elves do not realize that community and alliances meant survival, whereas rivalry, individualism, and factionalism means death. However, despite being extremely cautious, they are also extremely curious, and aquatic elves near the shore will often spend a significant amount time secretly observing the land-bound races.
+##### Marel
+Marels are a subrace of evil aquatic elven race that worshiped Umberlee. These pale skin elves have blackish-green hair and green eyes which have an phosphorescent glow. They are otherwise identical to aquatic elves.
+#### Snow Elves
+Snow elves, also known as Hyri-tel-quessir, are rare, reclusive elves who live in icy, mountainous regions far from other civilization. Snow elves are thin and slender like all elves, but are tough and wiry, as well as much taller: female snow elves are known to stand as much as 6 ft 4 in tall, and males as much as 7 ft. They have pale skin, white or light blond hair that curls into wisps, and white or silver eyes. They typically wear white clothing and favor bone jewelry.
+Snow elves are typically described as being incredibly arrogant and equally unfriendly to any and all other races, save the valley elves that they sometimes befriend.
+#### Avariel
+The avariel, also known as aril-tel-quessir, are among the first of the elf races to migrate to [[Mysterra]]. However, conflict with [[Dragon|dragons]] almost wiped them out before the [[E3 - Sundering|Sundering]] and while they've survived since that time, they are considered by most to be myths or legends.
+Avariel are more delicate than their earth-bound cousins, with hollow bones to aid their flight. They have pale skin, often porcelain white. An avariel's wings are usually white, but could be black, brown, or speckled. Their eyes are slightly larger than normal and range in color from brilliant blues to green or purple. Their hair color is normally a silver-white or black.
+Avariel society is split into two groups that coexist together, labeled "warlike" and "peaceful". Young avariel spend time immersed in both cultures (this could last over a decade), so that no matter what sect they come from, they have a deep understanding and respect of how the other half lives.
+#### Lythari
+Lythari, or Ly-tel-quessir, are good-aligned elven lycanthropic wolves, similar in appearance to [[Werewolf|werewolves]]. Lythari differ from werewolves in that they have no hybrid form and are friendly and companionable when in lupine form.
+Whether in elf or wolf form, lythari are uncannily beautiful. As elves, they are often tall and fair, with pale blue or green eyes and silver hair. As wolves, they have light grey or silver fur and blue or brown eyes that betray their intelligence.
+Lythari propagate using a ritual of bonding that would turn another person into a lythari. This ritual only works if both parties agreed to the transformation. It left a permanent scar on the transformed, which resembles a wolf bite.
+#### Astral Elves
+Astral Elves, or Es-tel-quessir, are a variety of elves native to [[Astra]]. They trace their roots to the [[Faerie]] like other elves, but are very different from their terrestrial brethren. The millennia they spent within Astra imbued them with a spark of divine energy, bestowed upon them by divine powers.
+Just as other living beings, astral elves do not age while within Astra. Their longevity―which often surpasses that of Mysterran elves up to thousands of years―grants them unique outlooks on time and existence. This manifests in feelings of depression in some elves or apathy in others. Yet some keep away concerns over existential dread by exploring personal creativity, living introspective lives enriched by peaceful meditation, or set out to explore the far-off planes of the multiverse.
+#### Dusk Elves
+Dusk elves, or Ve-tel-quessir, are a subset of elves that took no side in the War of the Seldarine. Gaining the enmity of [[Corellon Larethian|Corellon]], these elves were accepted and sheltered from the Protector's vengeance by [[Sehanine Moonbow]].

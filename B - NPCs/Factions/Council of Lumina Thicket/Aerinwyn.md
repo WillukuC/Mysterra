@@ -1,4 +1,4 @@
 ---
 aliases: Queen of Lumina Thicket
-tags: DivineRank/Demigod, Alignment/CG
+tags: Deity/DivineRank/Demigod, Alignment/CG
 ---
