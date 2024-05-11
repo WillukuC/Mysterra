@@ -1,20 +1,13 @@
 {
 	"nodes":[
+		{"id":"9e7ca201c7cbd8a6","type":"group","x":-20,"y":1098,"width":1420,"height":982,"label":"Forest 1-4"},
 		{"id":"3859670f1cfc57e3","type":"group","x":-20,"y":-20,"width":1320,"height":980,"label":"Grassland 1-5"},
-		{"id":"9e7ca201c7cbd8a6","type":"group","x":-20,"y":1098,"width":1320,"height":442,"label":"Forest 1-4"},
-		{"id":"03cccb4b6d971452","type":"file","file":"7 - Bestiary/Humanoids/Gnolls/Gnoll Pack Lord.md","x":0,"y":0,"width":400,"height":400},
-		{"id":"0e6759fd1f10d531","type":"file","file":"7 - Bestiary/Beasts/Giant Animals/Giant Hyena.md","x":0,"y":420,"width":400,"height":400},
-		{"id":"7d415bac6ff949d9","type":"file","file":"7 - Bestiary/Monstrosities/Cockatrice.md","x":440,"y":0,"width":400,"height":400},
-		{"id":"903012f6ea6aa9e2","type":"text","text":"3 cockatrices","x":515,"y":420,"width":250,"height":60},
-		{"id":"96b04309876b6a10","type":"text","text":"1 gnoll pack lord with 3 giant hyenas","x":38,"y":840,"width":324,"height":80},
-		{"id":"cd48962798306e42","type":"file","file":"7 - Bestiary/Giants/Ogre.md","x":880,"y":0,"width":400,"height":400},
-		{"id":"3d9e938ae6351a12","type":"text","text":"1 ogre","x":955,"y":420,"width":250,"height":60},
-		{"id":"7fafd4ab4b91216b","type":"file","file":"7 - Bestiary/Humanoids/Shapechangers/Weretiger.md","x":0,"y":1120,"width":400,"height":400},
-		{"id":"9052b98d737c2171","type":"file","file":"7 - Bestiary/Beasts/Animals/Mammal/Brown Bear.md","x":440,"y":1120,"width":400,"height":400},
-		{"id":"adecd06b5cc7bc01","type":"text","text":"A lost, weeping child. If the characters take the child home, the parents reward them with 3 [[Potion of Healing|potions of healing]].\n\nWood Elf family\nElena Bennett needs help finding her parents, Isabella and Nathaniel\n","x":880,"y":1118,"width":400,"height":402}
+		{"id":"cd48962798306e42","type":"file","file":"7 - Bestiary/Giants/Ogre.md","x":0,"y":0,"width":1280,"height":840},
+		{"id":"3d9e938ae6351a12","type":"text","text":"1 ogre","x":515,"y":880,"width":250,"height":60},
+		{"id":"9052b98d737c2171","type":"file","file":"7 - Bestiary/Beasts/Animals/Mammal/Brown Bear.md","x":0,"y":1120,"width":920,"height":940},
+		{"id":"adecd06b5cc7bc01","type":"text","text":"A lost, weeping child. If the characters take the child home, the parents reward them with 3 [[Potion of Healing|potions of healing]].\n\nWood Elf family\nElena Bennett needs help finding her parents, Isabella and Nathaniel\n","x":940,"y":1118,"width":440,"height":242}
 	],
 	"edges":[
-		{"id":"bb95e82b9e96f945","fromNode":"7d415bac6ff949d9","fromSide":"bottom","toNode":"903012f6ea6aa9e2","toSide":"top"},
-		{"id":"a1d2abbf8ee51172","fromNode":"0e6759fd1f10d531","fromSide":"bottom","toNode":"96b04309876b6a10","toSide":"top"}
+		{"id":"2154b7a3411a424b","fromNode":"cd48962798306e42","fromSide":"bottom","toNode":"3d9e938ae6351a12","toSide":"top"}
 	]
 }

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5afc6ec376ae4d68",
+            "id": "0a32d631b32b1fb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Bestiary/Humanoids/Lizardfolk/Lizardfolk.md",
+                "file": "B - NPCs/Deities/A-C/Akadi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "52731f734865d96f",
+            "id": "1347fd249779457b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - Magic & Tech/Magic Items/Items/Wondrous Items/Lantern of Tracking.md",
+                "file": "B - NPCs/Deities/D-G/Eubuleus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "a22ffe1582d4fe7b",
+            "id": "588a20f2c36ef975",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Overview/- Rules.md",
+                "file": "3 - Geography/Mysterra/2 - The Midlands/Iliova/Trivan/Trivan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "1bd8240a9c87768e",
+            "id": "02e8a18a404a65e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Bestiary/Creature Types.md",
+                "file": "4 - History/Calendar/Calendar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,77 +60,12 @@
             }
           },
           {
-            "id": "8f55e663edf0050d",
+            "id": "d2a97c2a1d59cc7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faerie Dragon.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bd3f7d8cab6991b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Bestiary/Monstrosities/Abominable Yeti.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "186adb9857b6405a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Bestiary/Aberrations/Beholder.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b6395b293dbee38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slaad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7d9f93e96baa6db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Bestiary/Aberrations/Aboleth.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "896f08f0b88f37a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Bestiary/Humanoids/Shapechangers/Wereboar.md",
+                "file": "3 - Geography/Mysterra/The Midlands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:abol",
+                "query": "file:mesi",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -204,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slaad.md"
+                "file": "3 - Geography/Mysterra/The Midlands.md"
               }
             }
           },
@@ -225,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Slaad.md"
+                "file": "3 - Geography/Mysterra/The Midlands.md"
               }
             }
           },
@@ -235,13 +170,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slaad.md",
+                "file": "3 - Geography/Mysterra/The Midlands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -252,8 +187,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slaad.md",
-                "linksCollapsed": false,
+                "file": "3 - Geography/Mysterra/The Midlands.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -283,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,37 +233,39 @@
       "templates:Insert template": false
     }
   },
-  "active": "0b6395b293dbee38",
+  "active": "d2a97c2a1d59cc7b",
   "lastOpenFiles": [
-    "7 - Bestiary/Aberrations/Beholder.md",
-    "Slaad.md",
-    "7 - Bestiary/Monstrosities/Abominable Yeti.md",
-    "7 - Bestiary/Aberrations/Aboleth.md",
-    "7 - Bestiary/Fiends/Other/Werevulture.md",
-    "Faerie Dragon.md",
-    "7 - Bestiary/Humanoids/Aarakocra.md",
-    "7 - Bestiary/Creature Types.md",
-    "7 - Bestiary/Undead/Undead.md",
-    "7 - Bestiary/Constructs/Construct.md",
-    "7 - Bestiary/Plants/Plant.md",
-    "7 - Bestiary/Oozes/Ooze.md",
-    "Minotaur.md",
-    "7 - Bestiary/Monstrosities/Monstrosity.md",
-    "7 - Bestiary/Beasts/Animals/Aquatic/Octopus.md",
-    "8 - Magic & Tech/Magic Items/Items/Wondrous Items/Lantern of Tracking.md",
-    "7 - Bestiary/Humanoids/Humanoid.md",
-    "7 - Bestiary/Humanoids/Shapechangers/Wereboar.md",
-    "7 - Bestiary/Giants/Giant.md",
-    "7 - Bestiary/Fiends/Fiend.md",
-    "7 - Bestiary/Humanoids/Lizardfolk/Lizardfolk.md",
-    "8 - Magic & Tech/Spells/3rd-level/Wind Wall.md",
-    "4 - History/Calendar/Eras/E1 - Foundation.md",
-    "1 - Cosmology/Planes/Innermost Planes/Faerie/Faerie.md",
+    "3 - Geography/Mysterra/2 - The Midlands/Mesigi/Mesigi.md",
+    "3 - Geography/Mysterra/2 - The Midlands/Iliova/Trivan/Trivan.md",
+    "3 - Geography/Mysterra/2 - The Midlands/Iliova/Trivan/Skyhaven.md",
+    "B - NPCs/Deities/D-G/Eubuleus.md",
+    "B - NPCs/Deities/A-C/Akadi.md",
+    "0 - Overview/Templates/Deity Template.md",
+    "7 - Bestiary/Fey/Blink Dog.md",
+    "2 - Religion/Pantheons/Mysterran Pantheon.md",
+    "3 - Geography/Mysterra/2 - The Midlands/Iliova/Trivan/Solcrista.md",
+    "A - PCs/The Party.md",
+    "4 - History/Calendar/Calendar.md",
+    "3 - Geography/Mysterra/The Midlands.md",
+    "3 - Geography/Mysterra/2 - The Midlands/Iliova/Iliova.md",
     "0 - Overview/- Rules.md",
-    "8 - Magic & Tech/Spells/1st-level/Sleep.md",
-    "C - Session Planning/Session 5.canvas",
-    "C - Session Planning/Lumina Thicket Dungeon.canvas",
+    "2 - Religion/Pantheons/Derro Pantheon.md",
+    "5 - Factions/Political Factions/Dragonmarked Houses/House Kundarak.md",
+    "5 - Factions/Political Factions/Dragonmarked Houses/House Ghallanda.md",
+    "5 - Factions/Political Factions/Dragonmarked Houses/House Deneith.md",
+    "5 - Factions/Political Factions/Dragonmarked Houses/House Cannith.md",
+    "5 - Factions/Political Factions/Dragonmarked Houses/Heirs of Siberys.md",
+    "2 - Religion/Pantheons/Halfling Pantheon.md",
+    "B - NPCs/Deities/L-O/Myrkul.md",
+    "3 - Geography/Mysterra.md",
+    "C - Session Planning/Session 7.canvas",
     "C - Session Planning/Random Encounters.canvas",
+    "C - Session Planning/Lumina Thicket Dungeon.canvas",
+    "8 - Magic & Tech/Supernatural/Curses/Zoothrophy.md",
+    "0 - Overview/D&D Content Checklist.md",
+    "1 - Cosmology/Planes/Inner Planes/Elemental Planes/Quasi-Elemental Planes/Plane of Ash.md",
+    "7 - Bestiary/Beasts/Animals/Reptile/Dinosaur",
+    "0 - Overview/Conditions",
     "8 - Magic & Tech/Mundane Items/Tools",
     "8 - Magic & Tech/Feats/Boons",
     "8 - Magic & Tech/Boons",
@@ -336,8 +274,6 @@
     "8 - Magic & Tech/Supernatural/Charms",
     "8 - Magic & Tech/Supernatural",
     "8 - Magic & Tech/Supernatural",
-    "5 - Factions/Guilds/Scholastic Guilds",
-    "5 - Factions/Guilds/Performers Guilds",
     "Pasted image 20240304022657.png",
     "Yawning_Portal_plan_HoU.webp",
     "Pasted image 20240303112729.png",

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"38f5799b87103ca7","x":-700,"y":-320,"width":320,"height":60,"type":"text","text":"Fern learning Halfling (2/7)"},
+		{"id":"1a2396f485d6be48","x":-700,"y":-240,"width":417,"height":60,"type":"text","text":"Cynthia learning poisoner's kit (2/10)"},
+		{"id":"b6343d1bfd84a461","x":-702,"y":-160,"width":645,"height":149,"type":"text","text":"Jethro banned from library\nA cultist of the Church of Myrkul, an underground church due to his being dreaded more than worhiped, approaches Jethro as he works for the Church of Sheela. "},
+		{"id":"cd56b1149e47313b","x":-704,"y":5,"width":647,"height":95,"type":"text","text":"Xarrias is bested in Athletics, Acrobatics, and Constitution.\nXarrias performs his research on green hags."}
+	],
+	"edges":[]
+}

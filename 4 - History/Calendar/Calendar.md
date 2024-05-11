@@ -6,14 +6,14 @@ tags:
 The date format of the Mysterran calendar is **E.YYYY.MM.DD** (e.g. 7.998.04.03), or **E#, Y####, DDth of Month** (e.g. E7 Y998, 4th of Ingrea).
 ### Eras
 The eras of Mysterra are divided by formative events such as creation events, extinction events, great wars, or other events that might be a significant point in time. The Mysterran history is divided into the following eras:
-- [[E0 - Genesis]], the creation of the [[Inner Planes|Inner Planes]] by [[the All-Creator]].
-- [[E1 - Foundation]], the Inner Planes are populated with the [[Ancient Races|Ancient Races]] and deities.
-- [[E2 - Emergence]], the [[Outer Planes|Outer Planes]] emerge from the ethics and morals of the Multiverse's inhabitants.
-- [[E3 - Sundering]], the [[Initium]] is trisected into the [[Faerie|Faeri]], the [[Prime|Prime]] and the [[Umbra|Shadow]].
-- [[E4 - Weaving]], the goddess [[Mystra]] forms the [[- Magic|The Weave]], the threads that powers all magic.
-- [[E5 - Bestowal]], Mystra grants magical access to the [[Creator Races|Creator Races]], allowing incredible societal advancements. 
-- [[E6 - Shattering]], 
-- [[E7 - Prosperity]], 
+- [[E0 - Genesis]], (ended E0.Y???) the creation of the [[Inner Planes|Inner Planes]] by [[the All-Creator]].
+- [[E1 - Foundation]], (ended E1.Y650,621,757) the Inner Planes are populated with the [[Ancient Races|Ancient Races]] and deities.
+- [[E2 - Emergence]], (ended E2.Y35,149,307) the [[Outer Planes|Outer Planes]] emerge from the ethics and morals of the Multiverse's inhabitants.
+- [[E3 - Sundering]], (ended E3.Y5,634,705) the [[Initium]] is trisected into the [[Faerie|Faeri]], the [[Prime|Prime]] and the [[Umbra|Shadow]].
+- [[E4 - Weaving]], (ended E4.Y474,785) the goddess [[Mystra]] forms the [[- Magic|The Weave]], the threads that powers all magic.
+- [[E5 - Bestowal]], (ended E5.Y93,128) Mystra grants magical access to the [[Creator Races|Creator Races]], allowing incredible societal advancements. 
+- [[E6 - Shattering]], (ended E6.Y4606)
+- [[E7 - Prosperity]], (current year, E7.Y998)
 ### Years
 The years of an era are not set in stone - there is no rule to how long an era must last, for they are dictated by cataclysmic events. An era can last anywhere from a moment to an eternity. Years have 360 days each.
 ### Moones

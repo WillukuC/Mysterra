@@ -3,7 +3,7 @@
 | Stat           | Value                                                                                         |
 | -------------- | --------------------------------------------------------------------------------------------- |
 | AC             | 14                                                                                            |
-| HP             | 39 (10d8 + 12)                                                                                 |
+| HP             | 39 (10d8 + 12)                                                                                |
 | Speed          | 30 ft., climb 30 ft., swim 30 ft.                                                             |
 | Skills         | Stealth +8, Survival +6                                                                       |
 | Damage Res.    | poison, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks                 |
@@ -28,4 +28,4 @@ The Rot Avatar can climb difficult surfaces, including upside down on ceilings, 
 _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. 
 _Hit:_ 14 (2d10 + 3) bludgeoning damage and 9 (2d8) necrotic damage.
 #### Cause Decay (Recharge 5-6)
-The Rot Avatar exhales mold spores in a 30-foot cone. Each creature in that area must make a DC 14 Constiturion saving throw, taking 14 (4d6) necrotic damage and 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+The Rot Avatar exhales mold spores in a 30-foot cone. Each creature in that area must make a DC 14 Constiturion saving throw, taking 14 (3d6) necrotic damage and 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.

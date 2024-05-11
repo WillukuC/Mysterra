@@ -2,7 +2,8 @@
 | **Title(s)**             |     |
 | ------------------------ | --- |
 | **Adjective(s)**         |     |
-| **Pantheon**             |     |
+| **Aspect(s)**            |     |
+| **Pantheon(s)**          |     |
 | **Gender**               |     |
 | **Power level**          |     |
 | **Alignment**            |     |
@@ -30,6 +31,15 @@ Locations, temples, or shrines dedicated to the worship of the deity.
 Deities or entities allied with or opposed to the deity, including any rivalries or conflicts.
 ## Avatar/Manifestation
 Ways in which the deity interacts with mortals, such as through avatars or manifestations.
+### Manifestations
+| Manifestations       | Favored |
+| -------------------- | ------- |
+| **Favored animals**  |         |
+| **Favored plants**   |         |
+| **Favored monsters** |         |
+| **Favored minerals** |         |
+| **Favored colors**   |         |
+| **Miscellaneous**    |         |
 ## Artifacts and Relics
 Any legendary items or artifacts associated with the deity.
 ## Followers

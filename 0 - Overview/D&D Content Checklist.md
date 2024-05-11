@@ -331,12 +331,12 @@
 			- [ ] Spells
 		- [ ] Dungeon Master's Guide
 			- [ ] The Planes (p43)
-				- [ ] Astral Plane
-				- [ ] Ethereal Plane
+				- [x] Astral Plane
+				- [x] Ethereal Plane
 				- [x] Feywild
-				- [ ] Shadowfell
+				- [x] Shadowfell
 				- [ ] Inner Planes
-					- [ ] Elemental Chaos
+					- [x] Elemental Chaos
 					- [ ] Plane of Air
 					- [ ] Plane of Earth
 					- [ ] Plane of Fire

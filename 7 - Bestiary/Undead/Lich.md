@@ -34,7 +34,7 @@ The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence 
 >*1st level (4 slots):* [[Detect Magic|detect magic]], [[Magic Missile|magic missile]], [[Shield (spell)|shield]], [[Thunderwave|thunderwave]]
 >*2nd level (3 slots):* [[detect thoughts]], [[invisibility]], [[Melf's Acid Arrow|Melf's acid arrow]], [[mirror image]]
 >*3rd level (3 slots):* [[Animate Dead|animate dead]], [[Counterspell|counterspell]], [[dispel magic]], [[Fireball|fireball]]
->*4th level (3 slots):* [[8 - Magic & Tech/Spells/4th-level/Blight|blight]], [[Dimension Door|dimension door]]
+>*4th level (3 slots):* [[Blight (spell)|blight]], [[Dimension Door|dimension door]]
 >*5th level (3 slots):* [[Cloudkill|cloudkill]], [[Scrying|scrying]]
 >*6th level (1 slot):* [[Disintegrate|disintegrate]], [[Globe of Invulnerability|globe of invulnerability]]
 >*7th level (1 slot):* [[Finger of Death|finger of death]], [[plane shift]]

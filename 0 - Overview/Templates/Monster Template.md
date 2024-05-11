@@ -19,7 +19,7 @@ Typical habitats or environments where the creature can be found.
 Information about the creature's place in the ecosystem and any interactions with other creatures or environments.
 ## Lore
 Any myths, legends, or cultural beliefs surrounding the creature.
-###### Monster Knowledge Check
+## Stats
 | **DC** | **Info gained**                           |
 | ------ | ----------------------------------------- |
 | 15     | Name, type, senses                        |
@@ -27,7 +27,6 @@ Any myths, legends, or cultural beliefs surrounding the creature.
 | 25     | Resistances, vulnerabilities              |
 | +5     | Legendary, Lair Actions, Regional Effects |
 | +10    | Mythic                                    |
-## Stats
 ###### *Size type, alignment*
 | Stat           | Value |
 | -------------- | ----- |

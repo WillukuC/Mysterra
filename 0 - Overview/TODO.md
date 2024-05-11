@@ -1,3 +1,15 @@
+- [ ] Lady of Pain is an aspect of the All-Maker
+	- [ ] Delegated Ao to Realmspace, etc. to other crystal spheres
+- [ ] The Red Knight LOVES games, will harrass the party every month for a game
+	- [ ] Chess (like in Harry Potter)
+	- [ ] Dragonchess
+	- [ ] Three-Dragon Ante
+	- [ ] Fuckin uhhh Magic the Gathering lmfao (Green-White deck)
+		- [ ] 26 land
+		- [ ] 4 enchantments
+		- [ ] 2 sorceries
+		- [ ] 4 instants
+		- [ ] 24 creatures
 - [ ] Dragonmarks, Holy Marks
 - [ ] Time of Troubles (Forced the gods to roam the earth as their avatars)
 - [ ] Artifacts

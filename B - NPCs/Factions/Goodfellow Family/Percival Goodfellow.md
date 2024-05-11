@@ -35,7 +35,7 @@ Whenever Percival or a friendly creature within 10ft. of him makes a saving thro
 Percival is a 3rd-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +6 to hit with spell attacks). Percival has the following paladin spells prepared:
 >[!info] Spells
 >*Cantrips:* [[Light (spell)|light]], [[guidance]]
->*1st level (4 slots):* compelled duel, heroism, protection from evil and good, sanctuary, searing smite, shield of faith
+>*1st level (4 slots):* compelled duel, heroism, [[protection from evil and good]], sanctuary, searing smite, shield of faith
 >*2nd level (2 slots):* [[find steed]], gentle repose, lesser restoration, zone of truth
 ### Actions
 #### Multiattack

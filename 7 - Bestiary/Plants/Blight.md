@@ -50,8 +50,7 @@ Legends tell of a vampire named Gulthias who worked terrible magic and raised up
 | 25     | Resistances, vulnerabilities              |
 | +5     | Legendary, Lair Actions, Regional Effects |
 | +10    | Mythic                                    |
-## Stats
-### Twig Blight
+## Twig Blight
 ###### *Small [[plant]], neutral evil*
 | Stat           | Value                                                              |
 | -------------- | ------------------------------------------------------------------ |
@@ -69,11 +68,11 @@ Legends tell of a vampire named Gulthias who worked terrible magic and raised up
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |  6  | 13  | 12  |  4  |  8  |  3  |
 | -2  | +1  | +1  | -3  | -1  | -4  |
-#### Passives
-##### False Appearance
+### Passives
+#### False Appearance
 While the blight remains motionless, it is indistinguishable from a dead shrub.
-#### Actions
-##### Claws
+### Actions
+#### Claws
 _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. 
 _Hit:_ 3 (1d4 + 1) piercing damage.
 ### Needle Blight

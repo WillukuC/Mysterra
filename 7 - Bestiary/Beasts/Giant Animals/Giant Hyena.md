@@ -25,13 +25,3 @@ When the hyena reduces a creature to 0 hit points with a melee attack on its tur
 #### Bite
 *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. 
 *Hit:* 10 (2d6 + 3) piercing damage.
-### Bonus Actions
-#### BA.1
-### Reactions
-#### R.1
-### Legendary  Actions
-#### LeA.1
-### Mythic Actions
-#### MA.1
-### Lair Actions
-#### LaA.1

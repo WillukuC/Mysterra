@@ -1,4 +1,11 @@
 ## Stats
+| **DC** | **Info gained**                           |
+| ------ | ----------------------------------------- |
+| 15     | Name, type, senses                        |
+| 20     | Powers                                    |
+| 25     | Resistances, vulnerabilities              |
+| +5     | Legendary, Lair Actions, Regional Effects |
+| +10    | Mythic                                    |
 ###### *Size type, alignment*
 | Stat           | Value |
 | -------------- | ----- |

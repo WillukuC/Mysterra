@@ -53,22 +53,22 @@ Monster Knowledge: No action required—either you know the answer or you don’
 | [[Beast]]        | Animal Handling, Nature, Survival |
 | [[Celestial]]    | Arcana, Religion                  |
 | [[Construct]]    | Arcana                            |
-| [[Dragon]]           | Arcana, History, Nature           |
-| [[Elemental]]        | Arcana, Nature                    |
-| [[Fey]]              | Arcana, Nature                    |
-| [[Fiend]]            | Arcana, Religion                  |
-| [[Giant]]            | History                           |
-| [[Humanoid]]         | History                           |
-| [[Monstrosity]]      | Nature, Survival                  |
-| [[Ooze]]             | Arcana, Survival                  |
-| [[Plant]]            | Nature, Survival                  |
-| [[Undead]]           | Arcana, Religion                  |
+| [[Dragon]]       | Arcana, History, Nature           |
+| [[Elemental]]    | Arcana, Nature                    |
+| [[Fey]]          | Arcana, Nature                    |
+| [[Fiend]]        | Arcana, Religion                  |
+| [[Giant]]        | History                           |
+| [[Humanoid]]     | History                           |
+| [[Monstrosity]]  | Nature, Survival                  |
+| [[Ooze]]         | Arcana, Survival                  |
+| [[Plant]]        | Nature, Survival                  |
+| [[Undead]]       | Arcana, Religion                  |
 ### Auto-Crit
 If an attack roll exceeds the AC by 10 or more, the hit is an automatic critical hit.
 For example, Cynthia the Barbarian rolls a 19 on the d20 when attacking a Goblin. With a +6 to hit, the resulting roll is a 25, which is 10 more than the Goblin's AC of 15. This results in a critical hit.
 ### Universal Spell Scrolls
 All spell scrolls can be read by any class, provided they pass the required Intelligence (Arcana) for Arcane spells, Wisdom (Religion) for Divine spells, or Wisdom (Nature) check for Primal spells. The DC is 10 + level of the spell scroll. 
-For example, a Sorcerer who wants to use a Wall of Force spell scroll must make a pass a DC 15 Intelligence (Arcana) check, and a Barbarian who wants to use a Dawn spell scroll must make either a DC 15 Intelligence (Arcana) check or a DC 15 Wisdom (Religion) check.
+For example, a Sorcerer who wants to use a Wall of Force spell scroll must make a pass a DC 15 Intelligence (Arcana) check, and a Barbarian who wants to use a [[Dawn (spell)|Dawn]] spell scroll must make either a DC 15 Intelligence (Arcana) check or a DC 15 Wisdom (Religion) check.
 ### Fast Short Rests
 Short rests last only 30 minutes, but can only be taken up to 2 times per long rest. 
 ### Divine Magic in Dead Magic Zones

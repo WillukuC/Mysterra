@@ -18,10 +18,10 @@
 | [[Sunburst]]                             | Druid         | 500 gp per casting                            | Dispelling magical darkness                                            |
 | [[Control Weather]]                      | Druid         | 550 gp per casting                            | Providing a specific weather services to farmers                       |
 ###### Natura Vitalia Ranks
-| Rank | Requirements | Reward |
-| ---- | ---- | ---- |
-| Seedling | 0 renown | Faction insignia: Sunleaf Pendant |
-| Sapling | 3 renown | Training: herbalism kit, woodcarver's tools |
-| Greenhand | 10 renown<br>5th level<br>1 mission |  |
-| Grovekeeper | 25 renown<br>11th level<br>3 missions |  |
-| Arbormaster | 50 renown<br>17th level<br>10 missions |  |
+| Rank        | Requirements                           | Reward                                      |
+| ----------- | -------------------------------------- | ------------------------------------------- |
+| Seedling    | 0 renown                               | Faction insignia: Sunleaf Pendant           |
+| Sapling     | 3 renown                               | Training: herbalism kit, woodcarver's tools |
+| Greenhand   | 10 renown<br>5th level<br>1 mission    |                                             |
+| Grovekeeper | 25 renown<br>11th level<br>3 missions  |                                             |
+| Arbormaster | 50 renown<br>17th level<br>10 missions |                                             |

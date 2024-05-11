@@ -40,6 +40,8 @@ Mountain dwarf, captain of the Oaksborough guards.
 Halfling boy who would hunt and spar regularly with Xarrias
 ## Jasmine
 Elven priestess of the [[Church of Chauntea]].
+## Church of Helm
+Xarrias currently has 2 unused favors garnered from the church during religious service
 # Planned Plot Points
 ## As above, so below
 ## Session 0: Armanite Carnage

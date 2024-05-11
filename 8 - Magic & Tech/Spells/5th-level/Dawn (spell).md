@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - dawn
 tags:
   - Magic/Spell/School/Evocation
   - Magic/Spell/Level/5th

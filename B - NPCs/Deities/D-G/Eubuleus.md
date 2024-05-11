@@ -23,9 +23,10 @@ He is the son of the Greek goddess of agriculture, [[Demeter]], and the Greek de
 Offerings of grain, fruits, and other agricultural produce are made to Eubouleus as expressions of gratitude and reverence for the earth's bounty. These offerings are often placed on altars or offered directly to the soil.
 ## Allies and Enemies
 ### Allies
-[[Chauntea]], [[Demeter]], [[Triptolemus]]
+[[Chauntea]] and [[Sheela Peryroyl]] are allies of Eubuleus, due to sharing a domain together of tamed nature.
+[[Demeter]], [[Triptolemus]], and [[Persephone]] are all direct family members of Eubuleus.
 ### Enemies
-[[Hades]], [[Nergal]], [[Auril]]
+Eubuleus holds a minor grudge towards [[Hades]], because when he opened up the earth to kidnap Persephone, Eubuleus' boars were also taken as unfortunate collateral. [[Myrkul]], god of decay, and [[Auril]], goddess of winter.
 ## Avatar/Manifestation
 Eubuleus appears on [[Mysterra]] as a [[humanoid]] by the same name, working as the counsellor for both [[Natura Vitalia]] and the [[Church of Chauntea]] in [[Solcrista]].
 ### Manifestations
@@ -33,7 +34,7 @@ Eubuleus appears on [[Mysterra]] as a [[humanoid]] by the same name, working as 
 | -------------------- | ------------------------------------------------------ |
 | **Favored animals**  | Swine                                                  |
 | **Favored plants**   | Wheat<br>Barley                                        |
-| **Favored monsters** | Treants<br>Satyrs                                      |
+| **Favored monsters** | [[Treant\|Treants]]<br>[[Satyr\|Satyrs]]               |
 | **Favored minerals** | Salt<br>Quartz                                         |
 | **Favored colors**   | Earthy Tones<br>Green                                  |
 | **Miscellaneous**    | Spontaneous growth of crops<br>Abundance of wild herbs |
@@ -62,7 +63,7 @@ Eubouleus can add 1d4 to any saving throw, ability check, or attack roll he make
 #### Spellcasting
 Eubouleus is a 5th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Eubouleus has the following druid spells prepared:
 >[!info] Spells
->*Cantrips (at will):* [[druidcraft]], [[guidance]], [[produce flame]]
+>*Cantrips (at will):* [[druidcraft]], [[fire bolt]], [[guidance]], [[produce flame]]
 >*1st level (4 slots):* [[entangle]], [[goodberry]], [[speak with animals]]
 >*2nd level (3 slots):* [[animal messenger]], [[healing spirit]], [[protection from poison]]
 >*3rd level (2 slots):* [[conjure animals]] (8 boars, 8 space swine, or 1 giant boar), [[speak with plants]]

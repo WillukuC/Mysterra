@@ -31,7 +31,7 @@ As an action, you can summon two bearded devils. The summoned devils appear in u
 
 Once used three times, the charm vanishes from you.
 ### Charm of the Fool
-You can cast Major Image, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). When you cast the spell in this way, it lasts its full duration with no concentration required. 
+You can cast [[Major Image]], requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). When you cast the spell in this way, it lasts its full duration with no concentration required. 
 
 Once used three times, the charm vanishes from you.
 ### Charm of the Gem

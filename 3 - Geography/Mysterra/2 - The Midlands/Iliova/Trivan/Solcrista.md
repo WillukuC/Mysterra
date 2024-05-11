@@ -1,11 +1,11 @@
 ## Inextinguishable Light
-| Country       | [[Trivan]]                                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------ |
-| Capital       | Solcrista                                                                                              |
-| Demonym       | Solcristan                                                                                             |
-| Ruler         | Duke Constans d'Orien                                                                                  |
-| Population    | 21500                                                                                                  |
-| Power Centers | [[Iliovan Merchants' Guild]] (Harvesters' Consortium)<br>[[Natura Vitalia]]<br>[[Church of Lathander]] |
+| Country       | [[Trivan]]                                                                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Capital       | Solcrista                                                                                                                                              |
+| Demonym       | Solcristan                                                                                                                                             |
+| Ruler         | Duke Constans d'Orien                                                                                                                                  |
+| Population    | 21500                                                                                                                                                  |
+| Power Centers | [[Trivanese Merchants' Guild]] (Harvesters' Consortium)<br>[[Natura Vitalia]]<br>[[Church of Lathander]]<br>[[Church of Helm]]<br>[[Church of Sheela]] |
 The duchy of Solcrista is located in the center of Trivan. Its capital city is Solcrista.
 ## History
 ## Government
@@ -68,23 +68,24 @@ This female elven clothier's sells every set of light armor available, plus a fe
 #### Glenrosa's Ointments
 Male halfling owns the apothecary.
 ###### Glenrosa's Ointments
-| Potion | Cost |
-| ---- | ---: |
-| Healer's Kit | 5 gp |
-| [[Potion of Healing]] | 50 gp |
-| Potion of Poison | 100 gp |
-| Elixir of Health | 120 gp |
-| Potion of Greater Healing | 150 gp |
-| Potion of Water Breathing | 180 gp |
-| Potion of Resistance | 300 gp |
-| Potion of Superior Healing | 450 gp |
-| Potion of Vitality | 960 gp |
-| Potion of Supreme Healing | 1350 gp |
-| Potion of Longevity | 9000 gp |
+| Potion                     |    Cost |
+| -------------------------- | ------: |
+| Healer's Kit               |    5 gp |
+| [[Potion of Healing]]      |   50 gp |
+| Potion of Poison           |  100 gp |
+| Elixir of Health           |  120 gp |
+| Potion of Greater Healing  |  150 gp |
+| Potion of Water Breathing  |  180 gp |
+| Potion of Resistance       |  300 gp |
+| Potion of Superior Healing |  450 gp |
+| Potion of Vitality         |  960 gp |
+| Potion of Supreme Healing  | 1350 gp |
+| Potion of Longevity        | 9000 gp |
 #### Morgenhall
 This large ornate cathedral, atop which sit the intimidating statues of phoenixes, is the primary place of worship for for the [[Lathander|Morninglord]] in Solcrista City. The central tower, also the tallest, features large stained glass depictions of Lathander standing in front of a sunrise of pink, red and yellow. The depiction is placed in such a way that when the sun rises, the image is projected onto the stone stairs leading up to the large doors.
 #### Vigilance
 Along the castle wall, a temple of [[Helm]] doubles as a barracks. The city of Solcrista employs the services of the church, which includes training new guards and serving as a city defense unit.
+Amelina, a Shadar-kai Cleric of Helm, works there.
 #### Tuinveld
 An open-roofed temple, appearing to be woven into a grassy hill at the center of Solcrista, is a construction of earth, carefully balanced stone, vines and living plants. Interior rooms overflow with plant and animal life, constructed in a way that allows streams to meander through the courtyard. Breezes and sunlight bathe every chamber.
 #### Vitalia Orchard
@@ -93,6 +94,7 @@ Next to the Tuinveld is a seemingly impossible orchard in a sunny part of town, 
 Owned by a talkative male halfling
 #### Warehouses
 In the downtown of the city there's the Warehouse district full of grain silos and storehouses full of grains, produce and livestock that was brought to Solcrista by the surrounding lands. 
+#### Uptown Solcrista
 ## Economy
 Solcrista's primary economic growth factor is its vast farmlands, making it a hub of agricultural activity.
 ###### Exports
