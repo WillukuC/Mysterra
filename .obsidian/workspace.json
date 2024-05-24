@@ -47,7 +47,20 @@
             }
           },
           {
-            "id": "02e8a18a404a65e8",
+            "id": "d2a97c2a1d59cc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Geography/Mysterra/The Midlands.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "680cb5bd15d245cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,20 +73,22 @@
             }
           },
           {
-            "id": "d2a97c2a1d59cc7b",
+            "id": "46f3a76d79893f37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "3 - Geography/Mysterra/The Midlands.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Spelljammer.canvas",
+                "viewState": {
+                  "x": 221.5,
+                  "y": 89,
+                  "zoom": 0
+                }
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Geography/Mysterra/The Midlands.md"
+                "file": "Spelljammer.canvas"
               }
             }
           },
@@ -160,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3 - Geography/Mysterra/The Midlands.md"
+                "file": "Spelljammer.canvas"
               }
             }
           },
@@ -170,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Geography/Mysterra/The Midlands.md",
+                "file": "Spelljammer.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Geography/Mysterra/The Midlands.md",
+                "file": "Spelljammer.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -233,8 +248,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "d2a97c2a1d59cc7b",
+  "active": "46f3a76d79893f37",
   "lastOpenFiles": [
+    "4 - History/Calendar/Calendar.md",
+    "1 - Cosmology/Crystal Spheres/Mystspace/Mystspace.md",
+    "3 - Geography/Mysterra.md",
+    "Spelljammer.canvas",
+    "3 - Geography/Mysterra/The Midlands.md",
     "3 - Geography/Mysterra/2 - The Midlands/Mesigi/Mesigi.md",
     "3 - Geography/Mysterra/2 - The Midlands/Iliova/Trivan/Trivan.md",
     "3 - Geography/Mysterra/2 - The Midlands/Iliova/Trivan/Skyhaven.md",
@@ -245,8 +265,6 @@
     "2 - Religion/Pantheons/Mysterran Pantheon.md",
     "3 - Geography/Mysterra/2 - The Midlands/Iliova/Trivan/Solcrista.md",
     "A - PCs/The Party.md",
-    "4 - History/Calendar/Calendar.md",
-    "3 - Geography/Mysterra/The Midlands.md",
     "3 - Geography/Mysterra/2 - The Midlands/Iliova/Iliova.md",
     "0 - Overview/- Rules.md",
     "2 - Religion/Pantheons/Derro Pantheon.md",
@@ -257,13 +275,11 @@
     "5 - Factions/Political Factions/Dragonmarked Houses/Heirs of Siberys.md",
     "2 - Religion/Pantheons/Halfling Pantheon.md",
     "B - NPCs/Deities/L-O/Myrkul.md",
-    "3 - Geography/Mysterra.md",
     "C - Session Planning/Session 7.canvas",
     "C - Session Planning/Random Encounters.canvas",
     "C - Session Planning/Lumina Thicket Dungeon.canvas",
     "8 - Magic & Tech/Supernatural/Curses/Zoothrophy.md",
     "0 - Overview/D&D Content Checklist.md",
-    "1 - Cosmology/Planes/Inner Planes/Elemental Planes/Quasi-Elemental Planes/Plane of Ash.md",
     "7 - Bestiary/Beasts/Animals/Reptile/Dinosaur",
     "0 - Overview/Conditions",
     "8 - Magic & Tech/Mundane Items/Tools",
